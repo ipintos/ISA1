@@ -11,7 +11,7 @@ Entrega final 19 de noviembre => 19-nov
 
 # Historias de usuario:
 
-## 1:
+### 1:
 Como usuario
 Quiero registrarme para recibir las dosis restantes en algún vacunatorio viendo los horarios disponibles.
 Para poder recibir mis vacunas.
@@ -25,7 +25,7 @@ Una muestra de 5 personas seleccionadas al azar debe ser capaz de agendarse sin 
 Ningún otro usuario además de quien hace la reserva debe ver sus datos personales.
 La funcionalidad cuenta con una interfaz andriod y iOS
 
-## 2:
+### 2:
 
 Como Usuario
 Quiero poder ver las métricas de avance de la enfermedad
@@ -39,7 +39,7 @@ Las gráficas deben cargar en menos de 10 segundos.
 Una muestra de 5 personas seleccionadas al azar debe ser capaz de llegar a las gráficas sin recibir ayuda externa en menos de 1 minuto.
 La funcionalidad cuenta con una interfaz andriod y iOS
 
-## 3:
+### 3:
 
 Como Usuario
 Quiero saber si los síntomas que tengo se corresponden a los del covid
@@ -53,7 +53,7 @@ Una muestra de 5 personas seleccionadas al azar debe ser capaz de llegar a una r
 Siempre se recomienda una acción para cada caso.
 La funcionalidad cuenta con una interfaz andriod y iOS
 
-## 4:
+### 4:
 
 Como usuario
 Quiero saber si estuve expuesto al virus del covid
@@ -66,7 +66,7 @@ Criterios de aceptación:
 La funcionalidad tiene que funcionar en dispositivos android y iOS equipados con bluetooth v4.0 o superior.
 Una muestra de 5 personas seleccionadas al azar debe ser capaz de decir que entendió los pasos que se le sugieren.
 
-## 5:
+### 5:
 
 Como usuario
 Quiero poder iniciar sesión en la aplicación de manera segura.
