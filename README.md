@@ -111,7 +111,7 @@ Debe especificarse una manera de obtener el usuario y contraseña.
 
 Debe haber contingencias para aquellas personas que no tengan celular y/o no entiendan el uso del mismo.
 
-# épicas:
+# Épicas:
 
 Como administrador quiero que todos los usuarios tengan acceso a la aplicación.
 
