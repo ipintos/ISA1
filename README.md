@@ -320,8 +320,7 @@ Los usuarios registrados deben poder navegar la aplicación y todas sus caracter
 #### Criterios de aceptación:
  
 La aplicación debe ser usada por un usuario sin conocimientos previos del sistema y el mismo debe poder completar las historias de usuario.
- 
- 
+  
  
 ### 20:
  
@@ -336,3 +335,12 @@ Los usuarios registrados que pertenezcan a un grupo prioritario deben poder ser 
 #### Criterios de aceptación:
  
 Los usuarios deben ser tratados como prioritarios en caso que así estén registrados en el BPS.
+
+
+# Épicas:
+
+Como administrador quiero que todos los usuarios tengan acceso a la aplicación.
+
+Como administrador quiero asegurarme de que los usuarios pueden sacarse las dudas que tengan respecto del coronavirus
+
+Como administrador quiero que todos los usuarios puedan agendarse para ser vacunados.
