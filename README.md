@@ -110,3 +110,11 @@ El usuario tiene que poder consguir las credenciales para ingresar al sistema. E
 Debe especificarse una manera de obtener el usuario y contraseña.
 
 Debe haber contingencias para aquellas personas que no tengan celular y/o no entiendan el uso del mismo.
+
+# épicas:
+
+Como administrador quiero que todos los usuarios tengan acceso a la aplicación.
+
+Como administrador quiero asegurarme de que los usuarios pueden sacarse las dudas que tengan respecto del coronavirus
+
+Como administrador quiero que todos los usuarios puedan agendarse para ser vacunados.
