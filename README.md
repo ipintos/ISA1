@@ -1,5 +1,67 @@
 # ISA1
+
 Bentancor - Pintos - Reyes - Umpierrez
+
+## Introducción
+
+En primer lugar, creímos necesario definir un marco de trabajo. Nuestro proyecto está enfocado en metodologías ágiles basados en SCRUM.
+Entendimos que es sumamente importante el uso de una metodología como SCRUM, dado que nos encontramos con un negocio desconocido y con riesgo a cambios durante su proceso. Por esta razón, debemos iterar sobre los requerimientos, ya que en un principio no son triviales.
+
+Asimismo, sería conveniente obtener feedback sobre lo realizado ya que esto baja el impacto de cambio en lo realizado y creemos firmemente en derive en un mejor encaminamiento hacia el resultado final.
+
+## Definición del Marco de Trabajo
+Marco general de SCRUM
+Sync semanal breve: Esta se llevará a cabo los lunes con una duración que estimamos no sea más de media hora, cuyo objetivo es alinear el trabajo semanal de cada integrante.
+
+Sync semanal: Esta se llevará a cabo los viernes con una duración que estimamos no más de dos horas, cuyo objetivo es revisar el trabajo semanal realizado por cada integrante realizando así una puesta a punto. Culminando nuestra reunión con una actividad team building activity.
+
+Nos comprometemos a todos ser partícipes del proyecto y estar al tanto del trabajo de los otros participantes.
+
+## bRoles del equipo
+Product owner
+    Iara Pintos
+Scrum master
+    Noelia Bentancor
+Development team
+    Ismael Umpierrrez, Hernán Reyes
+## Glosario:
+Definition of Done (vale para todas las historias de usuario).
+La tarea debe cumplir con los estándares de calidad definidos para el proyecto referidos a La tarea debe haber sido verificada en la sync semanal de los viernes contra sus criterios de aceptación que serán definidos para cada tarea individual. La tarea debe haber sido aprobada por el Product Owner. La tarea debe haber sido validada por
+
+Definition of Ready
+El desarrollador logra interpretar sin ambigüedades la definición del caso. La tarea debe tener una estimación (puntos de historia) La tarea debe poder validarse y corresponderse dentro del Sprint. La realización de la tarea no debe de contar con tareas pendientes. El detalle funcional, detalle técnico y los casos de prueba de cada tarea deben ser claros para que sean entendibles por cualquier miembro del equipo. La tarea debe contar con criterios de aceptación.
+
+PLANIFICACIÓN DE LAS ITERACIONES
+Objetivos del Sprint: Sprint backlog: estimaciones, velocidad del equipo, definición de tareas del sprint, capacidad del sprint y RRHH participantes por rol.
+
+## ITERACIÓN 1-spike
+Esta iteración tiene los siguientes objetivos:
+
+Comunicar a los diferentes actores involucrados y stakeholders respecto a la solución a implementar.
+
+Presentar brevemente el alcance y los hitos del proyecto.
+
+Presentar la forma de trabajo.
+
+Alinear fechas.
+
+Transparencia del trabajo a realizar.
+
+Posibilidad de negociación del alcance.
+
+SEGUIMIENTO DE LA ITERACIONES Daily scrum, burndown o burnup charts, registro de horas.
+
+INSPECCIÓN Y ADAPTACIÓN DEL PROCESO Retrospectivas
+La primera iteración tiene como objetivo fundamental la identificación del problema a definir con una solución, cuyo resultado nos encaminará hacia un mejor entendimiento del problema. En este punto se parte de la base de que los integrantes desconocemos el problema y por este motivo necesitamos esta primera iteración. La finalización de esta iteración será el 8 de octubre.
+
+ITERACIÓN 2
+Esta iteración abarca un lapso temporal de una semana. El objetivo de la presente abarca la prototipación de la solución planteada en la iteración previa. Esta étapa culminará el 15 de octubre.
+
+ITERACIÓN 3
+La presente pretende validar el prototipo realizado en una étapa previa con los skateholders identificados en un inicio. Esta fase culminaría el 22 de octubre.
+
+ITERACIÓN 4
+En este caso, se reflexionará sobre las lecciones y aprendizajes derivados de fases anteriores. Asimismo, se deberá realizar un video explicativo así como recopilación de documentación y evidencias en el caso que aún falten.
 
 ## ESCENARIOS
 
