@@ -82,7 +82,13 @@ En esta instancia, surge una pregunta muy interesante y es la siguiente:
 En esta primera instancia se trackeo el tiempo real en la que la actividad aconteció restando actividades intermedias como puede ser preparación de un café, té o similar.
 Sin embargo, creemos que la actividad inicia desde que decidimos realizar la tarea , implicando la necesidad de obtener el contexto necesario hasta que se finaliza , contabilizando las pausas necesarias para culminarla.
 
-Esta pregunta fue sumamente interesante y concebimos que un trackeo de horas reales obedece al tiempo transcurrido y no a la resta de actividades que si bien no aportan valor son necesarias para culminar la tarea. Estas tareas responden a necesidades biólogicas.
+Esta pregunta fue sumamente interesante y concebimos que un trackeo de horas reales obedece al tiempo transcurrido y no a la resta de actividades que si bien no aportan valor son necesarias para culminar la tarea. Estas tareas responden a necesidades biólogicas y si bien no aportan valor no deberían ser restadas.
+
+A continuación, se adjunta el resumen de la dinámica realizada a través de Miro:
+
+![retrospective](https://github.com/ipintos/ISA1/blob/develop/imagenes/retrospective.png)
+
+![retrospective2](https://github.com/ipintos/ISA1/blob/develop/imagenes/retrospective2.png)
 
 
 
