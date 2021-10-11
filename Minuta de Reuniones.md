@@ -1,24 +1,24 @@
 ## Minuta de Reuniones
 
-### Reunión N° X
+### Reunión N° 1
 <table>
 	<tr>
 	    <th>Fecha</th>
-	    <td>xx/xx/xxxx</td>
+	    <td>01/10/2021</td>
 	    <th>Hora Inicio</th>
-        <td>xx:xx</td>   
+        <td>18:00</td>   
 	</tr >
 	<tr >
 	    <th>Organizador</th>
 	    <td></td>
 	    <th>Hora Fin</th>
-        <td>xx:xx</td>   
+        <td>20:00</td>   
 	</tr>
 	<tr>
 	    <th>Lugar</th>
-        <td></td>
+        <td>https://meet.google.com</td>
 	    <th>Objetivo</th>
-	    <td></td>
+	    <td>Organizar equipo, asignar nuevas tareas</td>
 	</tr>
 </table>
 
@@ -31,47 +31,47 @@
         <th>Rol</th>
 	</tr>
 	<tr>
-	    <td></td>
-	    <td></td>
-        <td></td>
+	    <td>Hernán</td>
+	    <td>235861</td>
+        <td>Developer</td>
 	</tr>
 	<tr>
-	    <td></td>
-	    <td></td>
-        <td></td>
+	    <td>Ismael</td>
+	    <td>254254</td>
+        <td>Developer</td>
 	</tr>
 	<tr>
-	    <td></td>
-	    <td></td>
-        <td></td>
+	    <td>Noelia</td>
+	    <td>242970</td>
+        <td>Scrum master</td>
 	</tr>
 	<tr>
-	    <td></td>
-	    <td></td>
-        <td></td>
+	    <td>Iara</td>
+	    <td>191748</td>
+        <td>Product owner</td>
 	</tr>
 </table>
 
-### Reunión N° X
+### Reunión N° 2
 
 <table>
 	<tr>
 	    <th>Fecha</th>
-	    <td>xx/xx/xxxx</td>
+	    <td>04/10/2021</td>
 	    <th>Hora Inicio</th>
-        <td>xx:xx</td>   
+        <td>18:00</td>   
 	</tr >
 	<tr >
 	    <th>Organizador</th>
 	    <td></td>
 	    <th>Hora Fin</th>
-        <td>xx:xx</td>   
+        <td>18:15</td>   
 	</tr>
 	<tr>
 	    <th>Lugar</th>
-        <td></td>
+        <td>https://meet.google.com</td>
 	    <th>Objetivo</th>
-	    <td></td>
+	    <td>Seguimiento a las tareas asignadas</td>
 	</tr>
 </table>
 
@@ -84,47 +84,47 @@
         <th>Rol</th>
 	</tr>
 	<tr>
-	    <td></td>
-	    <td></td>
-        <td></td>
+	    <td>Hernán</td>
+	    <td>235861</td>
+        <td>Developer</td>
 	</tr>
 	<tr>
-	    <td></td>
-	    <td></td>
-        <td></td>
+	    <td>Ismael</td>
+	    <td>254254</td>
+        <td>Developer</td>
 	</tr>
 	<tr>
-	    <td></td>
-	    <td></td>
-        <td></td>
+	    <td>Noelia</td>
+	    <td>242970</td>
+        <td>Scrum Master</td>
 	</tr>
 	<tr>
-	    <td></td>
-	    <td></td>
-        <td></td>
+	    <td>Iara</td>
+	    <td>191748</td>
+        <td>Product owner</td>
 	</tr>
 </table>
 
-### Reunión N° X
+### Reunión N° 3
 
 <table>
 	<tr>
 	    <th>Fecha</th>
-	    <td>xx/xx/xxxx</td>
+	    <td>08/10/2021</td>
 	    <th>Hora Inicio</th>
-        <td>xx:xx</td>   
+        <td>18:00</td>   
 	</tr >
 	<tr >
 	    <th>Organizador</th>
 	    <td></td>
 	    <th>Hora Fin</th>
-        <td>xx:xx</td>   
+        <td>21:00</td>   
 	</tr>
 	<tr>
 	    <th>Lugar</th>
-        <td></td>
+        <td>https://meet.google.com</td>
 	    <th>Objetivo</th>
-	    <td></td>
+	    <td>Verificar tareas realizadas con el equipo para que cada uno pueda realizar los merge para la entrega</td>
 	</tr>
 </table>
 
@@ -137,48 +137,47 @@
         <th>Rol</th>
 	</tr>
 	<tr>
-	    <td></td>
-	    <td></td>
-        <td></td>
+	    <td>Hernán</td>
+	    <td>235861</td>
+        <td>Developer</td>
 	</tr>
 	<tr>
-	    <td></td>
-	    <td></td>
-        <td></td>
+	    <td>Ismael</td>
+	    <td>254254</td>
+        <td>Developer</td>
 	</tr>
 	<tr>
-	    <td></td>
-	    <td></td>
-        <td></td>
+	    <td>Noelia</td>
+	    <td>242970</td>
+        <td>Scrum Master</td>
 	</tr>
 	<tr>
-	    <td></td>
-	    <td></td>
-        <td></td>
+	    <td>Iara</td>
+	    <td>191748</td>
+        <td>Product owner</td>
 	</tr>
 </table>
 
-
-### Reunión N° X
+### Reunión N° 4
 
 <table>
 	<tr>
 	    <th>Fecha</th>
-	    <td>xx/xx/xxxx</td>
+	    <td>11/10/2021</td>
 	    <th>Hora Inicio</th>
-        <td>xx:xx</td>   
+        <td>18:00</td>   
 	</tr >
 	<tr >
 	    <th>Organizador</th>
 	    <td></td>
 	    <th>Hora Fin</th>
-        <td>xx:xx</td>   
+        <td>18:15</td>   
 	</tr>
 	<tr>
 	    <th>Lugar</th>
-        <td></td>
+        <td>https://meet.google.com</td>
 	    <th>Objetivo</th>
-	    <td></td>
+	    <td>Entrega de Iteración 1</td>
 	</tr>
 </table>
 
@@ -191,27 +190,26 @@
         <th>Rol</th>
 	</tr>
 	<tr>
-	    <td></td>
-	    <td></td>
-        <td></td>
+	    <td>Hernán</td>
+	    <td>235861</td>
+        <td>Developer</td>
 	</tr>
 	<tr>
-	    <td></td>
-	    <td></td>
-        <td></td>
+	    <td>Ismael</td>
+	    <td>254254</td>
+        <td>Developer</td>
 	</tr>
 	<tr>
-	    <td></td>
-	    <td></td>
-        <td></td>
+	    <td>Noelia</td>
+	    <td>242970</td>
+        <td>Scrum Master</td>
 	</tr>
 	<tr>
-	    <td></td>
-	    <td></td>
-        <td></td>
+	    <td>Iara</td>
+	    <td>191748</td>
+        <td>Product owner</td>
 	</tr>
 </table>
-
 
 ### Reunión N° X
 
