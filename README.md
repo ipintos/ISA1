@@ -82,7 +82,7 @@ Para poder recibir mis vacunas.
 
 El sistema debe mantener actualizado el estado de los vacunatorios para que no haya errores en la asignación de horas.
 
-EL usuario ingresa al sistema, y si está habilitado se le permite registrarse para ser vacunado en un lugar y hora que él puede elegir de los disponibles, cuando se registra recibe una confirmación.
+El usuario ingresa al sistema, y si está habilitado se le permite registrarse para ser vacunado en un lugar y hora que él puede elegir de los disponibles, cuando se registra recibe una confirmación.
 
 #### Criterios de aceptación:
 
@@ -93,6 +93,9 @@ Una muestra de 5 personas seleccionadas al azar debe ser capaz de agendarse sin 
 Ningún otro usuario además de quien hace la reserva debe ver sus datos personales.
 
 La funcionalidad cuenta con una interfaz Androidy iOS
+
+#### story points: 5
+
 
 ### 2:
 
@@ -115,6 +118,9 @@ Una muestra de 5 personas seleccionadas al azar debe ser capaz de llegar a las g
 
 La funcionalidad cuenta con una interfaz Androidy iOS
 
+#### story points: 5
+
+
 ### 3:
 
 #### Como Usuario
@@ -135,6 +141,9 @@ Siempre se recomienda una acción para cada caso.
 
 La funcionalidad cuenta con una interfaz Androidy iOS
 
+#### story points: 1
+
+
 ### 4:
 
 #### Como usuario
@@ -154,6 +163,9 @@ La funcionalidad tiene que funcionar en dispositivos android y iOS equipados con
 
 Una muestra de 5 personas seleccionadas al azar debe ser capaz de decir que entendió los pasos que se le sugieren.
 
+#### story points: 9
+
+
 ### 5:
 
 #### Como usuario
@@ -172,6 +184,8 @@ Debe especificarse una manera de obtener el usuario y contraseña.
 
 Debe haber contingencias para aquellas personas que no tengan celular y/o no entiendan el uso del mismo.
 
+#### story points: 3
+
 
 ### 6:
  
@@ -184,6 +198,8 @@ Para poder hacer una reserva para vacunación.
 #### Criterios de aceptación:
  
 Debe funcionar para iOS y Android. El usuario debe quedar registrado en la base de datos.
+
+#### story points: 2
  
 
 ### 7:
@@ -199,7 +215,9 @@ Los turistas deben poder registrarse para crear una solicitud para agenda de vac
 #### Criterios de aceptación:
  
 Los usuarios con pasaporte deben quedar registrados en la base de datos.
- 
+
+#### story points: 2
+
 
 ### 8:
  
@@ -216,7 +234,9 @@ Los usuarios deben poder ver los vacunatorios cercanos en un mapa y para cada un
 La actualización de dosis y horarios debe ser en tiempo real
  
 El mapa debe geolocalizar al usuario en android e iOS
- 
+
+#### story points: 6
+
  
 ### 9:
  
@@ -231,7 +251,9 @@ Los usuarios deben poder agendarse en el vacunatorio seleccionado. En caso de no
 #### Criterios de aceptación:
  
 La solicitud debe quedar agendada en el MSP
- 
+
+#### story points: 7
+
  
 ### 10:
  
@@ -246,7 +268,9 @@ Los usuarios deben poder consultar las fechas de sus reservas, y configurar si q
 #### Criterios de aceptación:
  
 Debe funcionar en android e iOS
- 
+
+#### story points: 5 
+
  
 ### 11:
  
@@ -262,7 +286,9 @@ Los usuarios deben poder generar un comprobante digital de código QR que pueda 
  
 El código QR debe poder ser leído y mostrar que la pauta de vacunación está completa sin revelar datos personales. 
  
- 
+#### story points: 2
+
+
 ### 12:
  
 #### Como usuario registrado
@@ -276,7 +302,9 @@ Los usuarios deben poder cancelar reservas en un plazo mayor a 24h. antes de la 
 #### Criterios de aceptación:
  
 La cita cancelada debe quedar disponible para ser reservada por otro usuario en el momento de confirmación de la cancelación.
- 
+
+#### story points: 5 
+
  
 ### 13:
  
@@ -291,7 +319,9 @@ Los usuarios deben poder modificar la fecha de su reserva en un plazo mayor a 24
 #### Criterios de aceptación:
  
 La o las citas canceladas, debe quedar disponible para ser reservadas por otro usuario en el momento de confirmación de la cancelación.
- 
+
+#### story points: 6 
+
  
 ### 14:
  
@@ -306,13 +336,15 @@ Los usuarios registrados y no registrados deben poder acceder a la información 
 #### Criterios de aceptación:
  
 La información debe haber sido actualizada en un período no mayor a 24h.
+
+#### story points: 7 
  
- 
+
 ### 15:
  
 #### Como usuario registrado
  
-Quiero poder alertar que  tengo covid de forma anónima a otros usuarios que estuvieron en contacto conmigo en los últimos 15 días
+Quiero poder alertar que tengo covid de forma anónima a otros usuarios que estuvieron en contacto conmigo en los últimos 15 días
  
 Para que estén atentos a los síntomas y puedan consultar a su médico.
  
@@ -321,7 +353,9 @@ Los usuarios registrados deben poder alertar que están cursando la enfermedad y
 #### Criterios de aceptación:
  
 La aplicación debe enviar notificaciones push a los usuarios que fueron contacto.
- 
+
+#### story points: 8 
+
  
 ### 16:
  
@@ -337,6 +371,8 @@ Los usuarios registrados y los no registrados deben poder acceder a información
  
 La información debe ser legible desde el dispositivo móvil.
  
+#### story points: 1
+
  
 ### 17:
  
@@ -351,7 +387,9 @@ Los usuarios registrados deben poder configurar si desean obtener notificaciones
 #### Criterios de aceptación:
  
 La aplicación debe enviar notificaciones push a los usuarios a quienes así lo configuraron y no en caso contrario.
- 
+
+#### story points: 6 
+
  
 ### 18:
  
@@ -366,7 +404,9 @@ Los usuarios registrados deben poder acceder a las preguntas frecuentes y solici
 #### Criterios de aceptación:
  
 La aplicación muestra las FAQ y permite chatear para enviar consultas.
- 
+
+#### story points: 9
+
  
 ### 19:
  
@@ -381,7 +421,9 @@ Los usuarios registrados deben poder navegar la aplicación y todas sus caracter
 #### Criterios de aceptación:
  
 La aplicación debe ser usada por un usuario sin conocimientos previos del sistema y el mismo debe poder completar las historias de usuario.
-  
+
+#### story points: 3
+
  
 ### 20:
  
@@ -396,6 +438,8 @@ Los usuarios registrados que pertenezcan a un grupo prioritario deben poder ser 
 #### Criterios de aceptación:
  
 Los usuarios deben ser tratados como prioritarios en caso que así estén registrados en el BPS.
+
+#### story points: 8
 
 
 ## Épicas:
