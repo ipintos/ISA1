@@ -71,7 +71,7 @@ En esta iteración se realiza el siguiente sprint backlog:
 Decidimos reunirnos a modo de inspeccionar el proceso y analizar qué salió mal, qué podríamos mejor, qué hemos aprendido y en esencia qué salió bien que deberíamos mantener en iteraciones próximas.
 
 Se organiza una dinámica de grupo cuyo foco se encontraba en un pizarrón en miro.
-https://github.com/ipintos/ISA1/blob/develop/imagenes/reflexiones.png
+![reflexiones](https://github.com/ipintos/ISA1/blob/develop/imagenes/reflexiones.png)
 
 En esta instancia, surge una pregunta muy interesante y es la siguiente:
 ¿Qué horas trackeo en Toggl?
