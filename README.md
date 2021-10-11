@@ -88,8 +88,15 @@ A continuación, se adjunta el resumen de la dinámica realizada a través de Mi
 
 ![retrospective](https://github.com/ipintos/ISA1/blob/develop/imagenes/retrospective.png)
 
-![retrospective2](https://github.com/ipintos/ISA1/blob/develop/imagenes/retrospective2.png)
+![retrospective2](https://github.com/ipintos/ISA1/blob/develop/imagenes/retrospective-2.png)
 
+En definitiva, según lo recabado se concluye lo siguiente:
+
+-Trackearemos todo el tiempo transcurrido, con el track de toggl.
+-Aumentaremos las reuniones a tres veces por semana.
+-Las tareas continuarán siendo breves.
+-Ramificaremos una rama y englobaremos en esta tareas similares, ya que la alta ramificación causa confusión.
+-Las tareas relacionados serán asignadas a un mismo integrante, ya que esto contribuye al correcto desarrollo de esta, siendo que cada integrante puede realizarla en el momento que crea conveniente sin generar disturbios o confusión.
 
 
 ### SPRINT REVIEW
