@@ -66,6 +66,10 @@ En este caso, se reflexionará sobre las lecciones y aprendizajes derivados de f
 ## ITERACIÓN 1
 
 En esta iteración se realiza el siguiente sprint backlog:
+![tasks-general-project](https://github.com/ipintos/ISA1/blob/develop/imagenes/tasks-general-project.png)
+![tas-general-project-2](https://github.com/ipintos/ISA1/blob/develop/imagenes/tas-general-project-2.png)
+![tasks-general-project-3](https://github.com/ipintos/ISA1/blob/develop/imagenes/tasks-general-project-3.png)
+![tasks-general-project-4](https://github.com/ipintos/ISA1/blob/develop/imagenes/tasks-general-project-4.png)
 
 ### SPRINT RETROSPECTIVE
 Decidimos reunirnos a modo de inspeccionar el proceso y analizar qué salió mal, qué podríamos mejor, qué hemos aprendido y en esencia qué salió bien que deberíamos mantener en iteraciones próximas.
