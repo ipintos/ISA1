@@ -73,7 +73,18 @@ Decidimos reunirnos a modo de inspeccionar el proceso y analizar qué salió mal
 Se organiza una dinámica de grupo cuyo foco se encontraba en un pizarrón en miro.
 https://github.com/ipintos/ISA1/blob/develop/imagenes/reflexiones.png
 
-En esta instancia, 
+En esta instancia, surge una pregunta muy interesante y es la siguiente:
+¿Qué horas trackeo en Toggl?
+
+¿Elapsed time vs ideal time?
+
+En esta primera instancia se trackeo el tiempo real en la que la actividad aconteció restando actividades intermedias como puede ser preparación de un café, té o similar.
+Sin embargo, creemos que la actividad inicia desde que decidimos realizar la tarea , implicando la necesidad de obtener el contexto necesario hasta que se finaliza , contabilizando las pausas necesarias para culminarla.
+
+Esta pregunta fue sumamente interesante y concebimos que un trackeo de horas reales obedece al tiempo transcurrido y no a la resta de actividades que si bien no aportan valor son necesarias para culminar la tarea. Estas tareas responden a necesidades biólogicas.
+
+
+
 ### SPRINT REVIEW
 Se insepecciona el producto.
 En este punto inspeccionamos lo realizado por cada integrante y alcanzamos los siguientes resultados:
