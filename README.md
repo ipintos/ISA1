@@ -71,6 +71,27 @@ En esta iteración se realiza el siguiente sprint backlog:
 ![tasks-general-project-3](https://github.com/ipintos/ISA1/blob/develop/imagenes/tasks-general-project-3.png)
 ![tasks-general-project-4](https://github.com/ipintos/ISA1/blob/develop/imagenes/tasks-general-project-4.png)
 
+Identificar el problema es una historia épica:
+Como proveedor de este servicio quiero entender el problema, el dominio y detectar problemas actuales para poder realizar una solución acorde.
+
+Esto fue partida en distintas tareas, ya que la misma es ambigua:
+1.Ingeniería inversa. Tiempo transcurrido 2 hs
+2.identificación de escenarios principales Tiempo transcurrido 2 hs
+3.estudio de competidores Tiempo transcurrido 2 hs
+4.identificación de los estratos sociales Tiempo transcurrido 1:30 hs
+5.funcionalidades por interesados Tiempo transcurrido 2 hs
+6.identificar el valor de negocio asociado a cada escenario. Tiempo transcurrido 2 hs
+
+Luego, identificamos la épica asociada a la propuesta de resolución del problema en cuestión:
+Como proveedor de este servicio quiero identificar la solución a la problemática para poder construir una solución acorde y ajustada a las necesidades del negocio.
+
+Esta se dividió en las siguientes tareas:
+1.Story map Tiempo transcurrido 2 hs
+2.product backlog Tiempo transcurrido 2 hs
+3.épicas Tiempo transcurrido 1 hs
+4.historias de usuario Tiempo transcurrido 4 hs
+5.criterios de aceptación Tiempo transcurrido 2 hs
+
 ### SPRINT RETROSPECTIVE
 Decidimos reunirnos a modo de inspeccionar el proceso y analizar qué salió mal, qué podríamos mejor, qué hemos aprendido y en esencia qué salió bien que deberíamos mantener en iteraciones próximas.
 
@@ -101,7 +122,8 @@ En definitiva, según lo recabado se concluye lo siguiente:
 -Las tareas continuarán siendo breves.
 -Ramificaremos una rama y englobaremos en esta tareas similares, ya que la alta ramificación causa confusión.
 -Las tareas relacionados serán asignadas a un mismo integrante, ya que esto contribuye al correcto desarrollo de esta, siendo que cada integrante puede realizarla en el momento que crea conveniente sin generar disturbios o confusión.
-
+-Deberíamos reflejar en todo momento el avance real en github, ya que es más costoso realizar un resumen luego de haber finalizado la iteración que realizar un seguimiento acorde . En este sentido, nos gustaría comprometernos a velar por la transparencia y entender realmente dónde estamos parados en cada momento, así como identificar posibles cuello de botella en tareas.
+Por tanto, buscaremos transparentar de mejor forma los avances.
 
 ### SPRINT REVIEW
 Se insepecciona el producto.
