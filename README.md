@@ -75,6 +75,7 @@ Se organiza una dinámica de grupo cuyo foco se encontraba en un pizarrón en mi
 
 En esta instancia, surge una pregunta muy interesante y es la siguiente:
 ¿Qué horas trackeo en Toggl?
+![toggl](https://github.com/ipintos/ISA1/blob/develop/imagenes/toggl.png)
 
 ¿Elapsed time vs ideal time?
 
