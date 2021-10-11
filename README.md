@@ -17,7 +17,7 @@ Sync semanal: Esta se llevará a cabo los viernes con una duración que estimamo
 
 Nos comprometemos a todos ser partícipes del proyecto y estar al tanto del trabajo de los otros participantes.
 
-## bRoles del equipo
+## Roles del equipo
 Product owner
     Iara Pintos
 Scrum master
