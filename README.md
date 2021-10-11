@@ -63,6 +63,21 @@ La presente pretende validar el prototipo realizado en una étapa previa con los
 ITERACIÓN 4
 En este caso, se reflexionará sobre las lecciones y aprendizajes derivados de fases anteriores. Asimismo, se deberá realizar un video explicativo así como recopilación de documentación y evidencias en el caso que aún falten.
 
+## ITERACIÓN 1
+
+En esta iteración se realiza el siguiente sprint backlog:
+
+### SPRINT RETROSPECTIVE
+Decidimos reunirnos a modo de inspeccionar el proceso y analizar qué salió mal, qué podríamos mejor, qué hemos aprendido y en esencia qué salió bien que deberíamos mantener en iteraciones próximas.
+
+Se organiza una dinámica de grupo cuyo foco se encontraba en un pizarrón en miro.
+https://github.com/ipintos/ISA1/blob/develop/imagenes/reflexiones.png
+
+En esta instancia, 
+### SPRINT REVIEW
+Se insepecciona el producto.
+En este punto inspeccionamos lo realizado por cada integrante y alcanzamos los siguientes resultados:
+
 ## ESCENARIOS
 
 #### PRIMERA DOSIS:
