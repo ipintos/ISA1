@@ -83,8 +83,10 @@ quiero realizar ingeniería inversa
 
 para tomar ideas de proyectos existentes y obtener posibilidades de mejora.
 
+Story points : 4 pts
 
 Tiempo transcurrido 2 hs
+
 
 
 2.identificación de escenarios principales 
@@ -95,6 +97,7 @@ quiero realizar identificación de escenarios principales
 
 para obtener ideas a modo de realizar requerimientos funcionales.
 
+Story points : 3 pts
 
 Tiempo transcurrido 2 hs
 
@@ -106,6 +109,8 @@ quiero realizar estudio de competidores
 
 para entender el posicionamiento en el mercado
 
+Story points : 2 pts
+
 Tiempo transcurrido 2 hs
 
 4.identificación de los estratos sociales 
@@ -115,6 +120,8 @@ Como desarrollador/scrum master/product owner
 quiero realizar identificación de los estratos sociales
 
 para ajustar necesidades de la aplicación a los estratos
+
+Story points : 2 pts
 
 Tiempo transcurrido 1:30 hs
 
@@ -126,6 +133,8 @@ quiero realizar funcionalidades por interesados
 
 para acercarme a la solución a desarrollar
 
+Story points : 4 pts
+
 Tiempo transcurrido 2 hs
 
 6.identificar el valor de negocio asociado a cada escenario. 
@@ -135,6 +144,8 @@ Como desarrollador/scrum master/product owner
 quiero  identificar el valor de negocio asociado a cada escenario. 
 
 para entender si el escenario pensado aplica o no
+
+Story points : 4 pts
 
 Tiempo transcurrido 2 hs
 
@@ -152,15 +163,21 @@ quiero realizar un story map
 
 para acercarme a la solución a implementar
 
+Story points : 3 pts
+
 Tiempo transcurrido 2 hs
 
-2.product backlog Tiempo transcurrido 2 hs
+2.product backlog 
 
 Como desarrollador/scrum master/product owner
 
 quiero reveer el product backlog
 
 para alinear los objetivos de la próxima iteración
+
+Tiempo transcurrido 2 hs
+
+Story points : 4 pts
 
 3.épicas 
 
@@ -171,6 +188,8 @@ quiero realizar épicas
 para acercarme a la solución a implementar
 
 Tiempo transcurrido 1 hs
+
+Story points : 2 pts
 
 4.historias de usuario 
 
@@ -183,6 +202,8 @@ para acercarme a la solución a implementar
 
 Tiempo transcurrido 4 hs
 
+Story points : 4 pts
+
 5.criterios de aceptación 
 
 Como desarrollador/scrum master/product owner
@@ -191,11 +212,16 @@ quiero realizar criterios de aceptación
 
 para entender cuando mi tarea se  considera aceptada
 
+Story points : 3 pts
+
 Tiempo transcurrido 2 hs
 
 ### SPRINT RETROSPECTIVE
 Decidimos reunirnos a modo de inspeccionar el proceso y analizar qué salió mal, qué podríamos mejor, qué hemos aprendido y en esencia qué salió bien que deberíamos mantener en iteraciones próximas.
 
+Se calculan algunas métricas que se detallan a conitnuación:
+
+-Velocity: 35 pts
 Se organiza una dinámica de grupo cuyo foco se encontraba en un pizarrón en miro.
 ![reflexiones](https://github.com/ipintos/ISA1/blob/develop/imagenes/reflexiones.png)
 
