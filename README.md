@@ -65,11 +65,15 @@ En este caso, se reflexionará sobre las lecciones y aprendizajes derivados de f
 
 ## ITERACIÓN 1
 
+De modo de poder llevar a cabo el kickoff tuvimos una instancia previa , siendo que era necesario definir tareas de la iteración del spike.
+
 En esta iteración se realiza el siguiente sprint backlog:
 ![tasks-general-project](https://github.com/ipintos/ISA1/blob/develop/imagenes/tasks-general-project.png)
 ![tas-general-project-2](https://github.com/ipintos/ISA1/blob/develop/imagenes/tas-general-project-2.png)
 ![tasks-general-project-3](https://github.com/ipintos/ISA1/blob/develop/imagenes/tasks-general-project-3.png)
 ![tasks-general-project-4](https://github.com/ipintos/ISA1/blob/develop/imagenes/tasks-general-project-4.png)
+
+Los stories points fueron puestos en común y discutidos , a modo de hallar un consenso.
 
 Identificar el problema es una historia épica:
 Como proveedor de este servicio quiero entender el problema, el dominio y detectar problemas actuales para poder realizar una solución acorde.
@@ -153,6 +157,8 @@ Luego, identificamos la épica asociada a la propuesta de resolución del proble
 Como proveedor de este servicio quiero identificar la solución a la problemática para poder construir una solución acorde y ajustada a las necesidades del negocio.
 
 Esta se dividió en las siguientes tareas:
+
+Si bien el valor de las user stories parecería que carecen de valor para el negocio, el valor de esto radica en que el último obtiene un mejor entendimiento de lo que busca.
 
 1.Story map 
 
