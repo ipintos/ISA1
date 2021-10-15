@@ -505,10 +505,10 @@ Quiero registrarme para recibir las dosis restantes en algún vacunatorio viendo
 
 Para poder recibir mis vacunas.
 
-
 El sistema debe mantener actualizado el estado de los vacunatorios para que no haya errores en la asignación de horas.
 
-El usuario ingresa al sistema, y si está habilitado se le permite registrarse para ser vacunado en un lugar y hora que él puede elegir de los disponibles, cuando se registra recibe una confirmación.
+El usuario ingresa al sistema, y si está habilitado se le permite registrarse para ser vacunado en un lugar y hora que él puede elegir de los disponibles
+vacunatorios cercanos en un mapa, cuando se registra recibe una confirmación.
 
 #### Criterios de aceptación:
 
@@ -520,7 +520,7 @@ Ningún otro usuario además de quien hace la reserva debe ver sus datos persona
 
 La funcionalidad cuenta con una interfaz Androidy iOS
 
-#### story points: 5
+#### story points: 13
 
 
 ### 2:
@@ -532,7 +532,7 @@ Quiero poder ver las métricas de avance de la enfermedad
 Para poder conocer el estado de situación actual.
 
 
-El usuario debe disponer de una sección en la aplicación donde se muestran las gráficas de interés, estas incluyen: Casos por dia, total de vacunados, fallecidos por día, tests por día.
+El usuario debe disponer de una sección en la aplicación donde se muestran las gráficas de interés, estas incluyen: Casos por dia, total de vacunados, fallecidos por día, tests por día. Marcando por colores la densidad de casos activos por departamento.
 
 #### Criterios de aceptación:
 
@@ -556,7 +556,7 @@ Quiero saber si los síntomas que tengo se corresponden a los del covid
 Para saber si tengo que tomar alguna acción y para saber si puedo ser contagioso.
 
 
-El usuario tiene que poder resolver sus dudas en cuanto a la enfermedad con el menor esfuerzo y en el menor tiempo posible. Esta funcionalidad puede implementarse como página de FAQ o como un chat bot.
+El usuario tiene que poder resolver sus dudas en cuanto a la enfermedad con el menor esfuerzo y en el menor tiempo posible. Esta funcionalidad puede implementarse como un chat bot o una serie de preguntas.
 
 
 #### Criterios de aceptación:
@@ -567,7 +567,7 @@ Siempre se recomienda una acción para cada caso.
 
 La funcionalidad cuenta con una interfaz Androidy iOS
 
-#### story points: 1
+#### story points: 21
 
 
 ### 4:
@@ -589,7 +589,7 @@ La funcionalidad tiene que funcionar en dispositivos android y iOS equipados con
 
 Una muestra de 5 personas seleccionadas al azar debe ser capaz de decir que entendió los pasos que se le sugieren.
 
-#### story points: 9
+#### story points: 3
 
 
 ### 5:
@@ -625,7 +625,7 @@ Para poder hacer una reserva para vacunación.
  
 Debe funcionar para iOS y Android. El usuario debe quedar registrado en la base de datos.
 
-#### story points: 2
+#### story points: 5
  
 
 ### 7:
@@ -642,46 +642,10 @@ Los turistas deben poder registrarse para crear una solicitud para agenda de vac
  
 Los usuarios con pasaporte deben quedar registrados en la base de datos.
 
-#### story points: 2
+#### story points: 3
 
-
+ 
 ### 8:
- 
-#### Como usuario registrado
- 
-Quiero ver los horarios y dosis disponibles de mis vacunatorios cercanos
- 
-Para poder hacer una reserva para vacunación.
- 
-Los usuarios deben poder ver los vacunatorios cercanos en un mapa y para cada uno de ellos ver las dosis disponibles por horario.
- 
-#### Criterios de aceptación:
- 
-La actualización de dosis y horarios debe ser en tiempo real
- 
-El mapa debe geolocalizar al usuario en android e iOS
-
-#### story points: 6
-
- 
-### 9:
- 
-#### Como usuario registrado
- 
-Quiero agendar las próximas dosis en un vacunatorio cercano
- 
-Para concurrir a vacunarme.
- 
-Los usuarios deben poder agendarse en el vacunatorio seleccionado. En caso de no existir disponibilidad se le debe mostrar más horarios disponibles en el entorno horario previamente seleccionado.
- 
-#### Criterios de aceptación:
- 
-La solicitud debe quedar agendada en el MSP
-
-#### story points: 7
-
- 
-### 10:
  
 #### Como usuario registrado
  
@@ -695,10 +659,10 @@ Los usuarios deben poder consultar las fechas de sus reservas, y configurar si q
  
 Debe funcionar en android e iOS
 
-#### story points: 5 
+#### story points: 8 
 
  
-### 11:
+### 9:
  
 #### Como usuario registrado
  
@@ -712,10 +676,10 @@ Los usuarios deben poder generar un comprobante digital de código QR que pueda 
  
 El código QR debe poder ser leído y mostrar que la pauta de vacunación está completa sin revelar datos personales. 
  
-#### story points: 2
+#### story points: 3
 
 
-### 12:
+### 10:
  
 #### Como usuario registrado
  
@@ -729,10 +693,10 @@ Los usuarios deben poder cancelar reservas en un plazo mayor a 24h. antes de la 
  
 La cita cancelada debe quedar disponible para ser reservada por otro usuario en el momento de confirmación de la cancelación.
 
-#### story points: 5 
+#### story points: 3
 
  
-### 13:
+### 11:
  
 #### Como usuario registrado
  
@@ -746,31 +710,14 @@ Los usuarios deben poder modificar la fecha de su reserva en un plazo mayor a 24
  
 La o las citas canceladas, debe quedar disponible para ser reservadas por otro usuario en el momento de confirmación de la cancelación.
 
-#### story points: 6 
+#### story points: 5 
 
- 
-### 14:
- 
-#### Como usuario
- 
-Quiero consultar los casos activos en el país actualizados al día de hoy y filtrar por departamento.
- 
-Para mantenerme informado.
- 
-Los usuarios registrados y no registrados deben poder acceder a la información de casos activos filtrando por departamento, la información se debe mostrar en un mapa interactivo de uruguay. Marcando por colores la densidad de casos activos.
- 
-#### Criterios de aceptación:
- 
-La información debe haber sido actualizada en un período no mayor a 24h.
 
-#### story points: 7 
- 
-
-### 15:
+### 12:
  
 #### Como usuario registrado
  
-Quiero poder alertar que tengo covid de forma anónima a otros usuarios que estuvieron en contacto conmigo en los últimos 15 días
+Quiero poder alertar que creo que tengo covid de forma anónima a otros usuarios que estuvieron en contacto conmigo en los últimos 15 días
  
 Para que estén atentos a los síntomas y puedan consultar a su médico.
  
@@ -780,11 +727,10 @@ Los usuarios registrados deben poder alertar que están cursando la enfermedad y
  
 La aplicación debe enviar notificaciones push a los usuarios que fueron contacto.
 
-#### story points: 8 
+#### story points: 5
 
  
-### 16:
- 
+### 13:
 #### Como usuario
  
 Quiero consultar los síntomas conocidos.
@@ -792,36 +738,22 @@ Quiero consultar los síntomas conocidos.
 Para saber si debo consultar a mi médico.
  
 Los usuarios registrados y los no registrados deben poder acceder a información actualizada sobre los síntomas de covid, reportados por el ministerio de salud pública.
+
+
+Esta funcionalidad puede implementarse como FAQ.
  
 #### Criterios de aceptación:
  
 La información debe ser legible desde el dispositivo móvil.
  
-#### story points: 1
+#### story points: 3
 
- 
-### 17:
+
+### 14:
  
 #### Como usuario registrado
  
-Quiero poder recibir alertas de exposición a casos activos.
- 
-Para estar atento a mis síntomas y consultar a  mi médico.
- 
-Los usuarios registrados deben poder configurar si desean obtener notificaciones de contactos afectados por la enfermedad.
- 
-#### Criterios de aceptación:
- 
-La aplicación debe enviar notificaciones push a los usuarios a quienes así lo configuraron y no en caso contrario.
-
-#### story points: 6 
-
- 
-### 18:
- 
-#### Como usuario registrado
- 
-Quiero poder solicitar ayuda y ver preguntas frecuentes.
+Quiero poder solicitar ayuda y ver preguntas frecuentes (sobre la aplicación).
  
 Para recuperarme de algún problema en la aplicación.
  
@@ -831,31 +763,14 @@ Los usuarios registrados deben poder acceder a las preguntas frecuentes y solici
  
 La aplicación muestra las FAQ y permite chatear para enviar consultas.
 
-#### story points: 9
+#### story points: 8
 
  
-### 19:
- 
-#### Como usuario registrado
- 
-Quiero poder usar la aplicación sin necesidad de leer un manual de usuario.
- 
-Para recuperarme de algún problema en la aplicación.
- 
-Los usuarios registrados deben poder navegar la aplicación y todas sus características sin conocimiento previo de la aplicación, para ello se debe proveer mensajes autoexplicativos.
- 
-#### Criterios de aceptación:
- 
-La aplicación debe ser usada por un usuario sin conocimientos previos del sistema y el mismo debe poder completar las historias de usuario.
-
-#### story points: 3
-
- 
-### 20:
+### 15:
  
 #### Como usuario registrado que pertenece a un grupo prioritario
  
-Quiero quiero que la aplicación me identifiqué como tal.
+Quiero que la aplicación me identifiqué como tal.
  
 Para poder agendarme para la vacuna en forma prioritaria.
  
