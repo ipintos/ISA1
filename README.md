@@ -20,7 +20,7 @@ Tutor: Juan Pablo Russo
 
 [**Introducción** 3](#Introducción)
 
-[**Definición del Marco de Trabajo** 3](#MarcoTrabajo)
+[**Definición del Marco de Trabajo** 3](#Definición del Marco de Trabajo)
 
 ## Introducción
 
