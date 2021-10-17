@@ -118,10 +118,11 @@ Como proveedor de este servicio quiero entender el problema, el dominio y detect
 Esto fue partida en distintas tareas, ya que la misma es ambigua:
 - [ ] **Ingeniería inversa:**
 
-> [color=#549bff]
-Como desarrollador/scrum master/product owner
-quiero realizar ingeniería inversa
-para tomar ideas de proyectos existentes y obtener posibilidades de mejora.
+###### Como desarrollador/scrum master/product owner
+
+###### quiero realizar ingeniería inversa
+
+###### para tomar ideas de proyectos existentes y obtener posibilidades de mejora.
 
 
 Story points : 4 pts
@@ -132,12 +133,12 @@ Tiempo transcurrido 2 hs
 
 - [ ] **Identificación de escenarios principales**
 
-> []
-Como desarrollador/scrum master/product owner
 
-quiero realizar identificación de escenarios principales 
+###### Como desarrollador/scrum master/product owner
 
-para obtener ideas a modo de realizar requerimientos funcionales.
+###### quiero realizar identificación de escenarios principales 
+
+###### para obtener ideas a modo de realizar requerimientos funcionales.
 
 Story points : 3 pts
 
@@ -145,12 +146,11 @@ Tiempo transcurrido 2 hs
 
 - [ ] **Estudio de competidores**
 
-> []
-Como desarrollador/scrum master/product owner
+###### Como desarrollador/scrum master/product owner
 
-quiero realizar estudio de competidores
+###### quiero realizar estudio de competidores
 
-para entender el posicionamiento en el mercado
+###### para entender el posicionamiento en el mercado
 
 Story points : 2 pts
 
@@ -158,12 +158,11 @@ Tiempo transcurrido 2 hs
 
 - [ ] **Identificación de los estratos sociales**
 
-> []
-Como desarrollador/scrum master/product owner
+###### Como desarrollador/scrum master/product owner
 
-quiero realizar identificación de los estratos sociales
+###### quiero realizar identificación de los estratos sociales
 
-para ajustar necesidades de la aplicación a los estratos
+###### para ajustar necesidades de la aplicación a los estratos
 
 Story points : 2 pts
 
@@ -171,12 +170,11 @@ Tiempo transcurrido 1:30 hs
 
 - [ ] **Funcionalidades por interesados**
 
-> []
-Como desarrollador/scrum master/product owner
+###### Como desarrollador/scrum master/product owner
 
-quiero realizar funcionalidades por interesados 
+###### quiero realizar funcionalidades por interesados 
 
-para acercarme a la solución a desarrollar
+###### para acercarme a la solución a desarrollar
 
 Story points : 4 pts
 
@@ -184,12 +182,11 @@ Tiempo transcurrido 2 hs
 
 - [ ] **Identificar el valor de negocio asociado a cada escenario** 
 
-> []
-Como desarrollador/scrum master/product owner
+###### Como desarrollador/scrum master/product owner
 
-quiero  identificar el valor de negocio asociado a cada escenario. 
+###### quiero  identificar el valor de negocio asociado a cada escenario. 
 
-para entender si el escenario pensado aplica o no
+###### para entender si el escenario pensado aplica o no
 
 Story points : 4 pts
 
@@ -201,9 +198,7 @@ Como proveedor de este servicio quiero identificar la solución a la problemáti
 Esta se dividió en las siguientes tareas:
 
 Si bien el valor de las user stories parecería que carecen de valor para el negocio, el valor de esto radica en que el último obtiene un mejor entendimiento de lo que busca.
-
-1.Story map 
-
+- [ ] **Story map**
 
 Como desarrollador/scrum master/product owner
 
@@ -215,7 +210,7 @@ Story points : 3 pts
 
 Tiempo transcurrido 2 hs
 
-2.product backlog 
+- [ ] **Product backlog** 
 
 Como desarrollador/scrum master/product owner
 
@@ -227,7 +222,7 @@ Tiempo transcurrido 2 hs
 
 Story points : 4 pts
 
-3.épicas 
+- [ ] **Épicas**
 
 Como desarrollador/scrum master/product owner
 
@@ -239,8 +234,7 @@ Tiempo transcurrido 1 hs
 
 Story points : 2 pts
 
-4.historias de usuario 
-
+- [ ] **Historias de usuario** 
 
 Como desarrollador/scrum master/product owner
 
@@ -252,7 +246,7 @@ Tiempo transcurrido 4 hs
 
 Story points : 4 pts
 
-5.criterios de aceptación 
+- [ ] **Criterios de aceptación** 
 
 Como desarrollador/scrum master/product owner
 
@@ -265,16 +259,21 @@ Story points : 3 pts
 Tiempo transcurrido 2 hs
 
 ### SPRINT RETROSPECTIVE
+
 Decidimos reunirnos a modo de inspeccionar el proceso y analizar qué salió mal, qué podríamos mejor, qué hemos aprendido y en esencia qué salió bien que deberíamos mantener en iteraciones próximas.
 
-Se calculan algunas métricas que se detallan a conitnuación:
+Se calculan algunas métricas que se detallan a continuación :
 
 -Velocity: 35 pts
+
 Se organiza una dinámica de grupo cuyo foco se encontraba en un pizarrón en miro.
+
 ![reflexiones](https://github.com/ipintos/ISA1/blob/develop/imagenes/reflexiones.png)
 
 En esta instancia, surge una pregunta muy interesante y es la siguiente:
+
 ¿Qué horas trackeo en Toggl?
+
 ![toggl](https://github.com/ipintos/ISA1/blob/develop/imagenes/toggl.png)
 
 ¿Elapsed time vs ideal time?
@@ -292,13 +291,17 @@ A continuación, se adjunta el resumen de la dinámica realizada a través de Mi
 
 En definitiva, según lo recabado se concluye lo siguiente:
 
--Trackearemos todo el tiempo transcurrido, con el track de toggl.
--Aumentaremos las reuniones a tres veces por semana.
--Las tareas continuarán siendo breves.
--Ramificaremos una rama y englobaremos en esta tareas similares, ya que la alta ramificación causa confusión.
--Las tareas relacionados serán asignadas a un mismo integrante, ya que esto contribuye al correcto desarrollo de esta, siendo que cada integrante puede realizarla en el momento que crea conveniente sin generar disturbios o confusión.
--Deberíamos reflejar en todo momento el avance real en github, ya que es más costoso realizar un resumen luego de haber finalizado la iteración que realizar un seguimiento acorde . En este sentido, nos gustaría comprometernos a velar por la transparencia y entender realmente dónde estamos parados en cada momento, así como identificar posibles cuello de botella en tareas.
-Por tanto, buscaremos transparentar de mejor forma los avances.
+- [ ] Trackearemos todo el tiempo transcurrido, con el track de toggl.
+
+ - [ ] Aumentaremos las reuniones a tres veces por semana.
+
+ - [ ] Las tareas continuarán siendo breves.
+
+- [ ] Ramificaremos una rama y englobaremos en esta tareas similares, ya que la alta ramificación causa confusión.
+
+- [ ] Las tareas relacionados serán asignadas a un mismo integrante, ya que esto contribuye al correcto desarrollo de esta, siendo que cada integrante puede realizarla en el momento que crea conveniente sin generar disturbios o confusión.
+
+- [ ] Deberíamos reflejar en todo momento el avance real en github, ya que es más costoso realizar un resumen luego de haber finalizado la iteración que realizar un seguimiento acorde .En este sentido, nos gustaría comprometernos a velar por la transparencia y entender realmente dónde estamos parados en cada momento, así como identificar posibles cuello de botella en tareas.Por tanto, buscaremos transparentar de mejor forma los avances.
 
 ### SPRINT REVIEW
 Se insepecciona el producto.
