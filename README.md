@@ -100,11 +100,11 @@ La presente pretende validar el prototipo realizado en una étapa previa con los
 ITERACIÓN 4
 En este caso, se reflexionará sobre las lecciones y aprendizajes derivados de fases anteriores. Asimismo, se deberá realizar un video explicativo así como recopilación de documentación y evidencias en el caso que aún falten.
 
-## ITERACIÓN 1
 
 De modo de poder llevar a cabo el kickoff tuvimos una instancia previa , siendo que era necesario definir tareas de la iteración del spike.
 
 En esta iteración se realiza el siguiente sprint backlog:
+
 ![tasks-general-project](https://github.com/ipintos/ISA1/blob/develop/imagenes/tasks-general-project.png)
 ![tas-general-project-2](https://github.com/ipintos/ISA1/blob/develop/imagenes/tas-general-project-2.png)
 ![tasks-general-project-3](https://github.com/ipintos/ISA1/blob/develop/imagenes/tasks-general-project-3.png)
@@ -116,13 +116,13 @@ Identificar el problema es una historia épica:
 Como proveedor de este servicio quiero entender el problema, el dominio y detectar problemas actuales para poder realizar una solución acorde.
 
 Esto fue partida en distintas tareas, ya que la misma es ambigua:
-1.Ingeniería inversa.
+- [ ] **Ingeniería inversa:**
 
+> [color=#549bff]
 Como desarrollador/scrum master/product owner
-
 quiero realizar ingeniería inversa
-
 para tomar ideas de proyectos existentes y obtener posibilidades de mejora.
+
 
 Story points : 4 pts
 
@@ -130,60 +130,55 @@ Tiempo transcurrido 2 hs
 
 
 
-2.identificación de escenarios principales 
+- [ ] **Identificación de escenarios principales**
 
+> [color=#549bff]
 Como desarrollador/scrum master/product owner
-
 quiero realizar identificación de escenarios principales 
-
 para obtener ideas a modo de realizar requerimientos funcionales.
 
 Story points : 3 pts
 
 Tiempo transcurrido 2 hs
 
-3.estudio de competidores 
+- [ ] **Estudio de competidores**
 
+> [color=#549bff]
 Como desarrollador/scrum master/product owner
-
 quiero realizar estudio de competidores
-
 para entender el posicionamiento en el mercado
 
 Story points : 2 pts
 
 Tiempo transcurrido 2 hs
 
-4.identificación de los estratos sociales 
+- [ ] **Identificación de los estratos sociales**
 
+> [color=#549bff]
 Como desarrollador/scrum master/product owner
-
 quiero realizar identificación de los estratos sociales
-
 para ajustar necesidades de la aplicación a los estratos
 
 Story points : 2 pts
 
 Tiempo transcurrido 1:30 hs
 
-5.funcionalidades por interesados 
+- [ ] **Funcionalidades por interesados**
 
+> [color=#549bff]
 Como desarrollador/scrum master/product owner
-
 quiero realizar funcionalidades por interesados 
-
 para acercarme a la solución a desarrollar
 
 Story points : 4 pts
 
 Tiempo transcurrido 2 hs
 
-6.identificar el valor de negocio asociado a cada escenario. 
+- [ ] **Identificar el valor de negocio asociado a cada escenario** 
 
+> [color=#549bff]
 Como desarrollador/scrum master/product owner
-
 quiero  identificar el valor de negocio asociado a cada escenario. 
-
 para entender si el escenario pensado aplica o no
 
 Story points : 4 pts
