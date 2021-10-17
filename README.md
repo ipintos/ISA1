@@ -20,14 +20,17 @@ Tutor: Juan Pablo Russo
 
 [**Introducción** 3](#Introducción)
 
-[**Definición del Marco de Trabajo** 3](#Definición del Marco de Trabajo)
+[**Definición del Marco de Trabajo** 3](#MarcoTrabajo)
+
+[**Iteración 1** 3](#Iteración1)
 
 ## Introducción
+<div id='Introducción' />
 
 En primer lugar, creímos necesario definir un marco de trabajo. Nuestro proyecto está enfocado en metodologías ágiles basados en SCRUM.
-Entendimos que es sumamente importante el uso de una metodología como SCRUM, dado que nos encontramos con un negocio desconocido y con riesgo a cambios durante su proceso. Por esta razón, debemos iterar sobre los requerimientos, ya que en un principio no son triviales.
+Entendimos que es sumamente importante el uso de una metodología como SCRUM, dado que nos encontramos ante un negocio desconocido y con riesgo a cambios durante su proceso. Por esta razón, debemos iterar sobre los requerimientos, ya que en un principio no son triviales.
 
-Asimismo, sería conveniente obtener feedback sobre lo realizado ya que esto baja el impacto de cambio en lo realizado y creemos firmemente en derive en un mejor encaminamiento hacia el resultado final.
+Asimismo, sería conveniente obtener feedback sobre lo realizado ya que esto baja el impacto de cambio en lo realizado y creemos firmemente en que estoderive en un mejor encaminamiento hacia el resultado final.
 
 ## **Definición del Marco de Trabajo**
 <div id='MarcoTrabajo' />
@@ -53,29 +56,35 @@ Nos comprometemos a todos ser partícipes del proyecto y estar al tanto del trab
         
         
 ## Glosario:
-Definition of Done (vale para todas las historias de usuario).
-La tarea debe cumplir con los estándares de calidad definidos para el proyecto referidos a La tarea debe haber sido verificada en la sync semanal de los viernes contra sus criterios de aceptación que serán definidos para cada tarea individual. La tarea debe haber sido aprobada por el Product Owner. La tarea debe haber sido validada por
+
+Definition of Done :
+La tarea debe cumplir con los estándares de calidad definidos para el proyecto referidos a La tarea debe haber sido verificada en la sync semanal de los viernes contra sus criterios de aceptación que serán definidos para cada tarea individual. La tarea debe haber sido aprobada por el Product Owner. 
 
 Definition of Ready
 El desarrollador logra interpretar sin ambigüedades la definición del caso. La tarea debe tener una estimación (puntos de historia) La tarea debe poder validarse y corresponderse dentro del Sprint. La realización de la tarea no debe de contar con tareas pendientes. El detalle funcional, detalle técnico y los casos de prueba de cada tarea deben ser claros para que sean entendibles por cualquier miembro del equipo. La tarea debe contar con criterios de aceptación.
 
-PLANIFICACIÓN DE LAS ITERACIONES
-Objetivos del Sprint: Sprint backlog: estimaciones, velocidad del equipo, definición de tareas del sprint, capacidad del sprint y RRHH participantes por rol.
 
 ## ITERACIÓN 1-spike
+<div id='Iteración1' />
+
 Esta iteración tiene los siguientes objetivos:
 
-Comunicar a los diferentes actores involucrados y stakeholders respecto a la solución a implementar.
+- [ ] Comunicar a los diferentes actores involucrados y stakeholders respecto a la solución a implementar.
 
-Presentar brevemente el alcance y los hitos del proyecto.
 
-Presentar la forma de trabajo.
+- [ ] Presentar brevemente el alcance y los hitos del proyecto.
 
-Alinear fechas.
 
-Transparencia del trabajo a realizar.
+- [ ] Presentar la forma de trabajo.
 
-Posibilidad de negociación del alcance.
+
+- [ ] Alinear fechas.
+
+
+- [ ] Transparencia del trabajo a realizar.
+
+
+- [ ] Posibilidad de negociación del alcance.
 
 SEGUIMIENTO DE LA ITERACIONES Daily scrum, burndown o burnup charts, registro de horas.
 
