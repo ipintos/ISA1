@@ -29,21 +29,29 @@ Entendimos que es sumamente importante el uso de una metodología como SCRUM, da
 
 Asimismo, sería conveniente obtener feedback sobre lo realizado ya que esto baja el impacto de cambio en lo realizado y creemos firmemente en derive en un mejor encaminamiento hacia el resultado final.
 
-## Definición del Marco de Trabajo
-Marco general de SCRUM
+## **Definición del Marco de Trabajo**
+<div id='MarcoTrabajo' />
+
+### Marco general de SCRUM
+
 Sync semanal breve: Esta se llevará a cabo los lunes con una duración que estimamos no sea más de media hora, cuyo objetivo es alinear el trabajo semanal de cada integrante.
 
 Sync semanal: Esta se llevará a cabo los viernes con una duración que estimamos no más de dos horas, cuyo objetivo es revisar el trabajo semanal realizado por cada integrante realizando así una puesta a punto. Culminando nuestra reunión con una actividad team building activity.
 
 Nos comprometemos a todos ser partícipes del proyecto y estar al tanto del trabajo de los otros participantes.
 
-## Roles del equipo
-Product owner
-    Iara Pintos
-Scrum master
-    Noelia Bentancor
-Development team
-    Ismael Umpierrrez, Hernán Reyes
+### Roles del equipo
+
+#### Product owner
+        Iara Pintos
+
+#### Scrum master
+        Noelia Bentancor
+
+#### Development team
+        Ismael Umpierrrez, Hernán Reyes
+        
+        
 ## Glosario:
 Definition of Done (vale para todas las historias de usuario).
 La tarea debe cumplir con los estándares de calidad definidos para el proyecto referidos a La tarea debe haber sido verificada en la sync semanal de los viernes contra sus criterios de aceptación que serán definidos para cada tarea individual. La tarea debe haber sido aprobada por el Product Owner. La tarea debe haber sido validada por
