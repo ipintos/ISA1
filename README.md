@@ -132,9 +132,11 @@ Tiempo transcurrido 2 hs
 
 - [ ] **Identificación de escenarios principales**
 
-> [color=#549bff]
+> []
 Como desarrollador/scrum master/product owner
+
 quiero realizar identificación de escenarios principales 
+
 para obtener ideas a modo de realizar requerimientos funcionales.
 
 Story points : 3 pts
@@ -143,9 +145,11 @@ Tiempo transcurrido 2 hs
 
 - [ ] **Estudio de competidores**
 
-> [color=#549bff]
+> []
 Como desarrollador/scrum master/product owner
+
 quiero realizar estudio de competidores
+
 para entender el posicionamiento en el mercado
 
 Story points : 2 pts
@@ -154,9 +158,11 @@ Tiempo transcurrido 2 hs
 
 - [ ] **Identificación de los estratos sociales**
 
-> [color=#549bff]
+> []
 Como desarrollador/scrum master/product owner
+
 quiero realizar identificación de los estratos sociales
+
 para ajustar necesidades de la aplicación a los estratos
 
 Story points : 2 pts
@@ -165,9 +171,11 @@ Tiempo transcurrido 1:30 hs
 
 - [ ] **Funcionalidades por interesados**
 
-> [color=#549bff]
+> []
 Como desarrollador/scrum master/product owner
+
 quiero realizar funcionalidades por interesados 
+
 para acercarme a la solución a desarrollar
 
 Story points : 4 pts
@@ -176,9 +184,11 @@ Tiempo transcurrido 2 hs
 
 - [ ] **Identificar el valor de negocio asociado a cada escenario** 
 
-> [color=#549bff]
+> []
 Como desarrollador/scrum master/product owner
+
 quiero  identificar el valor de negocio asociado a cada escenario. 
+
 para entender si el escenario pensado aplica o no
 
 Story points : 4 pts
