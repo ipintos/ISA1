@@ -72,6 +72,8 @@ El desarrollador logra interpretar sin ambigüedades la definición del caso. La
 
 Esta iteración tiene los siguientes objetivos:
 
+- [ ]  La primera iteración tiene como objetivo fundamental la identificación del problema a definir con una solución, cuyo resultado nos encaminará hacia un mejor entendimiento del problema. En este punto se parte de la base de que los integrantes desconocemos el problema y por este motivo necesitamos esta primera iteración. La finalización de esta iteración será el 8 de octubre.
+
 - [ ] Comunicar a los diferentes actores involucrados y stakeholders respecto a la solución a implementar.
 
 
@@ -89,10 +91,6 @@ Esta iteración tiene los siguientes objetivos:
 
 - [ ] Posibilidad de negociación del alcance.
 
-SEGUIMIENTO DE LA ITERACIONES Daily scrum, burndown o burnup charts, registro de horas.
-
-INSPECCIÓN Y ADAPTACIÓN DEL PROCESO Retrospectivas
-La primera iteración tiene como objetivo fundamental la identificación del problema a definir con una solución, cuyo resultado nos encaminará hacia un mejor entendimiento del problema. En este punto se parte de la base de que los integrantes desconocemos el problema y por este motivo necesitamos esta primera iteración. La finalización de esta iteración será el 8 de octubre.
 
 ITERACIÓN 2
 Esta iteración abarca un lapso temporal de una semana. El objetivo de la presente abarca la prototipación de la solución planteada en la iteración previa. Esta étapa culminará el 15 de octubre.
@@ -846,4 +844,20 @@ Como administrador quiero asegurarme de que los usuarios pueden sacarse las duda
 
 Como administrador quiero que todos los usuarios puedan agendarse para ser vacunados.
 
+## **Iteración 2**
+<div id='Iteración2' />
+
+Esta iteración abarca un lapso temporal de una semana. El objetivo de la presente abarca la prototipación de la solución planteada en la iteración previa. Esta étapa culminará el 22 de octubre.
+
+Objetivos de la iteración :
+
+- [ ] En primer lugar, se ajustarán las historias de usuario al sprint backlog.
+
+- [ ] Se reestimarán las historias de usuario acorde a escala Fibonacci.
+
+- [ ] Al final del sprint, se creará una dinámica de retrospectiva de la iteración que permita inspeccionar y extraer mejores conclusiones.
+
+- [ ] Los prototipos en esencia serán realizados de manera que faciliten el cambio. Esto se debe a que partimos de la base de que en términos del usuario final es más sencillo realizar feedback constructivo al prototipo si este no se encuentra en una étapa madura.
+
+- [ ] No aceptaremos que las validaciones alaben a lo prototipado sin presencia de feedback constructivo. En todo momento se debe inducir que es un producto cuya versión es inicial y su madurez es temprana. De este modo, se encuentra que el objetivo principal es el feedback que nos ayude a partir de una base más sólida para la iteración próxima.
 
