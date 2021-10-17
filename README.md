@@ -24,6 +24,9 @@ Tutor: Juan Pablo Russo
 
 [**Iteración 1** 3](#Iteración1)
 
+[**Iteración 2** 3](#Iteración2)
+
+
 ## Introducción
 <div id='Introducción' />
 
@@ -64,7 +67,7 @@ Definition of Ready
 El desarrollador logra interpretar sin ambigüedades la definición del caso. La tarea debe tener una estimación (puntos de historia) La tarea debe poder validarse y corresponderse dentro del Sprint. La realización de la tarea no debe de contar con tareas pendientes. El detalle funcional, detalle técnico y los casos de prueba de cada tarea deben ser claros para que sean entendibles por cualquier miembro del equipo. La tarea debe contar con criterios de aceptación.
 
 
-## ITERACIÓN 1-spike
+## ITERACIÓN 1
 <div id='Iteración1' />
 
 Esta iteración tiene los siguientes objetivos:
@@ -113,16 +116,17 @@ En esta iteración se realiza el siguiente sprint backlog:
 Los stories points fueron puestos en común y discutidos , a modo de hallar un consenso.
 
 Identificar el problema es una historia épica:
+
 Como proveedor de este servicio quiero entender el problema, el dominio y detectar problemas actuales para poder realizar una solución acorde.
 
 Esto fue partida en distintas tareas, ya que la misma es ambigua:
 - [ ] **Ingeniería inversa:**
 
-###### Como desarrollador/scrum master/product owner
+Como desarrollador/scrum master/product owner
 
-###### quiero realizar ingeniería inversa
+quiero realizar ingeniería inversa
 
-###### para tomar ideas de proyectos existentes y obtener posibilidades de mejora.
+para tomar ideas de proyectos existentes y obtener posibilidades de mejora.
 
 
 Story points : 4 pts
@@ -134,11 +138,11 @@ Tiempo transcurrido 2 hs
 - [ ] **Identificación de escenarios principales**
 
 
-###### Como desarrollador/scrum master/product owner
+Como desarrollador/scrum master/product owner
 
-###### quiero realizar identificación de escenarios principales 
+quiero realizar identificación de escenarios principales 
 
-###### para obtener ideas a modo de realizar requerimientos funcionales.
+para obtener ideas a modo de realizar requerimientos funcionales.
 
 Story points : 3 pts
 
@@ -146,11 +150,11 @@ Tiempo transcurrido 2 hs
 
 - [ ] **Estudio de competidores**
 
-###### Como desarrollador/scrum master/product owner
+Como desarrollador/scrum master/product owner
 
-###### quiero realizar estudio de competidores
+quiero realizar estudio de competidores
 
-###### para entender el posicionamiento en el mercado
+para entender el posicionamiento en el mercado
 
 Story points : 2 pts
 
@@ -158,11 +162,11 @@ Tiempo transcurrido 2 hs
 
 - [ ] **Identificación de los estratos sociales**
 
-###### Como desarrollador/scrum master/product owner
+Como desarrollador/scrum master/product owner
 
-###### quiero realizar identificación de los estratos sociales
+quiero realizar identificación de los estratos sociales
 
-###### para ajustar necesidades de la aplicación a los estratos
+para ajustar necesidades de la aplicación a los estratos
 
 Story points : 2 pts
 
@@ -170,11 +174,11 @@ Tiempo transcurrido 1:30 hs
 
 - [ ] **Funcionalidades por interesados**
 
-###### Como desarrollador/scrum master/product owner
+Como desarrollador/scrum master/product owner
 
-###### quiero realizar funcionalidades por interesados 
+quiero realizar funcionalidades por interesados 
 
-###### para acercarme a la solución a desarrollar
+para acercarme a la solución a desarrollar
 
 Story points : 4 pts
 
@@ -182,22 +186,28 @@ Tiempo transcurrido 2 hs
 
 - [ ] **Identificar el valor de negocio asociado a cada escenario** 
 
-###### Como desarrollador/scrum master/product owner
+Como desarrollador/scrum master/product owner
 
-###### quiero  identificar el valor de negocio asociado a cada escenario. 
+quiero  identificar el valor de negocio asociado a cada escenario. 
 
-###### para entender si el escenario pensado aplica o no
+para entender si el escenario pensado aplica o no
 
 Story points : 4 pts
 
 Tiempo transcurrido 2 hs
 
 Luego, identificamos la épica asociada a la propuesta de resolución del problema en cuestión:
-Como proveedor de este servicio quiero identificar la solución a la problemática para poder construir una solución acorde y ajustada a las necesidades del negocio.
+
+Como proveedor de este servicio 
+
+quiero identificar la solución a la problemática 
+
+para poder construir una solución acorde y ajustada a las necesidades del negocio.
 
 Esta se dividió en las siguientes tareas:
 
 Si bien el valor de las user stories parecería que carecen de valor para el negocio, el valor de esto radica en que el último obtiene un mejor entendimiento de lo que busca.
+
 - [ ] **Story map**
 
 Como desarrollador/scrum master/product owner
@@ -412,8 +422,8 @@ Para que un competidor sea capaz de ser una amenaza para nosotros, deberá obten
 
 **Nivel:** Medio
 
-El único producto sustitutivo posible es la ausencia de la pandemia, controlando así el covid-19.
-Con los estudios realizados por científicos para contrarrestar el Covid-19 a través de la vacunación creemos que el producto sustitutivo más relevante es el desarrollo de una vacuna que permita concluir con el contagio del virus.
+El único producto sustitutivo posible es la ausencia de la pandemia, controlando así el COVID-19.
+Con los estudios realizados por científicos para contrarrestar el COVID-19 a través de la vacunación creemos que el producto sustitutivo más relevante es el desarrollo de una vacuna que permita concluir con el contagio del virus.
 
 De esta manera nuestra aplicación no tendrá más relevancia para la población. 
 
@@ -478,7 +488,7 @@ Poco después, Juan toma el celular y recibe un mensaje. "Alerta de exposición 
 
 **Agenda de vacunación:**
 
-Una de las funcionalidades más valoradas por los usuarios, en la mismas podemos validar si estamos habilitados para la vacunación y en caso de estarlo poder agendarse.
+Una de las funcionalidades más valoradas por los usuario es la agenda de vacunación. En esta sección en podemos validar si estamos habilitados para la vacunación y en caso de estarlo poder agendarse.
 
 ## Mejoras que podemos brindar
 
@@ -507,22 +517,22 @@ Creemos que nuestro rival cuenta con pantallas poco amigables para estratos con 
 
 ### Criticas de usuarios
 
-- Fallas de conectividad
+- Fallas de conectividad:
 
 ![Reseña conexión 1](https://github.com/ipintos/ISA1/blob/feature/inverseEngineering/imagenes/Rese%C3%B1aConexionI.png)
 ![Reseña conexión 2](https://github.com/ipintos/ISA1/blob/feature/inverseEngineering/imagenes/Rese%C3%B1aConexionII.png)
 
-- Fallas en obtención de código de validación.
+- Fallas en obtención de código de validación:
 
 ![Código validación 1](https://github.com/ipintos/ISA1/blob/feature/inverseEngineering/imagenes/Rese%C3%B1aCodigoValidacionI.png)
 ![Código validación 2](https://github.com/ipintos/ISA1/blob/feature/inverseEngineering/imagenes/Rese%C3%B1aCodigoValidacionII.png)
 
-- Fallas en cambio de datos personales
+- Fallas en cambio de datos personales:
 
 ![Cambio de datos 1](https://github.com/ipintos/ISA1/blob/feature/inverseEngineering/imagenes/Rese%C3%B1aCambiarDatosI.png)
 ![Cambio de datos 2](https://github.com/ipintos/ISA1/blob/feature/inverseEngineering/imagenes/Rese%C3%B1aCambiarDatosII.png)
 
-- Extranjeros con residencias en Uruguay
+- Extranjeros con residencias en Uruguay:
 
 ![Extranjero](https://github.com/ipintos/ISA1/blob/feature/inverseEngineering/imagenes/Rese%C3%B1aExtranjero.png)
 
@@ -536,7 +546,7 @@ La conclusión se realiza tomando encuenta todos los estratos, como por ejemplo 
 facil de usar, datos con graficas muy tecnicas que muchas veces son entendiso por expertos del tema, entre otras.
 
 Por otro lado recabamos información de lo que opinan los usuarios sobre la aplicación. Notamos que la gran mayoria cuentan con quejas
-de conectibidad, que la aplicación no permite los cambios de datos personales, fallas en obtención de codigos de validacion, no se toman
+de conectividad, que la aplicación no permite los cambios de datos personales, fallas en obtención de codigos de validacion, no se toman
 en cuenta extranjeros con residencias en uruguay, entre otras.
 
 Este estudio nos revela información o aspectos de la aplicación que debemos atacar/mejorar contra nuestro rival para poder ser aceptada y utilizada por la población.
@@ -835,4 +845,5 @@ Como administrador quiero que todos los usuarios tengan acceso a la aplicación.
 Como administrador quiero asegurarme de que los usuarios pueden sacarse las dudas que tengan respecto del coronavirus
 
 Como administrador quiero que todos los usuarios puedan agendarse para ser vacunados.
+
 
