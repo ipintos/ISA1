@@ -891,5 +891,9 @@ Decidimos reunirnos a modo de inspeccionar el proceso y analizar qué salió mal
 Se realiza actividad cuyo objetivo es repartir tareas acorde a las inquietudes e intereses de cada uno. Creemos firmemente en que la motivación nos encausa a buen camino y por tanto si repartimos las tareas según la afinidad de cada uno las tareas van a ser realizadas de la mejor forma.
 
 
+![motivation-retro-1](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/motivation-retro-1.png)
 
+![motivation-retro-2](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/motivation-retro-2.png)
+
+![motivation-retro-3](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/motivation-retro-3.png)
 
