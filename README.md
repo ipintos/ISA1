@@ -574,6 +574,7 @@ Ningún otro usuario además de quien hace la reserva debe ver sus datos persona
 La funcionalidad cuenta con una interfaz Androidy iOS
 
 #### story points: 13
+#### priority: 2
 
 
 ### 2:
@@ -598,6 +599,7 @@ Una muestra de 5 personas seleccionadas al azar debe ser capaz de llegar a las g
 La funcionalidad cuenta con una interfaz Androidy iOS
 
 #### story points: 5
+#### priority: 3
 
 
 ### 3:
@@ -621,6 +623,7 @@ Siempre se recomienda una acción para cada caso.
 La funcionalidad cuenta con una interfaz Androidy iOS
 
 #### story points: 21
+#### priority: 4
 
 
 ### 4:
@@ -643,6 +646,7 @@ La funcionalidad tiene que funcionar en dispositivos android y iOS equipados con
 Una muestra de 5 personas seleccionadas al azar debe ser capaz de decir que entendió los pasos que se le sugieren.
 
 #### story points: 3
+#### priority: 3
 
 
 ### 5:
@@ -664,7 +668,7 @@ Debe especificarse una manera de obtener el usuario y contraseña.
 Debe haber contingencias para aquellas personas que no tengan celular y/o no entiendan el uso del mismo.
 
 #### story points: 3
-
+#### priority: 1
 
 ### 6:
  
@@ -679,6 +683,7 @@ Para poder hacer una reserva para vacunación.
 Debe funcionar para iOS y Android. El usuario debe quedar registrado en la base de datos.
 
 #### story points: 5
+#### priority: 1
  
 
 ### 7:
@@ -696,6 +701,7 @@ Los turistas deben poder registrarse para crear una solicitud para agenda de vac
 Los usuarios con pasaporte deben quedar registrados en la base de datos.
 
 #### story points: 3
+#### priority: 4
 
  
 ### 8:
@@ -713,6 +719,7 @@ Los usuarios deben poder consultar las fechas de sus reservas, y configurar si q
 Debe funcionar en android e iOS
 
 #### story points: 8 
+#### priority: 2
 
  
 ### 9:
@@ -730,6 +737,7 @@ Los usuarios deben poder generar un comprobante digital de código QR que pueda 
 El código QR debe poder ser leído y mostrar que la pauta de vacunación está completa sin revelar datos personales. 
  
 #### story points: 3
+#### priority: 2
 
 
 ### 10:
@@ -747,6 +755,7 @@ Los usuarios deben poder cancelar reservas en un plazo mayor a 24h. antes de la 
 La cita cancelada debe quedar disponible para ser reservada por otro usuario en el momento de confirmación de la cancelación.
 
 #### story points: 3
+#### priority: 3
 
  
 ### 11:
@@ -764,6 +773,7 @@ Los usuarios deben poder modificar la fecha de su reserva en un plazo mayor a 24
 La o las citas canceladas, debe quedar disponible para ser reservadas por otro usuario en el momento de confirmación de la cancelación.
 
 #### story points: 5 
+#### priority: 4
 
 
 ### 12:
@@ -781,6 +791,7 @@ Los usuarios registrados deben poder alertar que están cursando la enfermedad y
 La aplicación debe enviar notificaciones push a los usuarios que fueron contacto.
 
 #### story points: 5
+#### priority: 3
 
  
 ### 13:
@@ -800,6 +811,7 @@ Esta funcionalidad puede implementarse como FAQ.
 La información debe ser legible desde el dispositivo móvil.
  
 #### story points: 3
+#### priority: 4
 
 
 ### 14:
@@ -817,6 +829,7 @@ Los usuarios registrados deben poder acceder a las preguntas frecuentes y solici
 La aplicación muestra las FAQ y permite chatear para enviar consultas.
 
 #### story points: 8
+#### priority: 4
 
  
 ### 15:
@@ -834,6 +847,7 @@ Los usuarios registrados que pertenezcan a un grupo prioritario deben poder ser 
 Los usuarios deben ser tratados como prioritarios en caso que así estén registrados en el BPS.
 
 #### story points: 8
+#### priority: 5
 
 
 ## Épicas:
