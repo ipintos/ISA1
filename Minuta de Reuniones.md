@@ -285,6 +285,83 @@ Llegar con algún registro de horas en la semana.
 
 Pensar si necesitamos cambiar algo en el trabajo previo.
 
+### Reunión N° 6
+
+<table>
+	<tr>
+	    <th>Fecha</th>
+	    <td>22/10/2021</td>
+	    <th>Hora Inicio</th>
+        <td>19:00</td>   
+	</tr >
+	<tr >
+	    <th>Organizador</th>
+	    <td></td>
+	    <th>Hora Fin</th>
+        <td>20:30</td>   
+	</tr>
+	<tr>
+	    <th>Lugar</th>
+        <td>https://meet.google.com</td>
+	    <th>Objetivo</th>
+	    <td>Cierre de sprint, Sprint review, restrospective, poner al dia al equipo de las últimas novedades. Definir pasos a seguir.</td>
+	</tr>
+</table>
+
+#### Participantes 
+
+<table>
+	<tr>
+        <th>Nombre</th>
+        <th>N° Estudiante</th>
+        <th>Rol</th>
+	</tr>
+	<tr>
+	    <td>Hernán</td>
+	    <td>235861</td>
+        <td>Developer</td>
+	</tr>
+	<tr>
+	    <td>Ismael</td>
+	    <td>254254</td>
+        <td>Developer</td>
+	</tr>
+	<tr>
+	    <td>Noelia</td>
+	    <td>242970</td>
+        <td>Scrum Master</td>
+	</tr>
+	<tr>
+	    <td>Iara</td>
+	    <td>191748</td>
+        <td>Product owner</td>
+	</tr>
+</table>
+
+#### Notas 
+
+Los prototipos tenian algunos problemas de funcionamiento, Hernán los corrigió. 
+
+Se hizo la primer ronda de validaciones con los usuarios, se recogió feedback sobre la usabilidad de la aplicación con 4 usuarios.
+
+Algunos de los comentarios recibidos fueron:
+
+- La manera en la que se accedia a la reserva de horario era confusa.
+- El mapa le resultó poco usable a una usuaria. Se sugiere agregar un selector que permita elegir para que despues se muestre.
+- A un usuario le resultó extraño que la aplicación pregunte si se es uruguayo o extranjero.
+
+Así mismo los usuarios pudieron sin mayores inconvenientes:
+
+- Hacer login.
+- Encontrar las pantallas con métricas.
+- Registrarse.
+- Cancelar la reserva.
+
+Respecto a la carga de horas:
+
+Estuvimos discutiendo como hacer para poder cargarlas efectivamente, definimos que vamos a planear mejor el trabajo al principio del sprint y nos comprometimos a llevar un registro más exhaustivo del trabajo.
+
+Repartimos las tareas para este release y completamos algunas actividades de sprint review y retrospectiva.
 
 ### Reunión N° X
 
