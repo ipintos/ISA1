@@ -897,3 +897,12 @@ Se realiza actividad cuyo objetivo es repartir tareas acorde a las inquietudes e
 
 ![motivation-retro-3](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/motivation-retro-3.png)
 
+El resultado de esta dinámica fue la siguiente:
+
+![ismael-motivation](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/ismael-motivation.png)
+
+![noelia-motivation](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/noelia-motivation.png)
+
+![iara-motivation](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/iara-motivation.png)
+
+![hernan-motivation](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/hernan-motivation.png)
