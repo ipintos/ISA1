@@ -872,3 +872,24 @@ La agrupación de estas historias de usuario quedó de la siguiente forma:
 ![tercera-epica](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/tercera-epica.png)
 
 ![cuarta-epica](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/cuarta-epica.png)
+
+En primer lugar, decidimos que en el miro debíamos dar visibilidad a las tareas del equipo a fin de detectar cuello de botella o demás dependencias entre el equipo, así como evitar que un integrante este sobrecargado.
+
+En este decidimos, decidimos darle visibilidad mediante la siguiente dinámica adjuntada a continuación :
+
+![instructions-now-next-later](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/instructions-now-next-later.png)
+
+
+![now-next-later](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/now-next-later.png)
+
+### SPRINT RETROSPECTIVE
+
+Decidimos reunirnos a modo de inspeccionar el proceso y analizar qué salió mal, qué podríamos mejor, qué hemos aprendido y en esencia qué salió bien que deberíamos mantener en iteraciones próximas.
+
+#### ¿QUÉ ME MOTIVA? ¿QUÉ HAGO MEJOR?
+
+Se realiza actividad cuyo objetivo es repartir tareas acorde a las inquietudes e intereses de cada uno. Creemos firmemente en que la motivación nos encausa a buen camino y por tanto si repartimos las tareas según la afinidad de cada uno las tareas van a ser realizadas de la mejor forma.
+
+
+
+
