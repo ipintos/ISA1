@@ -887,6 +887,9 @@ En este decidimos, decidimos darle visibilidad mediante la siguiente dinámica a
 
 ![now-next-later](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/now-next-later.png)
 
+### SPRINT REVIEW
+
+ACA JEJE
 ### SPRINT RETROSPECTIVE
 
 Decidimos reunirnos a modo de inspeccionar el proceso y analizar qué salió mal, qué podríamos mejor, qué hemos aprendido y en esencia qué salió bien que deberíamos mantener en iteraciones próximas.
