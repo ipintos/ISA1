@@ -861,3 +861,14 @@ Objetivos de la iteración :
 
 - [ ] No aceptaremos que las validaciones alaben a lo prototipado sin presencia de feedback constructivo. En todo momento se debe inducir que es un producto cuya versión es inicial y su madurez es temprana. De este modo, se encuentra que el objetivo principal es el feedback que nos ayude a partir de una base más sólida para la iteración próxima.
 
+En primer lugar, redefinimos las épicas planteadas agrupando las distintas historias de usuarios definidas en la iteración previa. Estas historias de usuario fueron repuntualizadas con el criterio de Fibonacci.
+
+La agrupación de estas historias de usuario quedó de la siguiente forma:
+
+![primera-epica](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/primera-epica.png)
+
+![segunda-epica](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/segunda-epica.png)
+
+![tercera-epica](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/tercera-epica.png)
+
+![cuarta-epica](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/cuarta-epica.png)
