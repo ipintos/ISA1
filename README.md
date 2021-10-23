@@ -986,7 +986,9 @@ Este punto se mejoraría reduciendo el sprint a una semana. Sin embargo, está f
 
 En conclusión, esta última retrospectiva concebimos que fue más enriquecedora que la anterior, siendo que fue más desestructurada, el equipo estaba más confiado y siendo que fue la segunda iteración teníamos un punto de partida relativo al proceso más sólido.
 
-### CONCLUSIÓN DE MEJORAS DEL EQUIPO  
+A continuación , se detallan las conclusiones relativas a las mejoras y los puntos sobre los cuales el equipo debe aún mejorar.
+
+### MEJORAS DEL EQUIPO  
 
 - [ ] El trackeo de horas reflejado fue mejor. Se trackeó el tiempo transcurrido.
     
@@ -1014,3 +1016,8 @@ En conclusión, esta última retrospectiva concebimos que fue más enriquecedora
 
 - [ ] Utilizamos Fibonacci para los stories points. Esto mejoró la concepción del esfuerzo de las tareas.
     
+###  ACCIONES A MEJORAR DEL EQUIPO
+
+- [ ] Aún percibimos que el registro de horas puede mejorar. Lo verificaremos cada dos días.
+
+- [ ] Las tareas no serán repartidas al inicio del sprint. Serán autoasignadas, de esta forma buscamos que cada uno se autoorganice y así limitaremos el work in progress ( trabajo en progreso ). En este punto, uno de los objetivos planteados es disiminuir el cambio de contexto derivado del manejo de diversas tareas.
