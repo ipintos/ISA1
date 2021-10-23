@@ -913,6 +913,8 @@ En este sentido decidimos, decidimos darle visibilidad mediante la siguiente din
 
 ### SPRINT REVIEW
 
+Se inspecciona el producto. A continuación se adjunta link con los flujos principales del sistema.
+                    
 #### Flujos del sistema
 
 ##### Registro de usuario con DNI
@@ -939,6 +941,7 @@ Link a video: https://www.screencast.com/t/iWdbzoGKqR
 
 Link a video: https://www.screencast.com/t/01ddVqBQM7
 
+                    
 ### MÉTRICAS
                     
 | Iteración | Velocity |
