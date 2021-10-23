@@ -550,7 +550,8 @@ en cuenta extranjeros con residencias en uruguay, entre otras.
 Este estudio nos revela información o aspectos de la aplicación que debemos atacar/mejorar contra nuestro rival para poder ser aceptada y utilizada por la población.
 
 ## Historias de usuario:
-
+<div id='user-stories>
+         
 ### 1:
 #### Como usuario
 
@@ -875,9 +876,31 @@ La agrupación de estas historias de usuario quedó de la siguiente forma:
 
 
 ### SPRINT BACKLOG
+                    
+                    
+[***Historias de usuario*** 3](#user-stories)
 
 ![user-stories](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/user-stories.png)
 
+| Historia de usuario | Horas |
+| ------------------- | ----- |
+| #U1                 |   2   |
+| #U2                 |   1   |
+| #U3                 |   3   |
+| #U4                 |   2   |
+| #U5                 |   1   |
+| #U6                 |   2   |
+| #U7                 |   1   |
+| #U8                 |   2   |
+| #U9                 |   1   |
+| #U10                |   1   |
+| #U11                |   1.5 |
+| #U12                |   3   |
+| #U13                |   2   |
+| #U14                |   3   |
+| #U15                |   2   |
+
+                    
 ### VISIBILIDAD DEL EQUIPO
 En primer lugar, decidimos que en el miro debíamos dar visibilidad a las tareas del equipo a fin de detectar cuello de botella o demás dependencias entre el equipo, así como evitar que un integrante este sobrecargado.
 
@@ -916,6 +939,16 @@ Link a video: https://www.screencast.com/t/iWdbzoGKqR
 
 Link a video: https://www.screencast.com/t/01ddVqBQM7
 
+### MÉTRICAS
+                    
+| Iteración | Velocity |
+| --------- | -------- |
+| 1         |   35     |
+| 2         | 96       |
+                    
+Si bien mejoramos la velocity en tanto adaptamos el proceso, entendemos que esta métrica no es fiel a la realidad, siendo que en la adaptación del proceso repuntualizamos historias de usuario con el criterio de Fibonacci. Por tanto, las historias de usuario pertenecientes a la iteración 1 fueron realizadas con distinto criterio al nuevo.
+                    
+        
 
 ### SPRINT RETROSPECTIVE
 
