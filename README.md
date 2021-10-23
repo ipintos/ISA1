@@ -889,7 +889,33 @@ En este decidimos, decidimos darle visibilidad mediante la siguiente dinámica a
 
 ### SPRINT REVIEW
 
-ACA JEJE
+#### Flujos del sistema
+
+##### Registro de usuario con DNI
+
+Link a video: https://www.screencast.com/t/GrMZam6K 
+
+##### Registro de usuario con Pasaporte
+
+Link a video: https://www.screencast.com/t/Rpfq5MieT4QH 
+
+##### Ver reservas y agenda
+
+Link a video: https://www.screencast.com/t/cpIC8ij66i 
+
+##### Ver preguntas frecuentes
+
+Link a video: https://www.screencast.com/t/ZqreCvsQcam
+
+##### Ver información
+
+Link a video: https://www.screencast.com/t/iWdbzoGKqR 
+
+##### Alerta de exposición al virus
+
+Link a video: https://www.screencast.com/t/01ddVqBQM7
+
+
 ### SPRINT RETROSPECTIVE
 
 Decidimos reunirnos a modo de inspeccionar el proceso y analizar qué salió mal, qué podríamos mejor, qué hemos aprendido y en esencia qué salió bien que deberíamos mantener en iteraciones próximas.
