@@ -878,9 +878,10 @@ La agrupación de estas historias de usuario quedó de la siguiente forma:
 
 ![user-stories](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/user-stories.png)
 
+### VISIBILIDAD DEL EQUIPO
 En primer lugar, decidimos que en el miro debíamos dar visibilidad a las tareas del equipo a fin de detectar cuello de botella o demás dependencias entre el equipo, así como evitar que un integrante este sobrecargado.
 
-En este decidimos, decidimos darle visibilidad mediante la siguiente dinámica adjuntada a continuación :
+En este sentido decidimos, decidimos darle visibilidad mediante la siguiente dinámica adjuntada a continuación :
 
 ![instructions-now-next-later](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/instructions-now-next-later.png)
 
@@ -967,3 +968,49 @@ Este punto se mejoraría reduciendo el sprint a una semana. Sin embargo, está f
 ### MAD-SAD-GLAD
 
 ![mad-sad-glad](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/mad-sad-glad.png)
+
+### ACCIÓN MOTIVACIÓN FÁCIL RECORDATORIO
+
+![instructions-action-motivation-easy-reminder](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/instructions-action-motivation-easy-reminder.png)
+
+![action-motivation-easy-reminder](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/action-motivation-easy-reminder.png)
+
+
+### VIAJE AL FUTURO ¿CÓMO MEJORAR?
+
+![mejorar-proceso](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/mejorar-proceso.png)
+
+### CIERRE SPRINT RETROSPECTIVE
+
+![cierre-dinamica](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/cierre-dinamica.png)
+
+En conclusión, esta última retrospectiva concebimos que fue más enriquecedora que la anterior, siendo que fue más desestructurada, el equipo estaba más confiado y siendo que fue la segunda iteración teníamos un punto de partida relativo al proceso más sólido.
+
+### CONCLUSIÓN DE MEJORAS DEL EQUIPO  
+
+- [ ] El trackeo de horas reflejado fue mejor. Se trackeó el tiempo transcurrido.
+    
+- [ ] Las reuniones se llevaron a cabo más a menudo. 
+
+- [ ] La comunicación fluyó mejor.
+
+- [ ] La visibilidad de las tareas fue realizada a través del board de miro. Esto nos ayuda más que el to do/doing/done , siendo que tenemos de una forma más gráfica y centralizada las tareas de cada integrante del equipo. Es de más fácil acceso y de esta forma fue más sencillo detectar sobrecarga y progreso.
+
+- [ ] Concebimos que la iteración fue realizada con un ritmo más parejo que la anterior. 
+
+- [ ] La constancia del trabajo fue mayor.
+
+- [ ] El reflejo de las tareas fue mejor (board miro, actualización del documento, mejor antelación).
+
+- [ ] Logramos objetivos propuestos al igual que anteriormente.
+
+- [ ] El equipo sigue motivado, comprometido y entusiasta al percibir y ver mejoras.
+
+- [ ] La dinámica de retroespectiva fue más enriquecedora.
+
+- [ ] Mayor fluidez en las herramientas de trabajo.
+
+- [ ] Iteramos sobre el marco de trabajo. 
+
+- [ ] Utilizamos Fibonacci para los stories points. Esto mejoró la concepción del esfuerzo de las tareas.
+    
