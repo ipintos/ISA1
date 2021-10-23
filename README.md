@@ -901,26 +901,28 @@ La agrupación de estas historias de usuario quedó de la siguiente forma:
 
 ![user-stories](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/user-stories.png)
 
-| Historia de usuario | Horas |
-| ------------------- | ----- |
-| #U1                 |   2   |
-| #U2                 |   1   |
-| #U3                 |   3   |
-| #U4                 |   2   |
-| #U5                 |   1   |
-| #U6                 |   2   |
-| #U7                 |   1   |
-| #U8                 |   2   |
-| #U9                 |   1   |
-| #U10                |   1   |
-| #U11                |   1.5 |
-| #U12                |   3   |
-| #U13                |   2   |
-| #U14                |   3   |
-| #U15                |   2   |
+| Historia de usuario | Horas | Prioridad    |
+| ------------------- | ----- | --- |
+| #U1                 | 2     |  1       |
+| #U2                 | 1     |  1   |
+| #U3                 | 3     |  2   |
+| #U4                 | 2     |  3   |
+| #U5                 | 1     |  1   |
+| #U6                 | 2     |  2   |
+| #U7                 | 1     |  3   |
+| #U8                 | 2     |  1   |
+| #U9                 | 1     | 1    |
+| #U10                | 1     |   2  |
+| #U11                | 1.5   |  3   |
+| #U12                | 3     |   2  |
+| #U13                | 2     |  3   |
+| #U14                | 3     |   2  |
+| #U15                | 2     |   1  |
 
 ### Burndown Chart
-Dado que en dicha iteración fuimos creando las tareas en el transcurso de la misma nuestra grafica no se alinea correctamente al trabajo por hacer en el tiempo esperado. Por eso podemos visualizar distintos picos en la grafica como en el día 19/10 y el 21/10. 
+Dado que en la presente iteración fuimos creando las tareas en el transcurso de la misma nuestra grafica no se alinea correctamente al trabajo por hacer en el tiempo esperado. Por eso podemos visualizar distintos picos en la grafica como en el día 19/10 y el 21/10. 
+
+En la iteración siguiente debemos mejorar este punto y crear las mismas al principio del sprint.
 
 ![burndownChart](https://github.com/ipintos/ISA1/blob/develop/imagenes/burndownChart.jpeg)
 
