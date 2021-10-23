@@ -555,7 +555,6 @@ en cuenta extranjeros con residencias en uruguay, entre otras.
 Este estudio nos revela información o aspectos de la aplicación que debemos atacar/mejorar contra nuestro rival para poder ser aceptada y utilizada por la población.
 
 ## Historias de usuario:
-<div id='user-stories>
          
 ### 1:
 #### Como usuario
@@ -856,7 +855,7 @@ Los usuarios deben ser tratados como prioritarios en caso que así estén regist
 #### priority: 5
 
 
-## Épicas:
+### Épicas:
 
 Como administrador quiero que todos los usuarios tengan acceso a la aplicación.
 
@@ -864,7 +863,8 @@ Como administrador quiero asegurarme de que los usuarios pueden sacarse las duda
 
 Como administrador quiero que todos los usuarios puedan agendarse para ser vacunados.
 
-## **Iteración 2**
+
+## ITERACIÓN 2
 <div id='Iteración2' />
 
 Esta iteración abarca un lapso temporal de una semana. El objetivo de la presente abarca la prototipación de la solución planteada en la iteración previa. Esta étapa culminará el 22 de octubre.
@@ -922,7 +922,7 @@ La agrupación de estas historias de usuario quedó de la siguiente forma:
 ### Burndown Chart
 Dado que en dicha iteración fuimos creando las tareas en el transcurso de la misma nuestra grafica no se alinea correctamente al trabajo por hacer en el tiempo esperado. Por eso podemos visualizar distintos picos en la grafica como en el día 19/10 y el 21/10. 
 
-![burndownChart](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/burndownChart.jpeg)
+![burndownChart](https://github.com/ipintos/ISA1/blob/develop/imagenes/burndownChart.jpeg)
 
                     
 ### VISIBILIDAD DEL EQUIPO
