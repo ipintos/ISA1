@@ -943,3 +943,27 @@ El resultado de esta dinámica fue la siguiente:
 ![hernan-motivation](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/hernan-motivation.png)
 
 
+En adición, se realiza dinámica para medir la iteración con emojis:
+
+![iteracion-caritas](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/iteracion-caritas.png)
+
+Luego, realizamos el #tuiteatusprint, cuyo objetivo es generar un ambiente distendido para poder analizar el proceso. 
+
+Concebimos que la falta de distención y el exceso de formalismo no nos encaminaría hacia un mejor gestión. 
+Optamos por tuitear nuestro sprint como forma de comunicar o describir el sprint de una forma informal.
+
+![tuitea-tu-sprint](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/tuitea-tu-sprint.png)
+
+Se extraen las siguientes conclusiones:
+
+- [ ] Aún no cargamos las horas a tiempo, sino que demoramos en cargarlas. Sin embargo,el trackeo mejoró en relación a la iteración pasada. 
+En este sentido, el trackeo fue del tiempo transcurrido. Sin embargo, debemos ser más constantes en la carga de hora. Cada dos días se revisará la carga de horas y se aplicarán las correciones pertinentes a forma de mejora.
+
+- [ ] Cumplimos los objetivos propuestos al igual que en la iteración.
+
+- [ ] Demoramos mucho en mostrarle el resultado de la primera iteración al usuario final. El equipo concibe a la agilidad en un punto como una cascada por iteraciones. La reflexión deriva en un cuestionamiento sobre cómo se puede mejorar esto. Podríamos haber obtenido mejores resultados si no hubieramos dejado el feedback para el final de esta iteración. No obstante, la filosofía de esta iteración fue llevar a cabo un producto cuyo objetivo era validar de forma de tener un punto de partido para próxima iteración.
+Este punto se mejoraría reduciendo el sprint a una semana. Sin embargo, está fuera de lo preestablecido.
+
+### MAD-SAD-GLAD
+
+![mad-sad-glad](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/mad-sad-glad.png)
