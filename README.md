@@ -93,16 +93,6 @@ Esta iteración tiene los siguientes objetivos:
 - [ ] Posibilidad de negociación del alcance.
 
 
-ITERACIÓN 2
-Esta iteración abarca un lapso temporal de una semana. El objetivo de la presente abarca la prototipación de la solución planteada en la iteración previa. Esta étapa culminará el 15 de octubre.
-
-ITERACIÓN 3
-La presente pretende validar el prototipo realizado en una étapa previa con los skateholders identificados en un inicio. Esta fase culminaría el 22 de octubre.
-
-ITERACIÓN 4
-En este caso, se reflexionará sobre las lecciones y aprendizajes derivados de fases anteriores. Asimismo, se deberá realizar un video explicativo así como recopilación de documentación y evidencias en el caso que aún falten.
-
-
 De modo de poder llevar a cabo el kickoff tuvimos una instancia previa , siendo que era necesario definir tareas de la iteración del spike.
 
 En esta iteración se realiza el siguiente sprint backlog:
@@ -551,7 +541,8 @@ en cuenta extranjeros con residencias en uruguay, entre otras.
 Este estudio nos revela información o aspectos de la aplicación que debemos atacar/mejorar contra nuestro rival para poder ser aceptada y utilizada por la población.
 
 ## Historias de usuario:
-
+<div id='user-stories>
+         
 ### 1:
 #### Como usuario
 
@@ -876,3 +867,198 @@ Objetivos de la iteración :
 
 - [ ] No aceptaremos que las validaciones alaben a lo prototipado sin presencia de feedback constructivo. En todo momento se debe inducir que es un producto cuya versión es inicial y su madurez es temprana. De este modo, se encuentra que el objetivo principal es el feedback que nos ayude a partir de una base más sólida para la iteración próxima.
 
+En primer lugar, redefinimos las épicas planteadas agrupando las distintas historias de usuarios definidas en la iteración previa. Estas historias de usuario fueron repuntualizadas con el criterio de Fibonacci.
+
+La agrupación de estas historias de usuario quedó de la siguiente forma:
+
+![primera-epica](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/primera-epica.png)
+
+![segunda-epica](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/segunda-epica.png)
+
+![tercera-epica](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/tercera-epica.png)
+
+![cuarta-epica](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/cuarta-epica.png)
+
+
+### SPRINT BACKLOG
+                    
+                    
+[***Historias de usuario*** 3](#user-stories)
+
+![user-stories](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/user-stories.png)
+
+| Historia de usuario | Horas |
+| ------------------- | ----- |
+| #U1                 |   2   |
+| #U2                 |   1   |
+| #U3                 |   3   |
+| #U4                 |   2   |
+| #U5                 |   1   |
+| #U6                 |   2   |
+| #U7                 |   1   |
+| #U8                 |   2   |
+| #U9                 |   1   |
+| #U10                |   1   |
+| #U11                |   1.5 |
+| #U12                |   3   |
+| #U13                |   2   |
+| #U14                |   3   |
+| #U15                |   2   |
+
+                    
+### VISIBILIDAD DEL EQUIPO
+En primer lugar, decidimos que en el miro debíamos dar visibilidad a las tareas del equipo a fin de detectar cuello de botella o demás dependencias entre el equipo, así como evitar que un integrante este sobrecargado.
+
+En este sentido decidimos, decidimos darle visibilidad mediante la siguiente dinámica adjuntada a continuación :
+
+![instructions-now-next-later](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/instructions-now-next-later.png)
+
+
+![now-next-later](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/now-next-later.png)
+
+### SPRINT REVIEW
+
+Se inspecciona el producto. A continuación se adjunta link con los flujos principales del sistema.
+                    
+#### Flujos del sistema
+
+##### Registro de usuario con DNI
+
+Link a video: https://www.screencast.com/t/GrMZam6K 
+
+##### Registro de usuario con Pasaporte
+
+Link a video: https://www.screencast.com/t/Rpfq5MieT4QH 
+
+##### Ver reservas y agenda
+
+Link a video: https://www.screencast.com/t/cpIC8ij66i 
+
+##### Ver preguntas frecuentes
+
+Link a video: https://www.screencast.com/t/ZqreCvsQcam
+
+##### Ver información
+
+Link a video: https://www.screencast.com/t/iWdbzoGKqR 
+
+##### Alerta de exposición al virus
+
+Link a video: https://www.screencast.com/t/01ddVqBQM7
+
+                    
+### MÉTRICAS
+                    
+| Iteración | Velocity |
+| --------- | -------- |
+| 1         |   35     |
+| 2         | 96       |
+                    
+Si bien mejoramos la velocity en tanto adaptamos el proceso, entendemos que esta métrica no es fiel a la realidad, siendo que en la adaptación del proceso repuntualizamos historias de usuario con el criterio de Fibonacci. Por tanto, las historias de usuario pertenecientes a la iteración 1 fueron realizadas con distinto criterio al nuevo.
+                    
+        
+
+### SPRINT RETROSPECTIVE
+
+Decidimos reunirnos a modo de inspeccionar el proceso y analizar qué salió mal, qué podríamos mejor, qué hemos aprendido y en esencia qué salió bien que deberíamos mantener en iteraciones próximas.
+
+#### ¿QUÉ ME MOTIVA? ¿QUÉ HAGO MEJOR?
+
+Se realiza actividad cuyo objetivo es repartir tareas acorde a las inquietudes e intereses de cada uno. 
+Creemos firmemente en que la motivación nos encausa a buen camino y por tanto si repartimos las tareas según la afinidad de cada uno las tareas van a ser realizadas de la mejor forma.
+
+
+![motivation-retro-1](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/motivation-retro-1.png)
+
+![motivation-retro-2](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/motivation-retro-2.png)
+
+![motivation-retro-3](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/motivation-retro-3.png)
+
+El resultado de esta dinámica fue la siguiente:
+
+![ismael-motivation](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/ismael-motivation.png)
+
+![noelia-motivation](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/noelia-motivation.png)
+
+![iara-motivation](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/iara-motivation.png)
+
+![hernan-motivation](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/hernan-motivation.png)
+
+
+En adición, se realiza dinámica para medir la iteración con emojis:
+
+![iteracion-caritas](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/iteracion-caritas.png)
+
+Luego, realizamos el #tuiteatusprint, cuyo objetivo es generar un ambiente distendido para poder analizar el proceso. 
+
+Concebimos que la falta de distención y el exceso de formalismo no nos encaminaría hacia un mejor gestión. 
+Optamos por tuitear nuestro sprint como forma de comunicar o describir el sprint de una forma informal.
+
+![tuitea-tu-sprint](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/tuitea-tu-sprint.png)
+
+Se extraen las siguientes conclusiones:
+
+- [ ] Aún no cargamos las horas a tiempo, sino que demoramos en cargarlas. Sin embargo,el trackeo mejoró en relación a la iteración pasada. 
+En este sentido, el trackeo fue del tiempo transcurrido. Sin embargo, debemos ser más constantes en la carga de hora. Cada dos días se revisará la carga de horas y se aplicarán las correciones pertinentes a forma de mejora.
+
+- [ ] Cumplimos los objetivos propuestos al igual que en la iteración.
+
+- [ ] Demoramos mucho en mostrarle el resultado de la primera iteración al usuario final. El equipo concibe a la agilidad en un punto como una cascada por iteraciones. La reflexión deriva en un cuestionamiento sobre cómo se puede mejorar esto. Podríamos haber obtenido mejores resultados si no hubieramos dejado el feedback para el final de esta iteración. No obstante, la filosofía de esta iteración fue llevar a cabo un producto cuyo objetivo era validar de forma de tener un punto de partido para próxima iteración.
+Este punto se mejoraría reduciendo el sprint a una semana. Sin embargo, está fuera de lo preestablecido.
+
+### MAD-SAD-GLAD
+
+![mad-sad-glad](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/mad-sad-glad.png)
+
+### ACCIÓN MOTIVACIÓN FÁCIL RECORDATORIO
+
+![instructions-action-motivation-easy-reminder](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/instructions-action-motivation-easy-reminder.png)
+
+![action-motivation-easy-reminder](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/action-motivation-easy-reminder.png)
+
+
+### VIAJE AL FUTURO ¿CÓMO MEJORAR?
+
+![mejorar-proceso](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/mejorar-proceso.png)
+
+### CIERRE SPRINT RETROSPECTIVE
+
+![cierre-dinamica](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/cierre-dinamica.png)
+
+En conclusión, esta última retrospectiva concebimos que fue más enriquecedora que la anterior, siendo que fue más desestructurada, el equipo estaba más confiado y siendo que fue la segunda iteración teníamos un punto de partida relativo al proceso más sólido.
+
+A continuación , se detallan las conclusiones relativas a las mejoras y los puntos sobre los cuales el equipo debe aún mejorar.
+
+### MEJORAS DEL EQUIPO  
+
+- [ ] El trackeo de horas reflejado fue mejor. Se trackeó el tiempo transcurrido.
+    
+- [ ] Las reuniones se llevaron a cabo más a menudo. 
+
+- [ ] La comunicación fluyó mejor.
+
+- [ ] La visibilidad de las tareas fue realizada a través del board de miro. Esto nos ayuda más que el to do/doing/done , siendo que tenemos de una forma más gráfica y centralizada las tareas de cada integrante del equipo. Es de más fácil acceso y de esta forma fue más sencillo detectar sobrecarga y progreso.
+
+- [ ] Concebimos que la iteración fue realizada con un ritmo más parejo que la anterior. 
+
+- [ ] La constancia del trabajo fue mayor.
+
+- [ ] El reflejo de las tareas fue mejor (board miro, actualización del documento, mejor antelación).
+
+- [ ] Logramos objetivos propuestos al igual que anteriormente.
+
+- [ ] El equipo sigue motivado, comprometido y entusiasta al percibir y ver mejoras.
+
+- [ ] La dinámica de retroespectiva fue más enriquecedora.
+
+- [ ] Mayor fluidez en las herramientas de trabajo.
+
+- [ ] Iteramos sobre el marco de trabajo. 
+
+- [ ] Utilizamos Fibonacci para los stories points. Esto mejoró la concepción del esfuerzo de las tareas.
+    
+###  ACCIONES A MEJORAR DEL EQUIPO
+
+- [ ] Aún percibimos que el registro de horas puede mejorar. Lo verificaremos cada dos días.
+
+- [ ] Las tareas no serán repartidas al inicio del sprint. Serán autoasignadas, de esta forma buscamos que cada uno se autoorganice y así limitaremos el work in progress ( trabajo en progreso ). En este punto, uno de los objetivos planteados es disiminuir el cambio de contexto derivado del manejo de diversas tareas.
