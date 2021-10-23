@@ -40,9 +40,10 @@ Asimismo, sería conveniente obtener feedback sobre lo realizado ya que esto baj
 
 ### Marco general de SCRUM
 
-Sync semanal breve: Esta se llevará a cabo los lunes con una duración que estimamos no sea más de media hora, cuyo objetivo es alinear el trabajo semanal de cada integrante.
 
-Sync semanal: Esta se llevará a cabo los viernes con una duración que estimamos no más de dos horas, cuyo objetivo es revisar el trabajo semanal realizado por cada integrante realizando así una puesta a punto. Culminando nuestra reunión con una actividad team building activity.
+Sync semanal breve: Esta se llevará a cabo los lunes con una duración que estimamos no sea más de media hora, cuyo objetivo es alinear el trabajo semanal de cada integrante. Esta sería nuestra adaptación de la daily meeting propuesta por scrum.
+
+Sync semanal: Esta se llevará a cabo los viernes con una duración que estimamos no más de dos horas, cuyo objetivo es revisar el trabajo semanal realizado por cada integrante realizando así una puesta a punto. Culminando nuestra reunión con una actividad team building activity. Esta sería nuestra adaptación de la Refinement meeting en caso de ser dentro del sprint y de Sprint Review y Retrospectiva al final del sprint. HAcemos una reunión de Refinement para poder contrarrestar la disminución de las daily.
 
 Nos comprometemos a todos ser partícipes del proyecto y estar al tanto del trabajo de los otros participantes.
 
