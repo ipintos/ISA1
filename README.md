@@ -61,11 +61,25 @@ Nos comprometemos a todos ser partícipes del proyecto y estar al tanto del trab
         
 ## Glosario:
 
-Definition of Done :
-La tarea debe cumplir con los estándares de calidad definidos para el proyecto referidos a La tarea debe haber sido verificada en la sync semanal de los viernes contra sus criterios de aceptación que serán definidos para cada tarea individual. La tarea debe haber sido aprobada por el Product Owner. 
+Definition of Done:
+
+- La tarea debe cumplir con los estándares de calidad definidos para el proyecto.
+
+- La tarea debe haber sido verificada en la sync semanal de los viernes contra sus criterios de aceptación que serán definidos para cada tarea individual. 
+
+- La tarea debe haber sido aprobada por el Product Owner. 
 
 Definition of Ready
-El desarrollador logra interpretar sin ambigüedades la definición del caso. La tarea debe tener una estimación (puntos de historia) La tarea debe poder validarse y corresponderse dentro del Sprint. La realización de la tarea no debe de contar con tareas pendientes. El detalle funcional, detalle técnico y los casos de prueba de cada tarea deben ser claros para que sean entendibles por cualquier miembro del equipo. La tarea debe contar con criterios de aceptación.
+
+- El desarrollador logra interpretar sin ambigüedades la definición del caso. Es decir entiende la tarea siendo capaz de realizarla sin ayuda.
+
+- La tarea debe tener una estimación (puntos de historia). 
+
+- La tarea debe poder validarse y corresponderse dentro del Sprint. Es decir no se depende de futuras sprints para dar por finalizada la tarea.
+
+- La realización de la tarea no debe de contar con tareas pendientes. 
+
+- El detalle funcional, detalle técnico y los casos de prueba de cada tarea deben ser claros para que sean entendibles por cualquier miembro del equipo. Es decir se deben de escribir los distintos documentos en lenguaje de usuario final de tal manera que cualquier persona no relacionada a IT pueda entenderlo.
 
 
 ## ITERACIÓN 1
