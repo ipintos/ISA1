@@ -1033,7 +1033,7 @@ El resultado de esta dinámica fue la siguiente:
 
 ![iara-motivation](https://github.com/ipintos/ISA1/blob/main/imagenes/iara-motivation.png)
 
-![hernan-motivation](https://github.com/ipintos/ISA1/blob/main/images/hernan-motivation.png)
+![hernan-motivation](https://github.com/ipintos/ISA1/blob/main/imagenes/hernan-motivation.png)
 
 
 En adición, se realiza dinámica para medir la iteración con emojis:
