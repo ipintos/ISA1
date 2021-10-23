@@ -92,16 +92,6 @@ Esta iteración tiene los siguientes objetivos:
 - [ ] Posibilidad de negociación del alcance.
 
 
-ITERACIÓN 2
-Esta iteración abarca un lapso temporal de una semana. El objetivo de la presente abarca la prototipación de la solución planteada en la iteración previa. Esta étapa culminará el 15 de octubre.
-
-ITERACIÓN 3
-La presente pretende validar el prototipo realizado en una étapa previa con los skateholders identificados en un inicio. Esta fase culminaría el 22 de octubre.
-
-ITERACIÓN 4
-En este caso, se reflexionará sobre las lecciones y aprendizajes derivados de fases anteriores. Asimismo, se deberá realizar un video explicativo así como recopilación de documentación y evidencias en el caso que aún falten.
-
-
 De modo de poder llevar a cabo el kickoff tuvimos una instancia previa , siendo que era necesario definir tareas de la iteración del spike.
 
 En esta iteración se realiza el siguiente sprint backlog:
