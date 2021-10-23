@@ -901,6 +901,9 @@ La agrupación de estas historias de usuario quedó de la siguiente forma:
 
 ![user-stories](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/user-stories.png)
 
+La prioridad es puntualizada de 1 a 3, siendo 1 prioridad alta , 2 media y 3 baja.
+Los puntos de las historias fueron detallados en líneas anteriores.
+
 | Historia de usuario | Horas | Prioridad    |
 | ------------------- | ----- | --- |
 | #U1                 | 2     |  1       |
