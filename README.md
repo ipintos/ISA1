@@ -996,8 +996,8 @@ Link a video: https://www.screencast.com/t/01ddVqBQM7
 
 ### VALIDACIÓN 
                     
-https://github.com/ipintos/ISA1/blob/develop/Iteraci%C3%B3n%20II
-                    
+https://github.com/ipintos/ISA1/blob/main/Iteraci%C3%B3n%20II.md
+
 ### MÉTRICAS
                     
 | Iteración | Velocity |
