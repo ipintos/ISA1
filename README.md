@@ -524,43 +524,43 @@ Creemos que nuestro rival cuenta con pantallas poco amigables para estratos con 
 
 - Funcionalidad “Agendar” (una de las más utilizadas por los usuarios), se encuentra en el final de la página de inicio teniendo que realizar scroll para poder acceder a dicha funcionalidad.
 
-![Pantalla inicio](https://github.com/ipintos/ISA1/blob/feature/inverseEngineering/imagenes/PantallaInicio.png)
-![Funcionalidad agendar](https://github.com/ipintos/ISA1/blob/feature/inverseEngineering/imagenes/PantallaInicioAgendar.png)
+![Pantalla inicio](https://github.com/ipintos/ISA1/blob/main/imagenes/PantallaInicio.png)
+![Funcionalidad agendar](https://github.com/ipintos/ISA1/blob/main/imagenes/PantallaInicioAgendar.png)
 
 - Tabs difíciles de visualizar y acceder
 
-![Tabs](https://github.com/ipintos/ISA1/blob/feature/inverseEngineering/imagenes/TabsDificilAcceso.png)
+![Tabs](https://github.com/ipintos/ISA1/blob/main/imagenes/TabsDificilAcceso.png)
 
 - Botones que no revelan intención.
 
-![Botones](https://github.com/ipintos/ISA1/blob/feature/inverseEngineering/imagenes/Botones.png)
+![Botones](https://github.com/ipintos/ISA1/blob/main/imagenes/Botones.png)
 
 - Información muy técnica difícil de entender por la mayoría de los estratos sociales.
 
-![Grafica 1](https://github.com/ipintos/ISA1/blob/feature/inverseEngineering/imagenes/GraficaI.png)
-![Grafica 2](https://github.com/ipintos/ISA1/blob/feature/inverseEngineering/imagenes/GraficaII.png)
-![Grafica 3](https://github.com/ipintos/ISA1/blob/feature/inverseEngineering/imagenes/GraficaIII.png)
+![Grafica 1](https://github.com/ipintos/ISA1/blob/main/imagenes/GraficaI.png)
+![Grafica 2](https://github.com/ipintos/ISA1/blob/main/imagenes/GraficaII.png)
+![Grafica 3](https://github.com/ipintos/ISA1/blob/main/imagenes/GraficaIII.png)
 
 ### Criticas de usuarios
 
 - Fallas de conectividad:
 
-![Reseña conexión 1](https://github.com/ipintos/ISA1/blob/feature/inverseEngineering/imagenes/Rese%C3%B1aConexionI.png)
-![Reseña conexión 2](https://github.com/ipintos/ISA1/blob/feature/inverseEngineering/imagenes/Rese%C3%B1aConexionII.png)
+![Reseña conexión 1](https://github.com/ipintos/ISA1/blob/main/imagenes/Rese%C3%B1aConexionI.png)
+![Reseña conexión 2](https://github.com/ipintos/ISA1/blob/main/imagenes/Rese%C3%B1aConexionII.png)
 
 - Fallas en obtención de código de validación:
 
-![Código validación 1](https://github.com/ipintos/ISA1/blob/feature/inverseEngineering/imagenes/Rese%C3%B1aCodigoValidacionI.png)
-![Código validación 2](https://github.com/ipintos/ISA1/blob/feature/inverseEngineering/imagenes/Rese%C3%B1aCodigoValidacionII.png)
+![Código validación 1](https://github.com/ipintos/ISA1/blob/main/imagenes/Rese%C3%B1aCodigoValidacionI.png)
+![Código validación 2](https://github.com/ipintos/ISA1/blob/main/imagenes/Rese%C3%B1aCodigoValidacionII.png)
 
 - Fallas en cambio de datos personales:
 
-![Cambio de datos 1](https://github.com/ipintos/ISA1/blob/feature/inverseEngineering/imagenes/Rese%C3%B1aCambiarDatosI.png)
-![Cambio de datos 2](https://github.com/ipintos/ISA1/blob/feature/inverseEngineering/imagenes/Rese%C3%B1aCambiarDatosII.png)
+![Cambio de datos 1](https://github.com/ipintos/ISA1/blob/main/imagenes/Rese%C3%B1aCambiarDatosI.png)
+![Cambio de datos 2](https://github.com/ipintos/ISA1/blob/main/imagenes/Rese%C3%B1aCambiarDatosII.png)
 
 - Extranjeros con residencias en Uruguay:
 
-![Extranjero](https://github.com/ipintos/ISA1/blob/feature/inverseEngineering/imagenes/Rese%C3%B1aExtranjero.png)
+![Extranjero](https://github.com/ipintos/ISA1/blob/main/imagenes/Rese%C3%B1aExtranjero.png)
 
 ### Conclusión
 
