@@ -919,6 +919,11 @@ La agrupación de estas historias de usuario quedó de la siguiente forma:
 | #U14                |   3   |
 | #U15                |   2   |
 
+### Burndown Chart
+Dado que en dicha iteración fuimos creando las tareas en el transcurso de la misma nuestra grafica no se alinea correctamente al trabajo por hacer en el tiempo esperado. Por eso podemos visualizar distintos picos en la grafica como en el día 19/10 y el 21/10. 
+
+![burndownChart](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/burndownChart.jpeg)
+
                     
 ### VISIBILIDAD DEL EQUIPO
 En primer lugar, decidimos que en el miro debíamos dar visibilidad a las tareas del equipo a fin de detectar cuello de botella o demás dependencias entre el equipo, así como evitar que un integrante este sobrecargado.
@@ -929,6 +934,8 @@ En este sentido decidimos, decidimos darle visibilidad mediante la siguiente din
 
 
 ![now-next-later](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/now-next-later.png)
+
+
 
 ### SPRINT REVIEW
 
