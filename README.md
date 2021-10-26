@@ -524,43 +524,43 @@ Creemos que nuestro rival cuenta con pantallas poco amigables para estratos con 
 
 - Funcionalidad “Agendar” (una de las más utilizadas por los usuarios), se encuentra en el final de la página de inicio teniendo que realizar scroll para poder acceder a dicha funcionalidad.
 
-![Pantalla inicio](https://github.com/ipintos/ISA1/blob/feature/inverseEngineering/imagenes/PantallaInicio.png)
-![Funcionalidad agendar](https://github.com/ipintos/ISA1/blob/feature/inverseEngineering/imagenes/PantallaInicioAgendar.png)
+![Pantalla inicio](https://github.com/ipintos/ISA1/blob/main/imagenes/PantallaInicio.png)
+![Funcionalidad agendar](https://github.com/ipintos/ISA1/blob/main/imagenes/PantallaInicioAgendar.png)
 
 - Tabs difíciles de visualizar y acceder
 
-![Tabs](https://github.com/ipintos/ISA1/blob/feature/inverseEngineering/imagenes/TabsDificilAcceso.png)
+![Tabs](https://github.com/ipintos/ISA1/blob/main/imagenes/TabsDificilAcceso.png)
 
 - Botones que no revelan intención.
 
-![Botones](https://github.com/ipintos/ISA1/blob/feature/inverseEngineering/imagenes/Botones.png)
+![Botones](https://github.com/ipintos/ISA1/blob/main/imagenes/Botones.png)
 
 - Información muy técnica difícil de entender por la mayoría de los estratos sociales.
 
-![Grafica 1](https://github.com/ipintos/ISA1/blob/feature/inverseEngineering/imagenes/GraficaI.png)
-![Grafica 2](https://github.com/ipintos/ISA1/blob/feature/inverseEngineering/imagenes/GraficaII.png)
-![Grafica 3](https://github.com/ipintos/ISA1/blob/feature/inverseEngineering/imagenes/GraficaIII.png)
+![Grafica 1](https://github.com/ipintos/ISA1/blob/main/imagenes/GraficaI.png)
+![Grafica 2](https://github.com/ipintos/ISA1/blob/main/imagenes/GraficaII.png)
+![Grafica 3](https://github.com/ipintos/ISA1/blob/main/imagenes/GraficaIII.png)
 
 ### Criticas de usuarios
 
 - Fallas de conectividad:
 
-![Reseña conexión 1](https://github.com/ipintos/ISA1/blob/feature/inverseEngineering/imagenes/Rese%C3%B1aConexionI.png)
-![Reseña conexión 2](https://github.com/ipintos/ISA1/blob/feature/inverseEngineering/imagenes/Rese%C3%B1aConexionII.png)
+![Reseña conexión 1](https://github.com/ipintos/ISA1/blob/main/imagenes/Rese%C3%B1aConexionI.png)
+![Reseña conexión 2](https://github.com/ipintos/ISA1/blob/main/imagenes/Rese%C3%B1aConexionII.png)
 
 - Fallas en obtención de código de validación:
 
-![Código validación 1](https://github.com/ipintos/ISA1/blob/feature/inverseEngineering/imagenes/Rese%C3%B1aCodigoValidacionI.png)
-![Código validación 2](https://github.com/ipintos/ISA1/blob/feature/inverseEngineering/imagenes/Rese%C3%B1aCodigoValidacionII.png)
+![Código validación 1](https://github.com/ipintos/ISA1/blob/main/imagenes/Rese%C3%B1aCodigoValidacionI.png)
+![Código validación 2](https://github.com/ipintos/ISA1/blob/main/imagenes/Rese%C3%B1aCodigoValidacionII.png)
 
 - Fallas en cambio de datos personales:
 
-![Cambio de datos 1](https://github.com/ipintos/ISA1/blob/feature/inverseEngineering/imagenes/Rese%C3%B1aCambiarDatosI.png)
-![Cambio de datos 2](https://github.com/ipintos/ISA1/blob/feature/inverseEngineering/imagenes/Rese%C3%B1aCambiarDatosII.png)
+![Cambio de datos 1](https://github.com/ipintos/ISA1/blob/main/imagenes/Rese%C3%B1aCambiarDatosI.png)
+![Cambio de datos 2](https://github.com/ipintos/ISA1/blob/main/imagenes/Rese%C3%B1aCambiarDatosII.png)
 
 - Extranjeros con residencias en Uruguay:
 
-![Extranjero](https://github.com/ipintos/ISA1/blob/feature/inverseEngineering/imagenes/Rese%C3%B1aExtranjero.png)
+![Extranjero](https://github.com/ipintos/ISA1/blob/main/imagenes/Rese%C3%B1aExtranjero.png)
 
 ### Conclusión
 
@@ -908,13 +908,13 @@ En primer lugar, redefinimos las épicas planteadas agrupando las distintas hist
 
 La agrupación de estas historias de usuario quedó de la siguiente forma:
 
-![primera-epica](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/primera-epica.png)
+![primera-epica](https://github.com/ipintos/ISA1/blob/main/imagenes/primera-epica.png)
 
-![segunda-epica](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/segunda-epica.png)
+![segunda-epica](https://github.com/ipintos/ISA1/blob/main/imagenes/segunda-epica.png)
 
-![tercera-epica](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/tercera-epica.png)
+![tercera-epica](https://github.com/ipintos/ISA1/blob/main/imagenes/tercera-epica.png)
 
-![cuarta-epica](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/cuarta-epica.png)
+![cuarta-epica](https://github.com/ipintos/ISA1/blob/main/imagenes/cuarta-epica.png)
 
 
 ### SPRINT BACKLOG
@@ -922,7 +922,7 @@ La agrupación de estas historias de usuario quedó de la siguiente forma:
                     
 [***Historias de usuario*** 3](#user-stories)
 
-![user-stories](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/user-stories.png)
+![user-stories](https://github.com/ipintos/ISA1/blob/main/imagenes/user-stories.png)
 
 Los puntos de las historias fueron detallados en líneas anteriore, así como la prioridad cuya puntualización equivale a 1 la máxima prioridad.
 
@@ -949,7 +949,7 @@ Dado que en la presente iteración fuimos creando las tareas en el transcurso de
 
 En la iteración siguiente debemos mejorar este punto y crear las mismas al principio del sprint.
 
-![burndownChart](https://github.com/ipintos/ISA1/blob/develop/imagenes/burndownChart.jpeg)
+![burndownChart](https://github.com/ipintos/ISA1/blob/main/imagenes/burndownChart.jpeg)
 
                     
 ### VISIBILIDAD DEL EQUIPO
@@ -957,10 +957,10 @@ En primer lugar, decidimos que en el miro debíamos dar visibilidad a las tareas
 
 En este sentido decidimos, decidimos darle visibilidad mediante la siguiente dinámica adjuntada a continuación :
 
-![instructions-now-next-later](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/instructions-now-next-later.png)
+![instructions-now-next-later](https://github.com/ipintos/ISA1/blob/main/imagenes/instructions-now-next-later.png)
 
 
-![now-next-later](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/now-next-later.png)
+![now-next-later](https://github.com/ipintos/ISA1/blob/main/imagenes/now-next-later.png)
 
 
 
@@ -996,8 +996,8 @@ Link a video: https://www.screencast.com/t/01ddVqBQM7
 
 ### VALIDACIÓN 
                     
-https://github.com/ipintos/ISA1/blob/develop/Iteraci%C3%B3n%20II
-                    
+https://github.com/ipintos/ISA1/blob/main/Iteraci%C3%B3n%20II.md
+
 ### MÉTRICAS
                     
 | Iteración | Velocity |
@@ -1019,33 +1019,33 @@ Se realiza actividad cuyo objetivo es repartir tareas acorde a las inquietudes e
 Creemos firmemente en que la motivación nos encausa a buen camino y por tanto si repartimos las tareas según la afinidad de cada uno las tareas van a ser realizadas de la mejor forma.
 
 
-![motivation-retro-1](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/motivation-retro-1.png)
+![motivation-retro-1](https://github.com/ipintos/ISA1/blob/main/imagenes/motivation-retro-1.png)
 
-![motivation-retro-2](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/motivation-retro-2.png)
+![motivation-retro-2](https://github.com/ipintos/ISA1/blob/main/imagenes/motivation-retro-2.png)
 
-![motivation-retro-3](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/motivation-retro-3.png)
+![motivation-retro-3](https://github.com/ipintos/ISA1/blob/main/imagenes/motivation-retro-3.png)
 
 El resultado de esta dinámica fue la siguiente:
 
-![ismael-motivation](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/ismael-motivation.png)
+![ismael-motivation](https://github.com/ipintos/ISA1/blob/main/imagenes/ismael-motivation.png)
 
-![noelia-motivation](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/noelia-motivation.png)
+![noelia-motivation](https://github.com/ipintos/ISA1/blob/main/imagenes/noelia-motivation.png)
 
-![iara-motivation](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/iara-motivation.png)
+![iara-motivation](https://github.com/ipintos/ISA1/blob/main/imagenes/iara-motivation.png)
 
-![hernan-motivation](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/hernan-motivation.png)
+![hernan-motivation](https://github.com/ipintos/ISA1/blob/main/imagenes/hernan-motivation.png)
 
 
 En adición, se realiza dinámica para medir la iteración con emojis:
 
-![iteracion-caritas](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/iteracion-caritas.png)
+![iteracion-caritas](https://github.com/ipintos/ISA1/blob/main/imagenes/iteracion-caritas.png)
 
 Luego, realizamos el #tuiteatusprint, cuyo objetivo es generar un ambiente distendido para poder analizar el proceso. 
 
 Concebimos que la falta de distención y el exceso de formalismo no nos encaminaría hacia un mejor gestión. 
 Optamos por tuitear nuestro sprint como forma de comunicar o describir el sprint de una forma informal.
 
-![tuitea-tu-sprint](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/tuitea-tu-sprint.png)
+![tuitea-tu-sprint](https://github.com/ipintos/ISA1/blob/main/imagenes/tuitea-tu-sprint.png)
 
 Se extraen las siguientes conclusiones:
 
@@ -1059,22 +1059,22 @@ Este punto se mejoraría reduciendo el sprint a una semana. Sin embargo, está f
 
 ### MAD-SAD-GLAD
 
-![mad-sad-glad](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/mad-sad-glad.png)
+![mad-sad-glad](https://github.com/ipintos/ISA1/blob/main/imagenes/mad-sad-glad.png)
 
 ### ACCIÓN MOTIVACIÓN FÁCIL RECORDATORIO
 
-![instructions-action-motivation-easy-reminder](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/instructions-action-motivation-easy-reminder.png)
+![instructions-action-motivation-easy-reminder](https://github.com/ipintos/ISA1/blob/main/imagenes/instructions-action-motivation-easy-reminder.png)
 
-![action-motivation-easy-reminder](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/action-motivation-easy-reminder.png)
+![action-motivation-easy-reminder](https://github.com/ipintos/ISA1/blob/main/imagenes/action-motivation-easy-reminder.png)
 
 
 ### VIAJE AL FUTURO ¿CÓMO MEJORAR?
 
-![mejorar-proceso](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/mejorar-proceso.png)
+![mejorar-proceso](https://github.com/ipintos/ISA1/blob/main/imagenes/mejorar-proceso.png)
 
 ### CIERRE SPRINT RETROSPECTIVE
 
-![cierre-dinamica](https://github.com/ipintos/ISA1/blob/feature/iteration2Definitions/imagenes/cierre-dinamica.png)
+![cierre-dinamica](https://github.com/ipintos/ISA1/blob/main/imagenes/cierre-dinamica.png)
 
 En conclusión, esta última retrospectiva concebimos que fue más enriquecedora que la anterior, siendo que fue más desestructurada, el equipo estaba más confiado y siendo que fue la segunda iteración teníamos un punto de partida relativo al proceso más sólido.
 
