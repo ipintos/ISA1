@@ -382,7 +382,7 @@ Repartimos las tareas para este release y completamos algunas actividades de spr
 	    <th>Lugar</th>
         <td>https://meet.google.com</td>
 	    <th>Objetivo</th>
-	    <td></td>
+	    <td>Planificar como atacar mejoras y nuevas funcionalidades sobre prototipado.</td>
 	</tr>
 </table>
 
@@ -449,7 +449,7 @@ Plantear nuevos escenarios para aportar valor a la aplicación.
 	    <th>Lugar</th>
         <td>https://meet.google.com</td>
 	    <th>Objetivo</th>
-	    <td></td>
+	    <td>Definir pantallas a mejorar y nuevas funcionalidades en nuestro prototipado. Organización de la sprint</td>
 	</tr>
 </table>
 
@@ -517,7 +517,7 @@ Noelia: Seguimiento y correción de las issues de la segunda iteración.
 	    <th>Lugar</th>
         <td>https://meet.google.com</td>
 	    <th>Objetivo</th>
-	    <td></td>
+	    <td>Planificación de la semana. Se debe realizar validaciones del prototipado</td>
 	</tr>
 </table>
 
@@ -582,7 +582,7 @@ Realizar la validación del prototipado. (Todos los integrantes).
 	    <th>Lugar</th>
         <td>https://meet.google.com</td>
 	    <th>Objetivo</th>
-	    <td></td>
+	    <td>Cierre de la sprint junto a Sprint review y  retrospective. Alinear el equipo y realizar entrega. Definir pasos a seguir.</td>
 	</tr>
 </table>
 
