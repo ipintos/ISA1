@@ -39,3 +39,9 @@ Para la validación se solicitó a los usuarios que realicen las siguientes acci
 - Se puede registrar para la vacuna sin problema.
 - Puede realizar el resto de las tareas sin inconveniente.
 - Encontró un problema con el botón de volver cuando ya se hizo la reserva.
+
+###  Usuario 4 / 25-30 años / usuario intermedio
+
+- Usuario nuevo a la aplicación
+- Le confunde un poco la pantalla que muestra las reservas antes de comprobar si puede darse la vacuna.
+- Puede realizar el resto de las tareas sin inconveniente.
