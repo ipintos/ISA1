@@ -10,7 +10,7 @@ Los usuarios se catalogan en intermedio, avanzado o básico , siendo la categori
 
 
 - Si no aclaramos los campos obligatorios al usuario no le quedaba claro que debía cargar y que no por tanto el usuario quería seguir con el flujo sin ingresar los campos obligatorios.
-- Para acceder a la agenda aparece un icono de un reloj y al usuario le queda confuso, le queda más claro un calendario ya que está realizando una reservación.
+- Para acceder a la agenda aparece un icono de un reloj y al usuario le queda confuso, le queda más claro un calendario ya que está realizando una reserva.
 - Le es confuso que al dar click en “Crear Cuenta” me dirija a seleccionar la ciudadania. Le quedaría mejor que ya aparezca la pantalla de “Alta de usuario” y en esa pantalla seleccione para ingresar dni o pasaporte.
 - Le es confuso que al dar click en “Crear Cuenta” me dirija a seleccionar la ciudadania. Le quedaría mejor que ya aparezca la pantalla de “Alta de usuario” y en esa pantalla seleccione para ingresar dni o pasaporte.
 - Al no recordar el prestador de salud por su nombre completo no le quedaba conforme ingresar el prestador de salud a mano. El usuario prefería seleccionar de una lista los prestadores que existen.
