@@ -10,7 +10,7 @@
 
 [https://github.com/ipintos/ISA1.git](https://github.com/ipintos/ISA1.git)
 
-Iara Pintos - Ismael Umpierrez - Noelia Bentacor - Hernán Reyes
+Iara Pintos - Ismael Umpierrez - Noelia Bentancor - Hernán Reyes
 
 Tutor: Juan Pablo Russo
 
@@ -36,7 +36,7 @@ Tutor: Juan Pablo Russo
 En primer lugar, creímos necesario definir un marco de trabajo. Nuestro proyecto está enfocado en metodologías ágiles basados en SCRUM.
 Entendimos que es sumamente importante el uso de una metodología como SCRUM, dado que nos encontramos ante un negocio desconocido y con riesgo a cambios durante su proceso. Por esta razón, debemos iterar sobre los requerimientos, ya que en un principio no son triviales.
 
-Asimismo, sería conveniente obtener feedback sobre lo realizado ya que esto baja el impacto de cambio en lo realizado y creemos firmemente en que estoderive en un mejor encaminamiento hacia el resultado final.
+Asimismo, sería conveniente obtener feedback sobre lo realizado ya que esto baja el impacto de cambio en lo realizado y creemos firmemente en que esto derive en un mejor encaminamiento hacia el resultado final.
 
 ## **Definición del Marco de Trabajo**
 <div id='MarcoTrabajo' />
@@ -59,7 +59,7 @@ Nos comprometemos a todos ser partícipes del proyecto y estar al tanto del trab
         Noelia Bentancor
 
 #### Development team
-        Ismael Umpierrrez, Hernán Reyes
+        Ismael Umpierrez, Hernán Reyes
         
         
 ## Glosario:
@@ -74,7 +74,7 @@ Definition of Done:
 
 Definition of Ready
 
-- El desarrollador logra interpretar sin ambigüedades la definición del caso. Es decir entiende la tarea siendo capaz de realizarla sin ayuda.
+- El desarrollador logra interpretar sin ambigüedades la definición del caso. Es decir entiende la tarea siendo capaz de ejecutarla sin ayuda.
 
 - La tarea debe tener una estimación (puntos de historia). 
 
@@ -82,7 +82,7 @@ Definition of Ready
 
 - La realización de la tarea no debe de contar con tareas pendientes. 
 
-- El detalle funcional, detalle técnico y los casos de prueba de cada tarea deben ser claros para que sean entendibles por cualquier miembro del equipo. Es decir se deben de escribir los distintos documentos en lenguaje de usuario final de tal manera que cualquier persona no relacionada a IT pueda entenderlo.
+- El detalle funcional, detalle técnico y los casos de prueba de cada tarea deben ser claros para que sean comprendidos por cualquier miembro del equipo. Es decir se deben de escribir los distintos documentos en lenguaje de usuario final de tal manera que cualquier persona no relacionada a IT pueda entenderlo.
 
 
 ## ITERACIÓN 1
@@ -251,7 +251,7 @@ Tiempo transcurrido 2 hs
 
 Como desarrollador/scrum master/product owner
 
-quiero reveer el product backlog
+quiero rever el product backlog
 
 para alinear los objetivos de la próxima iteración
 
@@ -319,7 +319,7 @@ En esta instancia, surge una pregunta muy interesante y es la siguiente:
 En esta primera instancia se trackeo el tiempo real en la que la actividad aconteció restando actividades intermedias como puede ser preparación de un café, té o similar.
 Sin embargo, creemos que la actividad inicia desde que decidimos realizar la tarea , implicando la necesidad de obtener el contexto necesario hasta que se finaliza , contabilizando las pausas necesarias para culminarla.
 
-Esta pregunta fue sumamente interesante y concebimos que un trackeo de horas reales obedece al tiempo transcurrido y no a la resta de actividades que si bien no aportan valor son necesarias para culminar la tarea. Estas tareas responden a necesidades biólogicas y si bien no aportan valor no deberían ser restadas.
+Esta pregunta fue sumamente interesante y concebimos que un trackeo de horas reales obedece al tiempo transcurrido y no a la resta de actividades que si bien no aportan valor son necesarias para culminar la tarea. Estas tareas responden a necesidades biológicas y si bien no aportan valor no deberían ser restadas.
 
 A continuación, se adjunta el resumen de la dinámica realizada a través de Miro:
 
@@ -337,13 +337,13 @@ En definitiva, según lo recabado se concluye lo siguiente:
 
 - [ ] Ramificaremos una rama y englobaremos en esta tareas similares, ya que la alta ramificación causa confusión.
 
-- [ ] Las tareas relacionados serán asignadas a un mismo integrante, ya que esto contribuye al correcto desarrollo de esta, siendo que cada integrante puede realizarla en el momento que crea conveniente sin generar disturbios o confusión.
+- [ ] Las tareas relacionados serán asignadas a un mismo integrante, ya que esto contribuye al correcto desarrollo de esta, siendo que cada integrante puede realizar las tareas en el momento que crea conveniente sin generar disturbios o confusión.
 
 - [ ] Deberíamos reflejar en todo momento el avance real en github, ya que es más costoso realizar un resumen luego de haber finalizado la iteración que realizar un seguimiento acorde .En este sentido, nos gustaría comprometernos a velar por la transparencia y entender realmente dónde estamos parados en cada momento, así como identificar posibles cuello de botella en tareas.Por tanto, buscaremos transparentar de mejor forma los avances.
 
 
 ### SPRINT REVIEW
-Se insepecciona el producto.
+Se inspecciona el producto.
 En este punto inspeccionamos lo realizado por cada integrante y alcanzamos los siguientes resultados:
 
 ## ESCENARIOS
@@ -355,22 +355,22 @@ Posibilidad de agendar para la primera dosis. Aporta comodidad , en tanto simple
 Posibilidad de agendar para la segunda dosis. Aporta comodidad , en tanto simplemente por medio de un click podrán estar agendados sin necesidad de requerir a un centro intermedio.
 
 ### INTENTOS DUPLICADOS
-No debería ser posible agendarse una vez la dosis ha sido agendada.En este caso debería ser posible informarle al usuario sobre esta situación y no permitir que esto suceda. El valor del negocio del presente radica en mantener al usuario informado acerca de su agendamiento previo, así como el incorrecto agendamiento duplicado . El intento duplicado exitoso derivaría en un sentimiento desconfianza generalizado y poco control de distribución de las dosis de vacunación en tanto dos usuarios tendrían más de una fecha activa de la misma dosis. Por tanto, evitar y controlar esto apunta a la confianza que se busca generar en los usuarios finales.
+No debería ser posible agendarse una vez la dosis ha sido agendada.En este caso debería ser posible informarle al usuario sobre esta situación y no permitir que esto suceda. El valor del negocio del presente radica en mantener al usuario informado acerca de su reserva de agenda previa, así como la reserva de agenda duplicada. El intento duplicado exitoso derivaría en un sentimiento desconfianza generalizado y poco control de distribución de las dosis de vacunación en tanto dos usuarios tendrían más de una fecha activa de la misma dosis. Por tanto, evitar y controlar esto apunta a la confianza que se busca generar en los usuarios finales.
 
 ### DISPONIBILIDAD
-Debe contemplarse en todo momento la disponibilidad de las vacunas del sistema en todo momento, no siendo posible agendarse sin verificar este punto.El valor de este escenario radica en que no malgasta recursos en malentendidos generados por una incorrecto agendamiento de vacunas. Imaginemos el escenario en que se agendan a más usuarios que vacunas disponibles, llegará el momento en que un potencial usuario acuda a un centro de vacunatorio sin vacuna disponible. Esto sería perjudicial y generaría desconfianza en el funcionamiento de la aplicación que aquí referimos. En su contrario, si se evita esta situación el valor radicaría en la omisión de esta desconfianza y por oposición aumentaría la confianza de quienes utilicen este software.
+Debe contemplarse en todo momento la disponibilidad de las vacunas del sistema en todo momento, no siendo posible agendarse sin verificar este punto.El valor de este escenario radica en que no malgasta recursos en malentendidos generados por una incorrecta reserva de agenda para vacunas. Imaginemos el escenario en que se agendan a más usuarios que vacunas disponibles, llegará el momento en que un potencial usuario acuda a un centro de vacunatorio sin vacuna disponible. Esto sería perjudicial y generaría desconfianza en el funcionamiento de la aplicación que aquí referimos. En su contrario, si se evita esta situación el valor radicaría en la omisión de esta desconfianza y por oposición aumentaría la confianza de quienes utilicen este software.
 
 
 ### ZONAS
-Varianza de zonas. Los usuarios pertenecen a todo el territorio uruguayo. Por lo tanto , cada uno de ellos proviene de una zona distinta. En este sentido, el valor del negocio obtenido en posibilitar esto radica directamente en la comodidad del usuario final, así como evitar transportarse por horas o posible desorientación causada por el asignamiento de una zona no conocida para este. Por tanto, en términos generales esto proporciona confort y ahorro de tiempo .
+Varianza de zonas. Los usuarios pertenecen a todo el territorio uruguayo. Por lo tanto , cada uno de ellos proviene de una zona distinta. En este sentido, el valor del negocio obtenido en posibilitar esto radica directamente en la comodidad del usuario final, así como evitar transportarse por horas o posible desorientación causada por la asignación de una zona no conocida para este. Por tanto, en términos generales esto proporciona confort y ahorro de tiempo .
 
 
 ### CANCELACIÓN
-El usuario podría no poder asistir a la dosis, se prevee la posibilidad de cancelar el turno. En este punto , el valor del negocio radica en la posibilidad de cancelar y volver a agendar en un horario que el usuario pueda, aumenta la flexibilidad de la aplicación en cuestión y disminuye la rigidez. En definitiva, se identifica fundamentalmente un aumento de la flexibilidad , siendo este un valor del negocio fundamental.
+El usuario podría no poder asistir a la dosis, se prevé la posibilidad de cancelar el turno. En este punto , el valor del negocio radica en la posibilidad de cancelar y volver a agendar en un horario que el usuario pueda, aumenta la flexibilidad de la aplicación en cuestión y disminuye la rigidez. En definitiva, se identifica fundamentalmente un aumento de la flexibilidad , siendo este un valor del negocio fundamental.
 
 
 ### PRIORIDAD
-Si un adulto mayor se agenda al mismo momento que un jóven , la prioridad debe ser mayor en el caso del adulto mayor. En este escenario, el valor del negocio remite a la contemplación de los grupos de riesgos . De esta forma, se vela por la salud de la población.
+Si un adulto mayor se agenda al mismo momento que un joven , la prioridad debe ser mayor en el caso del adulto mayor. En este escenario, el valor del negocio remite a la contemplación de los grupos de riesgos . De esta forma, se vela por la salud de la población.
 
 
 ### DISPONIBILIDAD DE LOS DATOS
@@ -386,11 +386,11 @@ Debería poder visualizarse el estado actual del COVID . Probablemente en forma 
 
 
 ### SINTOMAS COVID
-El usuario puede buscar revisar rápidamente si tiene sintomas de COVID. Debería poder visualizarse esto. Este escenario prevee que el usuario de forma rápida pueda tener acceso a un resumen breve a modo de checklist de modo de aportar rapidez en la búsqueda y evitar malgastar tiempo en sitios web con información parcialmente confiable. En este sentido, se aporta comodidad, acceso rápido a información y posibilidad de sospecha en caso de padecer alguno/s de estos síntomas derivando en un mayor control de los casos , en tanto estos usuarios podrán optar por realizarse un test de COVID.
+El usuario puede buscar revisar rápidamente si tiene sintomas de COVID. Debería poder visualizarse esto. Este escenario prevé que el usuario de forma rápida pueda tener acceso a un resumen breve a modo de checklist de modo de aportar rapidez en la búsqueda y evitar malgastar tiempo en sitios web con información parcialmente confiable. En este sentido, se aporta comodidad, acceso rápido a información y posibilidad de sospecha en caso de padecer alguno/s de estos síntomas derivando en un mayor control de los casos , en tanto estos usuarios podrán optar por realizarse un test de COVID.
 
 
 ### NOTIFICACIONES
-El usuario debería poder recibir notificaciones con el fin de estar informado de los casos activos, y debería poder cancelar las mismas si así lo quisiera En este punto, el usuario podrá decidir mantenerse constantemente informado apenas la información este publicada. En este punto aporta información en tiempo real y alta disponibilidad de la misma. Asimismo, controlar estas notificaciones deriva en un mayor controlamiento de la aplicación y por tanto desencadena en un aporte de mayor flexibilidad.
+El usuario debería poder recibir notificaciones con el fin de estar informado de los casos activos, y debería poder cancelar las mismas si así lo quisiera En este punto, el usuario podrá decidir mantenerse constantemente informado apenas la información este publicada. En este punto aporta información en tiempo real y alta disponibilidad de la misma. Asimismo, controlar estas notificaciones deriva en un mayor control de la aplicación y por tanto desencadena en un aporte de mayor flexibilidad.
 
 ## INTERESADOS
 
@@ -568,11 +568,11 @@ Creemos que nuestro rival cuenta con pantallas poco amigables para estratos con 
 ### Conclusión
 
 Luego de utilizar la app Coronavirus Uy y recabado distintas reseñas de los usuarios que alguna vez utilizaron la aplicación
-pudimos ver que la misma carece con algunos criterios de usabilidad mencionados anteriormente para algunos estrator de la población.
+pudimos ver que la misma carece con algunos criterios de usabilidad mencionados anteriormente para algunos estratos de la población.
 Como los que pueden ser botones que no relevan intención, tabs dificiles de visualizar/acceder, funcionalidades principales dificiles
 de encontrar, etc.
-La conclusión se realiza tomando encuenta todos los estratos, como por ejemplo adultos mayores que deben contar con una aplicación más
-facil de usar, datos con graficas muy tecnicas que muchas veces son entendiso por expertos del tema, entre otras.
+La conclusión se realiza tomando en cuenta todos los estratos, como por ejemplo adultos mayores que deben contar con una aplicación más
+facil de usar, datos con graficas muy técnicas que muchas veces son comprendidos por expertos del tema, entre otras.
 
 Por otro lado recabamos información de lo que opinan los usuarios sobre la aplicación. Notamos que la gran mayoria cuentan con quejas
 de conectividad, que la aplicación no permite los cambios de datos personales, fallas en obtención de codigos de validacion, no se toman
@@ -602,7 +602,7 @@ Una muestra de 5 personas seleccionadas al azar debe ser capaz de agendarse sin 
 
 Ningún otro usuario además de quien hace la reserva debe ver sus datos personales.
 
-La funcionalidad cuenta con una interfaz Androidy iOS
+La funcionalidad cuenta con una interfaz Android e iOS
 
 #### story points: 13
 #### priority: 2
@@ -627,7 +627,7 @@ Las gráficas deben cargar en menos de 10 segundos.
 
 Una muestra de 5 personas seleccionadas al azar debe ser capaz de llegar a las gráficas sin recibir ayuda externa en menos de 1 minuto.
 
-La funcionalidad cuenta con una interfaz Androidy iOS
+La funcionalidad cuenta con una interfaz Android e iOS
 
 #### story points: 5
 #### priority: 3
@@ -651,7 +651,7 @@ Una muestra de 5 personas seleccionadas al azar debe ser capaz de llegar a una r
 
 Siempre se recomienda una acción para cada caso.
 
-La funcionalidad cuenta con una interfaz Androidy iOS
+La funcionalidad cuenta con una interfaz Android e iOS
 
 #### story points: 21
 #### priority: 4
@@ -689,7 +689,7 @@ Quiero poder iniciar sesión en la aplicación de manera segura.
 Para poder acceder a las funcionalidades de la aplicación.
 
 
-El usuario tiene que poder consguir las credenciales para ingresar al sistema. Estas credenciales estarán asociadas a su identidad digital.
+El usuario tiene que poder conseguir las credenciales para ingresar al sistema. Estas credenciales estarán asociadas a su identidad digital.
 
 
 #### Criterios de aceptación:
@@ -869,7 +869,7 @@ La aplicación muestra las FAQ y permite chatear para enviar consultas.
  
 Quiero que la aplicación me identifiqué como tal.
  
-Para poder agendarme para la vacuna en forma prioritaria.
+Para poder solicitar agenda para la vacuna en forma prioritaria.
  
 Los usuarios registrados que pertenezcan a un grupo prioritario deben poder ser identificados por la aplicación mediante servicios del BPS, en caso de que no estén como tal, deben poder reclamar esta situación desde la aplicación.
  
@@ -893,7 +893,7 @@ Como administrador quiero que todos los usuarios puedan agendarse para ser vacun
 ## ITERACIÓN 2
 <div id='Iteración2' />
 
-Esta iteración abarca un lapso temporal de una semana. El objetivo de la presente abarca la prototipación de la solución planteada en la iteración previa. Esta étapa culminará el 22 de octubre.
+Esta iteración abarca un lapso temporal de una semana. El objetivo de la presente abarca la prototipación de la solución planteada en la iteración previa. Esta etapa culminará el 22 de octubre.
 
 Objetivos de la iteración :
 
@@ -903,11 +903,11 @@ Objetivos de la iteración :
 
 - [ ] Al final del sprint, se creará una dinámica de retrospectiva de la iteración que permita inspeccionar y extraer mejores conclusiones.
 
-- [ ] Los prototipos en esencia serán realizados de manera que faciliten el cambio. Esto se debe a que partimos de la base de que en términos del usuario final es más sencillo realizar feedback constructivo al prototipo si este no se encuentra en una étapa madura.
+- [ ] Los prototipos en esencia serán realizados de manera que faciliten el cambio. Esto se debe a que partimos de la base de que en términos del usuario final es más sencillo realizar feedback constructivo al prototipo si este no se encuentra en una etapa madura.
 
 - [ ] No aceptaremos que las validaciones alaben a lo prototipado sin presencia de feedback constructivo. En todo momento se debe inducir que es un producto cuya versión es inicial y su madurez es temprana. De este modo, se encuentra que el objetivo principal es el feedback que nos ayude a partir de una base más sólida para la iteración próxima.
 
-En primer lugar, redefinimos las épicas planteadas agrupando las distintas historias de usuarios definidas en la iteración previa. Estas historias de usuario fueron repuntualizadas con el criterio de Fibonacci.
+En primer lugar, redefinimos las épicas planteadas agrupando las distintas historias de usuarios definidas en la iteración previa. Estas historias de usuario fueron priorizadas con el criterio de Fibonacci.
 
 La agrupación de estas historias de usuario quedó de la siguiente forma:
 
@@ -927,7 +927,7 @@ La agrupación de estas historias de usuario quedó de la siguiente forma:
 
 ![user-stories](https://github.com/ipintos/ISA1/blob/main/imagenes/user-stories.png)
 
-Los puntos de las historias fueron detallados en líneas anteriore, así como la prioridad cuya puntualización equivale a 1 la máxima prioridad.
+Los puntos de las historias fueron detallados en líneas anteriores, así como la prioridad cuya escala asigna 1 como la máxima prioridad.
 
 | Historia de usuario | Horas |
 | ------------------- | ----- |
@@ -1008,7 +1008,7 @@ https://github.com/ipintos/ISA1/blob/main/Iteraci%C3%B3n%20II.md
 | 1         |   35     |
 | 2         | 96       |
                     
-Si bien mejoramos la velocity en tanto adaptamos el proceso, entendemos que esta métrica no es fiel a la realidad, siendo que en la adaptación del proceso repuntualizamos historias de usuario con el criterio de Fibonacci. Por tanto, las historias de usuario pertenecientes a la iteración 1 fueron realizadas con distinto criterio al nuevo.
+Si bien mejoramos la velocity en tanto adaptamos el proceso, entendemos que esta métrica no es fiel a la realidad, siendo que en la adaptación del proceso reestimamos las historias de usuario con el criterio de Fibonacci. Por tanto, las historias de usuario pertenecientes a la iteración 1 fueron realizadas con distinto criterio al nuevo.
                     
         
 
@@ -1045,7 +1045,7 @@ En adición, se realiza dinámica para medir la iteración con emojis:
 
 Luego, realizamos el #tuiteatusprint, cuyo objetivo es generar un ambiente distendido para poder analizar el proceso. 
 
-Concebimos que la falta de distención y el exceso de formalismo no nos encaminaría hacia un mejor gestión. 
+Concebimos que la falta de distensión y el exceso de formalismo no nos encaminaría hacia un mejor gestión. 
 Optamos por tuitear nuestro sprint como forma de comunicar o describir el sprint de una forma informal.
 
 ![tuitea-tu-sprint](https://github.com/ipintos/ISA1/blob/main/imagenes/tuitea-tu-sprint.png)
@@ -1053,7 +1053,7 @@ Optamos por tuitear nuestro sprint como forma de comunicar o describir el sprint
 Se extraen las siguientes conclusiones:
 
 - [ ] Aún no cargamos las horas a tiempo, sino que demoramos en cargarlas. Sin embargo,el trackeo mejoró en relación a la iteración pasada. 
-En este sentido, el trackeo fue del tiempo transcurrido. Sin embargo, debemos ser más constantes en la carga de hora. Cada dos días se revisará la carga de horas y se aplicarán las correciones pertinentes a forma de mejora.
+En este sentido, el trackeo fue del tiempo transcurrido. Sin embargo, debemos ser más constantes en la carga de hora. Cada dos días se revisará la carga de horas y se aplicarán las correcciones pertinentes a forma de mejora.
 
 - [ ] Cumplimos los objetivos propuestos al igual que en la iteración.
 
@@ -1103,7 +1103,7 @@ A continuación , se detallan las conclusiones relativas a las mejoras y los pun
 
 - [ ] El equipo sigue motivado, comprometido y entusiasta al percibir y ver mejoras.
 
-- [ ] La dinámica de retroespectiva fue más enriquecedora.
+- [ ] La dinámica de retrospectiva fue más enriquecedora.
 
 - [ ] Mayor fluidez en las herramientas de trabajo.
 
@@ -1115,7 +1115,7 @@ A continuación , se detallan las conclusiones relativas a las mejoras y los pun
 
 - [ ] Aún percibimos que el registro de horas puede mejorar. Lo verificaremos cada dos días.
 
-- [ ] Las tareas no serán repartidas al inicio del sprint. Serán autoasignadas, de esta forma buscamos que cada uno se autoorganice y así limitaremos el work in progress ( trabajo en progreso ). En este punto, uno de los objetivos planteados es disiminuir el cambio de contexto derivado del manejo de diversas tareas.
+- [ ] Las tareas no serán repartidas al inicio del sprint. Serán autoasignadas, de esta forma buscamos que cada uno se autoorganice y así limitaremos el work in progress ( trabajo en progreso ). En este punto, uno de los objetivos planteados es disminuir el cambio de contexto derivado del manejo de diversas tareas.
 
 ## ITERACIÓN 3
 <div id='Iteración3' />
@@ -1162,4 +1162,6 @@ Link a video: https://www.screencast.com/t/PMu8pP9F
 
  - Reuniones por Google Meet. https://meet.google.com/
 
- - Coordinación extra a travez de Miro. https://miro.com/login/
+ - Coordinación extra a traves de Miro. https://miro.com/login/
+
+ - Corrector ortográfico. Code spell checker for VS Code: https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
