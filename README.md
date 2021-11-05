@@ -84,6 +84,10 @@ Definition of Ready
 
 - El detalle funcional, detalle técnico y los casos de prueba de cada tarea deben ser claros para que sean comprendidos por cualquier miembro del equipo. Es decir se deben de escribir los distintos documentos en lenguaje de usuario final de tal manera que cualquier persona no relacionada a IT pueda entenderlo.
 
+## Product Backlog:
+Se agrega el product backlog como generalidad del proyecto para diferenciarlo tal como se indicó en el #9, el Product backlog fue definido dentro de la iteración 1, sin embargo no lo agregamos ahora para dejar esa documentación sin cambios ya que las correcciones fueron sobre la documentación ya existente.
+
+![product-backlog](https://github.com/ipintos/ISA1/blob/feature/sprint-backlog/imagenes/product-backlog.png)
 
 ## ITERACIÓN 1
 <div id='Iteración1' />
@@ -1146,7 +1150,7 @@ Mejorar el prototipo sobre el feedback recibido en la iteración anterior y vali
                     
 [***Historias de usuario***](#user-stories)
 
-![Iteración3-backlog.png](https://github.com/ipintos/ISA1/blob/main/imagenes/Iteración3-backlog.png)
+![Iteración3-backlog.png](https://github.com/ipintos/ISA1/blob/feature/sprint-backlog/imagenes/Iteración3-backlog.png)
 
 Los puntos de las historias fueron detallados en líneas anteriores, así como la prioridad cuya escala asigna 1 como la máxima prioridad.
 En esta oportunidad detallamos las tareas dentro de este sprint backlog para que se puedan diferenciar claramente del backlog del proyecto según fue indicado en #9.
@@ -1189,7 +1193,7 @@ En esta iteración la asignación de tareas se definió desde el comienzo. Como 
 
 Logramos mejorar la dinámica de trabajo haciendolo más fluido que en la iteración anterior sin embargo no mantuvimos una velocidad constante y olvidamos cargar las horas en el devops desde el comienzo del sprint.
 
-![iteracion3-burndown.png](https://github.com/ipintos/ISA1/blob/main/imagenes/iteracion3-burndown.png)
+![iteracion3-burndown.png](https://github.com/ipintos/ISA1/blob/feature/sprint-backlog/imagenes/iteracion3-burndown.png)
 
 
 #### Flujos del sistema ajustados
