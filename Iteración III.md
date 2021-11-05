@@ -33,3 +33,9 @@ Para la validación se solicitó a los usuarios que realicen las siguientes acci
 - Encuentra la funcionalidad de agendarse un poco complicada de más aún, sobre todo por la parte que muestra las reservas existentes cuando se va a crear una nueva.
 - Puede realizar el resto de las tareas sin inconveniente.
 
+###  Usuario 3 / 20-25 años / usuario intermedio
+
+- Usuario nuevo a la aplicación
+- Se puede registrar para la vacuna sin problema.
+- Puede realizar el resto de las tareas sin inconveniente.
+- Encontró un problema con el botón de volver cuando ya se hizo la reserva.
