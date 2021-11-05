@@ -4,6 +4,13 @@ Bentancor - Pintos - Reyes - Umpierrez
 
 Los usuarios se catalogan en intermedio, avanzado o básico , siendo la categorización basada en qué tal familiarizado se encuentre el usuario con la tecnología.
 
+Para la validación se solicitó a los usuarios que realicen las siguientes acciones:
+1 - Cree una cuenta.
+2 - Inicie sesión.
+3 - Agéndese para vacunarse.
+4 - Como harías para revisar las gráficas de avance de la enfermedad?
+5 - Cancele la reserva que realizó antes.
+
 # Validación de Prototipado 
 
 ###  Usuario 1 / 16-29 años / usuario intermedio
