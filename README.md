@@ -28,6 +28,8 @@ Tutor: Juan Pablo Russo
 
 [**Iteración 3** 3](#Iteración3)
 
+[**Herramientas utilizadas**](#Herramientas)
+
 ## Introducción
 <div id='Introducción' />
 
@@ -1115,7 +1117,6 @@ A continuación , se detallan las conclusiones relativas a las mejoras y los pun
 
 - [ ] Las tareas no serán repartidas al inicio del sprint. Serán autoasignadas, de esta forma buscamos que cada uno se autoorganice y así limitaremos el work in progress ( trabajo en progreso ). En este punto, uno de los objetivos planteados es disiminuir el cambio de contexto derivado del manejo de diversas tareas.
 
-
 ## ITERACIÓN 3
 <div id='Iteración3' />
 
@@ -1148,3 +1149,17 @@ Link a video: https://www.screencast.com/t/M5FghehilAn4
 ##### Ver lugares publicos con mayor exposición
 
 Link a video: https://www.screencast.com/t/PMu8pP9F 
+
+
+## Herramientas utilizadas durante las iteraciones
+<div id='Herramientas' />
+
+ - Grabación y publicación de videos TechSmith Screencast. https://www.screencast.com/ 
+
+ - Prototipación con herramienta framer. https://framer.com/
+
+ - Tablero agil para el seguimiento de las iteraciones y tareas con Azure DevOps. https://dev.azure.com/
+
+ - Reuniones por Google Meet. https://meet.google.com/
+
+ - Coordinación extra a travez de Miro. https://miro.com/login/
