@@ -88,7 +88,11 @@ Definition of Ready
 ## ITERACIÓN 1
 <div id='Iteración1' />
 
-Esta iteración tiene los siguientes objetivos:
+### Objetivo: 
+
+Identificación del problema.
+
+#### Objetivos específicos:
 
 - [ ]  La primera iteración tiene como objetivo fundamental la identificación del problema a definir con una solución, cuyo resultado nos encaminará hacia un mejor entendimiento del problema. En este punto se parte de la base de que los integrantes desconocemos el problema y por este motivo necesitamos esta primera iteración. La finalización de esta iteración será el 8 de octubre.
 
@@ -895,7 +899,11 @@ Como administrador quiero que todos los usuarios puedan agendarse para ser vacun
 
 Esta iteración abarca un lapso temporal de una semana. El objetivo de la presente abarca la prototipación de la solución planteada en la iteración previa. Esta etapa culminará el 22 de octubre.
 
-Objetivos de la iteración :
+### Objetivo: 
+
+Generación de prototipos y validación.
+
+#### Objetivos específicos:
 
 - [ ] En primer lugar, se ajustarán las historias de usuario al sprint backlog.
 
@@ -1119,6 +1127,21 @@ A continuación , se detallan las conclusiones relativas a las mejoras y los pun
 
 ## ITERACIÓN 3
 <div id='Iteración3' />
+
+### Objetivo: 
+
+Mejorar el prototipo sobre el feedback recibido en la iteración anterior y validar.
+
+#### Objetivos específicos:
+
+- [ ] En primer lugar, se ajustarán las pantallas que recibieron feedback negativo.
+
+- [ ] Se estimarán las tareas de mejoras de prototipo y validación de los mismos.
+
+- [ ] Al final del sprint, se creará una dinámica de retrospectiva de la iteración que permita inspeccionar y extraer mejores conclusiones.
+
+- [ ] Se realizará una nueva validación con las mejoras propuestas.
+
 
 #### Flujos del sistema ajustados
 
