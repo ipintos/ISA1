@@ -26,8 +26,9 @@ Tutor: Juan Pablo Russo
 
 [**Iteración 2** 3](#Iteración2)
 
-[**Herramientas utilizadas**](#Herramientas)
+[**Iteración 3** 3](#Iteración3)
 
+[**Herramientas utilizadas**](#Herramientas)
 
 ## Introducción
 <div id='Introducción' />
@@ -1116,8 +1117,41 @@ A continuación , se detallan las conclusiones relativas a las mejoras y los pun
 
 - [ ] Las tareas no serán repartidas al inicio del sprint. Serán autoasignadas, de esta forma buscamos que cada uno se autoorganice y así limitaremos el work in progress ( trabajo en progreso ). En este punto, uno de los objetivos planteados es disiminuir el cambio de contexto derivado del manejo de diversas tareas.
 
+## ITERACIÓN 3
+<div id='Iteración3' />
 
-## Herramientas utilizadas mediante las iteraciones
+#### Flujos del sistema ajustados
+
+##### Registro de usuario
+
+Link a video: https://www.screencast.com/t/lOlL5TBaaQS
+
+##### Ver reservas y agendar
+
+Link a video: https://www.screencast.com/t/3dVb302AvG
+
+##### Cancelar agenda
+
+Link a video: https://www.screencast.com/t/fGoeKexDpLYD 
+
+##### Ver preguntas frecuentes
+
+Link a video: https://www.screencast.com/t/1pV6vxZ26
+
+##### Ver información
+
+Link a video: https://www.screencast.com/t/9cliOkIl2
+
+##### Alerta de exposición al virus
+
+Link a video: https://www.screencast.com/t/M5FghehilAn4 
+
+##### Ver lugares publicos con mayor exposición
+
+Link a video: https://www.screencast.com/t/PMu8pP9F 
+
+
+## Herramientas utilizadas durante las iteraciones
 <div id='Herramientas' />
 
  - Grabación y publicación de videos TechSmith Screencast. https://www.screencast.com/ 
