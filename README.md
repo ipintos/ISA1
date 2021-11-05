@@ -1188,3 +1188,7 @@ Link a video: https://www.screencast.com/t/PMu8pP9F
  - Coordinación extra a traves de Miro. https://miro.com/login/
 
  - Corrector ortográfico. Code spell checker for VS Code: https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
+
+## Sprint retrospective
+
+En la presente iteración el equipo se plantea el desafio de la retrospective sailboat. 
