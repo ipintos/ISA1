@@ -304,7 +304,7 @@ Pensar si necesitamos cambiar algo en el trabajo previo.
 	    <th>Lugar</th>
         <td>https://meet.google.com</td>
 	    <th>Objetivo</th>
-	    <td>Cierre de sprint, Sprint review, restrospective, poner al dia al equipo de las últimas novedades. Definir pasos a seguir.</td>
+	    <td>Cierre de sprint, Sprint review, retrospective, poner al dia al equipo de las últimas novedades. Definir pasos a seguir.</td>
 	</tr>
 </table>
 
