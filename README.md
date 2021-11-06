@@ -115,7 +115,7 @@ La presente definición aplica para las tareas.
 ## Product Backlog:
 Se agrega el product backlog como generalidad del proyecto para diferenciarlo tal como se indicó en el #9, el Product backlog fue definido dentro de la iteración 1, sin embargo no lo agregamos ahora para dejar esa documentación sin cambios ya que las correcciones fueron sobre la documentación ya existente.
 
-![product-backlog](https://github.com/ipintos/ISA1/blob/feature/sprint-backlog/imagenes/product-backlog.png)
+![product-backlog](https://github.com/ipintos/ISA1/blob/develop/imagenes/product-backlog.png)
 
 ## ITERACIÓN 1
 <div id='Iteración1' />
@@ -1231,6 +1231,8 @@ Logramos mejorar la dinámica de trabajo haciendolo más fluido que en la iterac
 
 ![iteracion3-burndown.png](https://github.com/ipintos/ISA1/blob/main/imagenes/iteracion3-burndown.png)
 
+#### SPRINT REVIEW
+
 #### Flujos del sistema ajustados
 
 ##### Registro de usuario
@@ -1261,7 +1263,9 @@ Link a video: https://www.screencast.com/t/M5FghehilAn4
 
 Link a video: https://www.screencast.com/t/PMu8pP9F 
 
+#### VALIDACIÓN
 
+https://github.com/ipintos/ISA1/blob/develop/Iteraci%C3%B3n%20III.md
 
 ## Sprint retrospective
 
