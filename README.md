@@ -84,6 +84,10 @@ Definition of Ready
 
 - El detalle funcional, detalle técnico y los casos de prueba de cada tarea deben ser claros para que sean comprendidos por cualquier miembro del equipo. Es decir se deben de escribir los distintos documentos en lenguaje de usuario final de tal manera que cualquier persona no relacionada a IT pueda entenderlo.
 
+## Product Backlog:
+Se agrega el product backlog como generalidad del proyecto para diferenciarlo tal como se indicó en el #9, el Product backlog fue definido dentro de la iteración 1, sin embargo no lo agregamos ahora para dejar esa documentación sin cambios ya que las correcciones fueron sobre la documentación ya existente.
+
+![product-backlog](https://github.com/ipintos/ISA1/blob/feature/sprint-backlog/imagenes/product-backlog.png)
 
 ## ITERACIÓN 1
 <div id='Iteración1' />
@@ -1141,6 +1145,55 @@ Mejorar el prototipo sobre el feedback recibido en la iteración anterior y vali
 - [ ] Al final del sprint, se creará una dinámica de retrospectiva de la iteración que permita inspeccionar y extraer mejores conclusiones.
 
 - [ ] Se realizará una nueva validación con las mejoras propuestas.
+
+### SPRINT BACKLOG    
+                    
+[***Historias de usuario***](#user-stories)
+
+![Iteración3-backlog.png](https://github.com/ipintos/ISA1/blob/feature/sprint-backlog/imagenes/Iteración3-backlog.png)
+
+Los puntos de las historias fueron detallados en líneas anteriores, así como la prioridad cuya escala asigna 1 como la máxima prioridad.
+En esta oportunidad detallamos las tareas dentro de este sprint backlog para que se puedan diferenciar claramente del backlog del proyecto según fue indicado en #9.
+
+| Historia de usuario - task  | Horas Estimadas | Horas reales |
+| --------------------------- | --------------- | ------------ |
+| #U1 - ajustes               | 1               |              |
+| #U1 - validación            | 0.5             |              |
+| #U2 - ajustes               | 1               |              |
+| #U2 - validación            | 0.5             |              |
+| #U3 - ajustes               | 1               |              |
+| #U3 - validación            | 0.5             |              | 
+| #U4 - ajustes               | 1               |              |
+| #U4 - validación            | 0.5             |              | 
+| #U5 - ajustes               | 1               |              |
+| #U5 - validación            | 0.5             |              | 
+| #U6 - ajustes               | 1               |              |
+| #U6 - validación            | 0.5             |              | 
+| #U7 - ajustes               | 1               |              |
+| #U7 - validación            | 0.5             |              | 
+| #U8 - ajustes               | 1               |              |
+| #U8 - validación            | 0.5             |              | 
+| #U9 - ajustes               | 1               |              |
+| #U9 - validación            | 0.5             |              | 
+| #U10 - ajustes              | 1               |              |
+| #U10 - validación           | 0.5             |              | 
+| #U11 - ajustes              | 1               |              |
+| #U11 - validación           | 0.5             |              |
+| #U12 - ajustes              | 1               |              |
+| #U12 - validación           | 0.5             |              |
+| #U13 - ajustes              | 1               |              |
+| #U13 - validación           | 0.5             |              |
+| #U14 - ajustes              | 1               |              |
+| #U14 - validación           | 0.5             |              |
+| #U15 - ajustes              | 1               |              |
+| #U15 - validación           | 0.5             |              |
+
+### Burndown Chart
+En esta iteración la asignación de tareas se definió desde el comienzo. Como ya habíamos realizado el prototipado de todas nuestras historias de usuario, en esta iteración faltaba ajustar los prototipos según el feedback recibido en la iteración 2 y realizar nuevamente la validación. Para eso lo que realizamos fue una task de ajustes sobre el prototipado y validación del mismo para cada una de las user stories. 
+
+Logramos mejorar la dinámica de trabajo haciendolo más fluido que en la iteración anterior sin embargo no mantuvimos una velocidad constante y olvidamos cargar las horas en el devops desde el comienzo del sprint.
+
+![iteracion3-burndown.png](https://github.com/ipintos/ISA1/blob/feature/sprint-backlog/imagenes/iteracion3-burndown.png)
 
 
 #### Flujos del sistema ajustados
