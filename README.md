@@ -1292,5 +1292,27 @@ A continuación se adjunta el resultado de la agrupación de estas ideas:
 ## POSIBLES RIESGOS 
 ![problems](https://github.com/ipintos/ISA1/blob/develop/imagenes/problems.png)
 
+A partir de esta agrupación se concluye lo siguiente:
+
+
+- [ ] El equipo entiende la importancia del trabajo en equipo y entiende que es esto lo que nos hizo obtener un buen resultado. Esto nos motiva y si bien es un grupo que no había trabajado anteriormente entendemos que el trabajo fluyó normalmente.
+
+
+- [ ] Se mejoró el proceso. En la iteración previa nos habíamos propuesto que las tareas se tomaran con iniciativa propia y este punto nos fortaleció y derivó en una mejora del proceso. En adición, esto limitó el trabajo en progreso y mejoró la productividad.
+
+- [ ] El registro de horas , al igual que la burn down chart fue considerablemente mejor.
+
+- [ ] En relación a las herramientas , si bien implicaron una curva de aprendizaje actualmente las manejamos de forma intuitiva.
+
+### ÚLTIMAS ACCIONES A CONSIDERAR SOBRE POSIBLES RIESGOS
+
+- [ ] Notamos que no hay considerables riesgos para poder entregar un buen producto final. 
+
+- [ ] Se destaca al tiempo como un posible riesgo derivado de la cantidad de proyectos en curso que cada integrante está llevando a cabo. Por este motivo, debemos comprometernos a continuar trabajando en equipo para poder obtener un buen resultado final. 
+Este trabajo en equipo implica el seguimiento de las reuniones, así como el compromiso individual por documentar lo restante así como subir videos a la plataforma indicada.
+Debemos realizar estas tareas con antelación en el caso de tener algún problema.
+
+- [ ] El punto anterior son tareas que tenemos claro que debemos realizar. Sin embargo, el equipo entiende que hay tareas tales como la resolución de bugs o incidentes que no puede prever. Por tanto, debemos reservarnos como mínimo tres reuniones con el objetivo de solucionar los posibles incovenientes.
+Por tanto, el equipo destinará el 30% de su tiempo a la resolución de bugs y el 70% del tiempo a llevar a cabo los objetivos específicos del siguiente sprint.
 
 
