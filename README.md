@@ -1188,6 +1188,12 @@ En esta oportunidad detallamos las tareas dentro de este sprint backlog para que
 | #U15 - ajustes              | 1               |        0.2      |
 | #U15 - validación           | 0.5             |     0.1         |
 
+| Iteración | Velocity |
+| --------- | -------- |
+| 1         |   35     |
+| 2         | 96       |
+| 3         | 96       |
+
 ### Burndown Chart
 En esta iteración la asignación de tareas se definió desde el comienzo. Como ya habíamos realizado el prototipado de todas nuestras historias de usuario, en esta iteración faltaba ajustar los prototipos según el feedback recibido en la iteración 2 y realizar nuevamente la validación. Para eso lo que realizamos fue una task de ajustes sobre el prototipado y validación del mismo para cada una de las user stories. 
 
