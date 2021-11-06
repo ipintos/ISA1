@@ -43,12 +43,26 @@ Asimismo, sería conveniente obtener feedback sobre lo realizado ya que esto baj
 
 ### Marco general de SCRUM
 
-
-Sync semanal breve: Esta se llevará a cabo los lunes con una duración que estimamos no sea más de media hora, cuyo objetivo es alinear el trabajo semanal de cada integrante. Esta sería nuestra adaptación de la daily meeting propuesta por scrum.
-
-Sync semanal: Esta se llevará a cabo los viernes con una duración que estimamos no más de dos horas, cuyo objetivo es revisar el trabajo semanal realizado por cada integrante realizando así una puesta a punto. Culminando nuestra reunión con una actividad team building activity. Esta sería nuestra adaptación de la Refinement meeting en caso de ser dentro del sprint y de Sprint Review y Retrospectiva al final del sprint. HAcemos una reunión de Refinement para poder contrarrestar la disminución de las daily.
+#### Trabajo en equipo cross functional
 
 Nos comprometemos a todos ser partícipes del proyecto y estar al tanto del trabajo de los otros participantes.
+
+
+#### Daily
+
+Se adapta la daily a reuniones de dos veces por semana. La primera se llevará a cabo los lunes con una duración que estimamos no sea más de media hora, cuyo objetivo es alinear el trabajo semanal de cada integrante. 
+Por otra parte, haremos otra reunión que se llevará a cabo los viernes con una duración que estimamos no más de dos horas, cuyo objetivo es revisar el trabajo semanal realizado por cada integrante realizando así una puesta a punto. Culminando nuestra reunión con una actividad team building activity. 
+Esta sería nuestra adaptación de la daily meeting propuesta por scrum.
+
+
+### Review
+
+Se llevará a cabo al final del sprint con el objetivo de revisar el producto. En este sentido, se llevarán a cabo 4 reviews una por cada iteración.
+
+#### Retrospective
+
+Se analiza el proceso a través de dinámicas diversas con el objetivo de iterar sobre el proceso y mejorarlo. Se llevara a cabo el mismo día que la sprint review. Por tanto, además de analizar el producto en esta instancia , se analiza el proceso.
+
 
 ### Roles del equipo
 
@@ -64,15 +78,29 @@ Nos comprometemos a todos ser partícipes del proyecto y estar al tanto del trab
         
 ## Glosario:
 
-Definition of Done:
+### Estándares de calidad:
 
-- La tarea debe cumplir con los estándares de calidad definidos para el proyecto.
+o La aplicación debe poder escalar a millones de usuarios (mínimamente a toda la población uruguaya). Se asume si escala si dentro de una muestra de tres personas estas personas logran acceder a la misma a través de framer.
 
-- La tarea debe haber sido verificada en la sync semanal de los viernes contra sus criterios de aceptación que serán definidos para cada tarea individual. 
+o Debe ser fácil de usar por todos los estratos de población. Se concibe como de fácil uso si el tiempo de aprendizaje de la aplicación es de menos de cinco minutos.
+
+o Debe poder mantener la privacidad de datos sensibles de sus usuarios. La privacidad radica en que los usuarios no pueden ver datos de otros usuarios en la aplicación.
+
+o Debe contar con una interfaz principalmente móvil (iOS y Android).
+
+
+### Definition of Done:
+
+Esta definición es transversal a todo el proyecto. 
+Por este motivo, consideramos que los requerimientos no funcionales deben incluirse en esta definición.
+
+- La tarea debe cumplir con los estándares de calidad definidos anteriormente.
 
 - La tarea debe haber sido aprobada por el Product Owner. 
 
-Definition of Ready
+### Definition of Ready
+
+La presente definición aplica para las tareas.
 
 - El desarrollador logra interpretar sin ambigüedades la definición del caso. Es decir entiende la tarea siendo capaz de ejecutarla sin ayuda.
 
@@ -82,7 +110,7 @@ Definition of Ready
 
 - La realización de la tarea no debe de contar con tareas pendientes. 
 
-- El detalle funcional, detalle técnico y los casos de prueba de cada tarea deben ser claros para que sean comprendidos por cualquier miembro del equipo. Es decir se deben de escribir los distintos documentos en lenguaje de usuario final de tal manera que cualquier persona no relacionada a IT pueda entenderlo.
+- El detalle funcional, detalle técnico y los casos de prueba de cada tarea deben ser claros para que sean comprendidos por cualquier miembro del equipo. Se deben de escribir los distintos documentos en lenguaje de usuario final de tal manera que cualquier persona no relacionada a IT pueda entenderlo.
 
 ## Product Backlog:
 Se agrega el product backlog como generalidad del proyecto para diferenciarlo tal como se indicó en el #9, el Product backlog fue definido dentro de la iteración 1, sin embargo no lo agregamos ahora para dejar esa documentación sin cambios ya que las correcciones fueron sobre la documentación ya existente.
