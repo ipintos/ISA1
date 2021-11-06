@@ -1252,20 +1252,45 @@ En la presente iteración el equipo se plantea el desafio de la retrospective sa
 
 En este sentido, en primer lugar se introduce la métafora relativa a que nos encontramos en un bote, en donde tenemos los siguientes artifactos:
 
-SOL: Representa lo que al equipo lo hizo feliz.
+SUN: Representa lo que al equipo lo hizo feliz.
 
-VIENTO: Representa lo que al equipo lo impulsó.
+WIND: Representa lo que al equipo lo impulsó.
 
-ANCLA: Representa lo que al equipo lo atascó.
+ANCHOR: Representa lo que al equipo lo atascó.
 
-ARRECIFE: Representa posibles riesgos.
+REEF: Representa posibles riesgos.
 
 ![sailboat-dynamic](https://github.com/ipintos/ISA1/blob/develop/imagenes/sailboat-dynamic.png)
 
+#### SUN
+
 ![sun](https://github.com/ipintos/ISA1/blob/develop/imagenes/sun.png)
+
+#### WIND
 
 ![wind](https://github.com/ipintos/ISA1/blob/develop/imagenes/wind.png)
 
+#### ANCHOR
+
 ![anchor](https://github.com/ipintos/ISA1/blob/develop/imagenes/anchor.png)
 
+#### REEF
+
 ![reef](https://github.com/ipintos/ISA1/blob/develop/imagenes/reef.png)
+
+Luego de haber completado esto agrupamos los sticks por similitud con el objetivo de obtener posibles acciones a mejorar.
+
+A continuación se adjunta el resultado de la agrupación de estas ideas:
+
+### TRABAJO EN EQUIPO
+
+![teamwork](https://github.com/ipintos/ISA1/blob/develop/imagenes/teamwork.png)
+
+### RESULTADOS OBTENIDOS
+![results](https://github.com/ipintos/ISA1/blob/develop/imagenes/results.png)
+
+## POSIBLES RIESGOS 
+![problems](https://github.com/ipintos/ISA1/blob/develop/imagenes/problems.png)
+
+
+
