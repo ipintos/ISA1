@@ -1157,36 +1157,36 @@ En esta oportunidad detallamos las tareas dentro de este sprint backlog para que
 
 | Historia de usuario - task  | Horas Estimadas | Horas reales |
 | --------------------------- | --------------- | ------------ |
-| #U1 - ajustes               | 1               |              |
-| #U1 - validación            | 0.5             |              |
-| #U2 - ajustes               | 1               |              |
-| #U2 - validación            | 0.5             |              |
-| #U3 - ajustes               | 1               |              |
-| #U3 - validación            | 0.5             |              | 
-| #U4 - ajustes               | 1               |              |
-| #U4 - validación            | 0.5             |              | 
-| #U5 - ajustes               | 1               |              |
-| #U5 - validación            | 0.5             |              | 
-| #U6 - ajustes               | 1               |              |
-| #U6 - validación            | 0.5             |              | 
-| #U7 - ajustes               | 1               |              |
-| #U7 - validación            | 0.5             |              | 
-| #U8 - ajustes               | 1               |              |
-| #U8 - validación            | 0.5             |              | 
-| #U9 - ajustes               | 1               |              |
-| #U9 - validación            | 0.5             |              | 
-| #U10 - ajustes              | 1               |              |
-| #U10 - validación           | 0.5             |              | 
-| #U11 - ajustes              | 1               |              |
-| #U11 - validación           | 0.5             |              |
-| #U12 - ajustes              | 1               |              |
-| #U12 - validación           | 0.5             |              |
-| #U13 - ajustes              | 1               |              |
-| #U13 - validación           | 0.5             |              |
-| #U14 - ajustes              | 1               |              |
-| #U14 - validación           | 0.5             |              |
-| #U15 - ajustes              | 1               |              |
-| #U15 - validación           | 0.5             |              |
+| #U1 - ajustes               | 1               |         0.5     |
+| #U1 - validación            | 0.5             |        0.5      |
+| #U2 - ajustes               | 1               |            1  |
+| #U2 - validación            | 0.5             |          0.5    |
+| #U3 - ajustes               | 1               |          1    |
+| #U3 - validación            | 0.5             |          0.3    | 
+| #U4 - ajustes               | 1               |       0.2       |
+| #U4 - validación            | 0.5             |        0.6      | 
+| #U5 - ajustes               | 1               |        0.9      |
+| #U5 - validación            | 0.5             |       1.2       | 
+| #U6 - ajustes               | 1               |        0.8      |
+| #U6 - validación            | 0.5             |         0.5     | 
+| #U7 - ajustes               | 1               |       1       |
+| #U7 - validación            | 0.5             |           0.8   | 
+| #U8 - ajustes               | 1               |          0.6    |
+| #U8 - validación            | 0.5             |         0.5     | 
+| #U9 - ajustes               | 1               |         0.4     |
+| #U9 - validación            | 0.5             |         0.4     | 
+| #U10 - ajustes              | 1               |         0.4     |
+| #U10 - validación           | 0.5             |         0.4     | 
+| #U11 - ajustes              | 1               |        0.5      |
+| #U11 - validación           | 0.5             |        0.8      |
+| #U12 - ajustes              | 1               |        0.5      |
+| #U12 - validación           | 0.5             |        0.5      |
+| #U13 - ajustes              | 1               |          0.5    |
+| #U13 - validación           | 0.5             |         0.3     |
+| #U14 - ajustes              | 1               |         0.3     |
+| #U14 - validación           | 0.5             |        0.3      |
+| #U15 - ajustes              | 1               |        0.2      |
+| #U15 - validación           | 0.5             |     0.1         |
 
 ### Burndown Chart
 En esta iteración la asignación de tareas se definió desde el comienzo. Como ya habíamos realizado el prototipado de todas nuestras historias de usuario, en esta iteración faltaba ajustar los prototipos según el feedback recibido en la iteración 2 y realizar nuevamente la validación. Para eso lo que realizamos fue una task de ajustes sobre el prototipado y validación del mismo para cada una de las user stories. 
