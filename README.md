@@ -1233,20 +1233,6 @@ Link a video: https://www.screencast.com/t/M5FghehilAn4
 Link a video: https://www.screencast.com/t/PMu8pP9F 
 
 
-## Herramientas utilizadas durante las iteraciones
-<div id='Herramientas' />
-
- - Grabación y publicación de videos TechSmith Screencast. https://www.screencast.com/ 
-
- - Prototipación con herramienta framer. https://framer.com/
-
- - Tablero agil para el seguimiento de las iteraciones y tareas con Azure DevOps. https://dev.azure.com/
-
- - Reuniones por Google Meet. https://meet.google.com/
-
- - Coordinación extra a traves de Miro. https://miro.com/login/
-
- - Corrector ortográfico. Code spell checker for VS Code: https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
 
 ## Sprint retrospective
 
@@ -1322,3 +1308,17 @@ Debemos realizar estas tareas con antelación en el caso de tener algún problem
 Por tanto, el equipo destinará el 30% de su tiempo a la resolución de bugs y el 70% del tiempo a llevar a cabo los objetivos específicos del siguiente sprint.
 
 
+## Herramientas utilizadas durante las iteraciones
+<div id='Herramientas' />
+
+ - Grabación y publicación de videos TechSmith Screencast. https://www.screencast.com/ 
+
+ - Prototipación con herramienta framer. https://framer.com/
+
+ - Tablero agil para el seguimiento de las iteraciones y tareas con Azure DevOps. https://dev.azure.com/
+
+ - Reuniones por Google Meet. https://meet.google.com/
+
+ - Coordinación extra a traves de Miro. https://miro.com/login/
+
+ - Corrector ortográfico. Code spell checker for VS Code: https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
