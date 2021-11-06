@@ -1193,9 +1193,9 @@ Link a video: https://www.screencast.com/t/PMu8pP9F
 
 En la presente iteración el equipo se plantea el desafio de la retrospective sailboat. 
 
-![sailboat-1](https://github.com/ipintos/ISA1/blob/sprintRetrospective/imagenes/sailboat-1.png)
+![sailboat-1](https://github.com/ipintos/ISA1/blob/develop/imagenes/sailboat-1.png)
 
-![sailboat-2](https://github.com/ipintos/ISA1/blob/sprintRetrospective/imagenes/sailboat-2.png)
+![sailboat-2](https://github.com/ipintos/ISA1/blob/develop/imagenes/sailboat-2.png)
 
 En este sentido, en primer lugar se introduce la métafora relativa a que nos encontramos en un bote, en donde tenemos los siguientes artifactos:
 
@@ -1207,3 +1207,12 @@ ANCLA: Representa lo que al equipo lo atascó.
 
 ARRECIFE: Representa posibles riesgos.
 
+![sailboat-dynamic](https://github.com/ipintos/ISA1/blob/develop/imagenes/sailboat-dynamic.png)
+
+![sun](https://github.com/ipintos/ISA1/blob/develop/imagenes/sun.png)
+
+![wind](https://github.com/ipintos/ISA1/blob/develop/imagenes/wind.png)
+
+![anchor](https://github.com/ipintos/ISA1/blob/develop/imagenes/anchor.png)
+
+![reef](https://github.com/ipintos/ISA1/blob/develop/imagenes/reef.png)
