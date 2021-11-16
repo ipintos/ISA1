@@ -84,6 +84,8 @@ o La aplicación debe poder escalar a millones de usuarios (mínimamente a toda 
 
 o Debe ser fácil de usar por todos los estratos de población. Se concibe como de fácil uso si el tiempo de aprendizaje de la aplicación es de menos de cinco minutos.
 
+o En las etapas de validación, el 90% de los usuarios debe ser capaz de realizar las tareas que se le soliciten sin tener que guiarlo.
+
 o Debe poder mantener la privacidad de datos sensibles de sus usuarios. La privacidad radica en que los usuarios no pueden ver datos de otros usuarios en la aplicación.
 
 o Debe contar con una interfaz principalmente móvil (iOS y Android).
@@ -102,15 +104,15 @@ Por este motivo, consideramos que los requerimientos no funcionales deben inclui
 
 La presente definición aplica para las tareas.
 
-- El desarrollador logra interpretar sin ambigüedades la definición del caso. Es decir entiende la tarea siendo capaz de ejecutarla sin ayuda.
+- El desarrollador logra interpretar sin ambigüedades la definición del caso. Es decir entiende la historia siendo capaz de definir las tareas sin ayuda.
 
-- La tarea debe tener una estimación (puntos de historia). 
+- La historia debe tener una estimación (puntos de historia). 
 
-- La tarea debe poder validarse y corresponderse dentro del Sprint. Es decir no se depende de futuras sprints para dar por finalizada la tarea.
+- La historia debe poder validarse y corresponderse dentro del Sprint. Es decir no se depende de futuras sprints para darla por finalizada.
 
-- La realización de la tarea no debe de contar con tareas pendientes. 
+- La realización de la historia no debe de contar con tareas pendientes. 
 
-- El detalle funcional, detalle técnico y los casos de prueba de cada tarea deben ser claros para que sean comprendidos por cualquier miembro del equipo. Se deben de escribir los distintos documentos en lenguaje de usuario final de tal manera que cualquier persona no relacionada a IT pueda entenderlo.
+- El detalle funcional, detalle técnico y los casos de uso de cada historia deben ser claros para que sean comprendidos por cualquier miembro del equipo. Se deben de escribir los distintos documentos en lenguaje de usuario final de tal manera que cualquier persona no relacionada a IT pueda entenderlo.
 
 ## Product Backlog:
 Se agrega el product backlog como generalidad del proyecto para diferenciarlo tal como se indicó en el #9, el Product backlog fue definido dentro de la iteración 1, sin embargo no lo agregamos ahora para dejar esa documentación sin cambios ya que las correcciones fueron sobre la documentación ya existente.
