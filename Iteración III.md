@@ -45,3 +45,9 @@ Para la validación se solicitó a los usuarios que realicen las siguientes acci
 - Usuario nuevo a la aplicación
 - Le confunde un poco la pantalla que muestra las reservas antes de comprobar si puede darse la vacuna.
 - Puede realizar el resto de las tareas sin inconveniente.
+
+# Conclusiones y oportunidades de mejora
+
+Se notó una mejora en la experiencia de los usuarios al utilizar la aplicación mejorada. Igualmente no se ha podido resolver el problema de la usabilidad de la función resgistrarse para recibir la vacuna. Este punto sigue siendo el que más le cuesta a los usuarios y a este punto aún no hay una versión que pueda ser considerada fácil de usar por los usuarios.
+
+Como oportunidad de mejora se sugiere replantear el flujo de la funcionalidad de registrarse para recibir la vacuna. Una posibilidad sería separar completamente el flujo de consulta/cancelación de reservas y el de agregar reserva dado que en la pantalla en la que se cruzan estos flujos es donde los usuarios tienen más dudas.
