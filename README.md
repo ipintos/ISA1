@@ -931,7 +931,7 @@ Como administrador quiero asegurarme de que los usuarios pueden sacarse las duda
 Como administrador quiero que todos los usuarios puedan agendarse para ser vacunados.
 
 
-![storyMap](https://github.com/ipintos/ISA1/blob/develop/imagenes/ISA-StoryMap.png)
+![storyMap](https://github.com/ipintos/ISA1/blob/develop/imagenes/ISA-StoryMap.PNG)
 
 ## ITERACIÓN 2
 <div id='Iteración2' />
