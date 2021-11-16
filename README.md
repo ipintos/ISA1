@@ -24,6 +24,8 @@ Tutor: Juan Pablo Russo
 
 [**Iteración 1** 3](#Iteración1)
 
+[**Historias de usuario** 3](#HistoriasDeUsuario)
+
 [**Iteración 2** 3](#Iteración2)
 
 [**Iteración 3** 3](#Iteración3)
@@ -619,7 +621,8 @@ en cuenta extranjeros con residencias en uruguay, entre otras.
 Este estudio nos revela información o aspectos de la aplicación que debemos atacar/mejorar contra nuestro rival para poder ser aceptada y utilizada por la población.
 
 ## Historias de usuario:
-         
+<div id='HistoriasDeUsuario' />
+
 ### 1:
 #### Como usuario
 
@@ -927,6 +930,8 @@ Como administrador quiero asegurarme de que los usuarios pueden sacarse las duda
 
 Como administrador quiero que todos los usuarios puedan agendarse para ser vacunados.
 
+
+![storyMap](https://github.com/ipintos/ISA1/blob/develop/imagenes/ISA-StoryMap.png)
 
 ## ITERACIÓN 2
 <div id='Iteración2' />
