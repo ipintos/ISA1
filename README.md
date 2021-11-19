@@ -24,9 +24,13 @@ Tutor: Juan Pablo Russo
 
 [**Iteración 1** 3](#Iteración1)
 
+[**Historias de usuario** 3](#HistoriasDeUsuario)
+
 [**Iteración 2** 3](#Iteración2)
 
 [**Iteración 3** 3](#Iteración3)
+
+[**Iteración 4** 3](#Iteración4)
 
 [**Herramientas utilizadas**](#Herramientas)
 
@@ -87,6 +91,8 @@ o La aplicación debe poder escalar a millones de usuarios (mínimamente a toda 
 
 o Debe ser fácil de usar por todos los estratos de población. Se concibe como de fácil uso si el tiempo de aprendizaje de la aplicación es de menos de cinco minutos.
 
+o En las etapas de validación, el 90% de los usuarios debe ser capaz de realizar las tareas que se le soliciten sin tener que guiarlo.
+
 o Debe poder mantener la privacidad de datos sensibles de sus usuarios. La privacidad radica en que los usuarios no pueden ver datos de otros usuarios en la aplicación.
 
 o Debe contar con una interfaz principalmente móvil (iOS y Android).
@@ -105,23 +111,24 @@ Por este motivo, consideramos que los requerimientos no funcionales deben inclui
 
 La presente definición aplica para las tareas.
 
-- El desarrollador logra interpretar sin ambigüedades la definición del caso. Es decir entiende la tarea siendo capaz de ejecutarla sin ayuda.
+- El desarrollador logra interpretar sin ambigüedades la definición del caso. Es decir entiende la historia siendo capaz de definir las tareas sin ayuda.
 
-- La tarea debe tener una estimación (puntos de historia). 
+- La historia debe tener una estimación (puntos de historia). 
 
-- La tarea debe poder validarse y corresponderse dentro del Sprint. Es decir no se depende de futuras sprints para dar por finalizada la tarea.
+- La historia debe poder validarse y corresponderse dentro del Sprint. Es decir no se depende de futuras sprints para darla por finalizada.
 
-- La realización de la tarea no debe de contar con tareas pendientes. 
+- La realización de la historia no debe de contar con tareas pendientes. 
 
-- El detalle funcional, detalle técnico y los casos de prueba de cada tarea deben ser claros para que sean comprendidos por cualquier miembro del equipo. Se deben de escribir los distintos documentos en lenguaje de usuario final de tal manera que cualquier persona no relacionada a IT pueda entenderlo.
+- El detalle funcional, detalle técnico y los casos de uso de cada historia deben ser claros para que sean comprendidos por cualquier miembro del equipo. Se deben de escribir los distintos documentos en lenguaje de usuario final de tal manera que cualquier persona no relacionada a IT pueda entenderlo.
 
 ## Product Backlog:
 Se agrega el product backlog como generalidad del proyecto para diferenciarlo tal como se indicó en el #9, el Product backlog fue definido dentro de la iteración 1, sin embargo no lo agregamos ahora para dejar esa documentación sin cambios ya que las correcciones fueron sobre la documentación ya existente.
 
 ![product-backlog](https://github.com/ipintos/ISA1/blob/develop/imagenes/product-backlog.png)
 
-## ITERACIÓN 1
 <div id='Iteración1' />
+
+## ITERACIÓN 1
 
 ### Objetivo: 
 
@@ -619,8 +626,10 @@ en cuenta extranjeros con residencias en uruguay, entre otras.
 
 Este estudio nos revela información o aspectos de la aplicación que debemos atacar/mejorar contra nuestro rival para poder ser aceptada y utilizada por la población.
 
+<div id='HistoriasDeUsuario' />
+
 ## Historias de usuario:
-         
+
 ### 1:
 #### Como usuario
 
@@ -929,8 +938,13 @@ Como administrador quiero asegurarme de que los usuarios pueden sacarse las duda
 Como administrador quiero que todos los usuarios puedan agendarse para ser vacunados.
 
 
-## ITERACIÓN 2
+![storyMap](https://github.com/ipintos/ISA1/blob/develop/imagenes/ISA-StoryMap.PNG)
+
+
 <div id='Iteración2' />
+
+## ITERACIÓN 2
+
 
 Esta iteración abarca un lapso temporal de una semana. El objetivo de la presente abarca la prototipación de la solución planteada en la iteración previa. Esta etapa culminará el 22 de octubre.
 
@@ -1160,8 +1174,9 @@ A continuación , se detallan las conclusiones relativas a las mejoras y los pun
 
 - [ ] Las tareas no serán repartidas al inicio del sprint. Serán autoasignadas, de esta forma buscamos que cada uno se autoorganice y así limitaremos el work in progress ( trabajo en progreso ). En este punto, uno de los objetivos planteados es disminuir el cambio de contexto derivado del manejo de diversas tareas.
 
-## ITERACIÓN 3
 <div id='Iteración3' />
+
+## ITERACIÓN 3
 
 ### Objetivo: 
 
@@ -1278,7 +1293,7 @@ En la presente iteración el equipo se plantea el desafio de la retrospective sa
 
 ![sailboat-2](https://github.com/ipintos/ISA1/blob/develop/imagenes/sailboat-2.png)
 
-En este sentido, en primer lugar se introduce la métafora relativa a que nos encontramos en un bote, en donde tenemos los siguientes artifactos:
+En este sentido, en primer lugar se introduce la metáfora relativa a que nos encontramos en un bote, en donde tenemos los siguientes artefactos:
 
 SUN: Representa lo que al equipo lo hizo feliz.
 
@@ -1340,8 +1355,55 @@ A partir de esta agrupación se concluye lo siguiente:
 Este trabajo en equipo implica el seguimiento de las reuniones, así como el compromiso individual por documentar lo restante así como subir videos a la plataforma indicada.
 Debemos realizar estas tareas con antelación en el caso de tener algún problema.
 
-- [ ] El punto anterior son tareas que tenemos claro que debemos realizar. Sin embargo, el equipo entiende que hay tareas tales como la resolución de bugs o incidentes que no puede prever. Por tanto, debemos reservarnos como mínimo tres reuniones con el objetivo de solucionar los posibles incovenientes.
+- [ ] El punto anterior son tareas que tenemos claro que debemos realizar. Sin embargo, el equipo entiende que hay tareas tales como la resolución de bugs o incidentes que no puede prever. Por tanto, debemos reservarnos como mínimo tres reuniones con el objetivo de solucionar los posibles inconvenientes.
 Por tanto, el equipo destinará el 30% de su tiempo a la resolución de bugs y el 70% del tiempo a llevar a cabo los objetivos específicos del siguiente sprint.
+
+<div id='Iteración4'/>
+
+## ITERACIÓN 4
+
+### Objetivo: 
+
+Realizar el informe académico y cierre del proyecto
+
+#### Objetivos específicos:
+
+- [ ] Analizar y redactar los aprendizajes principales reflexionando sobre la aplicación de lo visto en el curso aplicado a la realización del proyecto.
+
+- [ ] Creación de un video-demo demostrando el flujo principal de los prototipos explicando el problema a resolver y el valor entregado con nuestro prototipo
+
+- [ ] En el marco del cierre del proyecto quedó pendiente adaptar los criterios de aceptación de las historias de usuarios al formato de escenarios de BDD.
+
+
+## Lecciones aprendidas   
+
+### Marco de trabajo
+- En la adaptación del marco de trabajo de SCRUM fijamos dos reuniones semanales una de 15 minutos y otra de 2 horas en sustitución de las daily, la planning, review y retrospectivas, en este sentido se perdieron algunas de las ventajas de la comunicación continua, por otro lado en un principio no quedó del todo claro el objetivo de cada reunión ya que no definimos una agenda para esas instancias, esto llevó a que la duración de las mismas fuera más de lo pactado en todos los casos. Tal vez hubiera sido mejor hacer las daily con más frecuencia y definir aparte el resto de las ceremonias.
+
+- Definimos los roles de equipo sin embargo fue dificil simularlos ya que la carga de trabajo no es la misma para cada rol y en el marco de una entrega académica fuimos construyendo entre todos las actividades del proyecto.
+
+- No logramos una buena DoD y DoR hasta el final del proyecto, creemos que esto se debió a la inexperiencia en metodologías ágiles. Siempre quedaban ambiguas las definiciones o no terminabamos de entender la utilidad final ya que nosotros teníamos la idea de lo qué queríamos construir y nos costó bajar las estas ideas a una definición concreta.
+
+- Aprendimos el valor de las reuniones semanales a las que asistimos siempre todos los integrantes del equipo. Fue bien importante fijar las ceremonias desde el inicio. Esto nos permitió de antemano saber que en ese horario debíamos dedicarnos al mini proyecto, esto ayudó a la construcción del prototipo de forma gradual.
+
+### Planificación de las iteraciones
+- Creemos que los objetivos del sprint estuvieron bien definidos desde el comienzo, si bien nos costó especificarlos correctamente en la documentación. Esto nos ayudó bastante a mitigar los problemas de la adaptación al marco de trabajo que hicimos.
+
+- Logramos exitosamente definir el sprint backlog para cada iteración, esto fue bien importante para poder ir incrementando el prototipo en forma individual durante cada semana. Definir las tareas desde el inició de las iteraciones fue uno de los elementos de SCRUM que aportó más valor al proyecto, sin este backlog probablemente hubieramos construido todo el prototipo sobre el final y no hubieramos obtenido el feedback del cliente y en consecuencia realizar el refactor que agregó bastante valor a nuestro producto.
+
+- Para las estimaciones iniciales no tuvimos en cuenta la curva de aprendizaje de la herramienta de prototipado, esto llevó a que las tareas llevaran más tiempo del estimado inicialmente para segunda iteración. 
+
+- La velocity durante el proyecto no fue pareja, por un lado porque las tareas de la primera iteración de spike no las estimamos(una de las tareas era la estimación). Luego teniendo ya definidos los story points, vimos durante la iteración 2 que no habíamos considerado la curva de aprendizaje, por eso tuvimos que sacar tareas del sprint backlog y adicionalmente dedicarle más horas de las estimadas inicialmente para llegar a la entrega que habíamos definido, está dedicación adicional en horas hace que la velocity no sea fácil de promediar, sumado a que la cantidad de sprints no es suficiente para hacer un buen promedio. Suponemos en un proyecto real la dedicación de 8 horas diaria y la continuidad en el trabajo hace que sea más constante la velocity.
+
+### Seguimiento de las iteraciones
+- El seguimiento de las iteraciones fue el mayor desafío. El registro de horas fue una de las tareas del marco de SCRUM que más nos costó, nos olvidabamos frecuentemente de registrar el trabajo realizado. Al igual que pasa en el ámbito laboral el registro de horas es una de las tareas más delegadas. Dentro del SCRUM creemos que tiene el beneficio de que el registro de horas es una herramienta más para que el equipo pueda auto organizarse.
+
+- Pudimos hacer el seguimiento de las reuniones mediante el template de la minuta que armamos, de este modo logramos tener un seguimiento del trabajo realizado.
+
+
+### Inspección y adaptación del proceso
+- Las instancias de retrospectivas fueron bastante útiles, por un lado ayudaron a reforzar el equipo de trabajo y por otro lado pudimos identificar problemas e intentar mejorarlos. Por ejemplo una de las retrospectivas identificamos la falta de organización para las daily y con eso pudimos marcar mejor el foco de cada reunión así las ceremonias empezaron a llevar menos tiempo que en un principio. Por otro lado en todas las retrospectivas identificabamos problemas con el registro de horas, esto fue mejorando progresivamente(la iteración 4 el registro fue más gradual), pero todavía se podría mejorar.
+
 
 ## Conclusiones
 <div id='Conclusiones' />
@@ -1381,8 +1443,9 @@ Como conclusión final, creemos que el aprendizaje más importante que nos lleva
 pero poder trabajar en un proyecto como este donde los requerimientos y el entendimiento del problema cambiaron tanto nos permitió ver el verdadero valor de la agilidad, ver que todas esas actividades y 
 ceremonias tienen un sentido y que en determinados momentos del ciclo de vida del proyecto nos pueden ser de mucha utilidad.
 
-## Herramientas utilizadas durante las iteraciones
 <div id='Herramientas' />
+
+## Herramientas utilizadas durante las iteraciones
 
  - Grabación y publicación de videos TechSmith Screencast. https://www.screencast.com/ 
 
