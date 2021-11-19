@@ -128,13 +128,13 @@ Se agrega el product backlog como generalidad del proyecto para diferenciarlo ta
 
 <div id='Iteración1' />
 
-## ITERACIÓN 1
+# ITERACIÓN 1
 
-### Objetivo: 
+## OBJETIVO: 
 
 Identificación del problema.
 
-#### Objetivos específicos:
+### Objetivos específicos:
 
 - [ ]  La primera iteración tiene como objetivo fundamental la identificación del problema a definir con una solución, cuyo resultado nos encaminará hacia un mejor entendimiento del problema. En este punto se parte de la base de que los integrantes desconocemos el problema y por este motivo necesitamos esta primera iteración. La finalización de esta iteración será el 8 de octubre.
 
@@ -156,12 +156,17 @@ Identificación del problema.
 - [ ] Posibilidad de negociación del alcance.
 
 
+## SPRINT BACKLOG
+
 En esta iteración se realiza el siguiente sprint backlog:
 
 ![tasks-general-project](https://github.com/ipintos/ISA1/blob/develop/imagenes/tasks-general-project.png)
 ![tas-general-project-2](https://github.com/ipintos/ISA1/blob/develop/imagenes/tas-general-project-2.png)
 ![tasks-general-project-3](https://github.com/ipintos/ISA1/blob/develop/imagenes/tasks-general-project-3.png)
 ![tasks-general-project-4](https://github.com/ipintos/ISA1/blob/develop/imagenes/tasks-general-project-4.png)
+
+
+### Identificación del problema a resolver
 
 Identificar el problema es una historia épica:
 
@@ -342,11 +347,13 @@ Story points : 3 pts
 Tiempo transcurrido 2 hs
 
 
-### SPRINT RETROSPECTIVE
+## SPRINT RETROSPECTIVE
 
 Decidimos reunirnos a modo de inspeccionar el proceso y analizar qué salió mal, qué podríamos mejor, qué hemos aprendido y en esencia qué salió bien que deberíamos mantener en iteraciones próximas.
 
 Se calculan algunas métricas que se detallan a continuación :
+
+## MÉTRICAS
 
 -Velocity: 35 pts
 
@@ -388,7 +395,7 @@ En definitiva, según lo recabado se concluye lo siguiente:
 - [ ] Deberíamos reflejar en todo momento el avance real en github, ya que es más costoso realizar un resumen luego de haber finalizado la iteración que realizar un seguimiento acorde .En este sentido, nos gustaría comprometernos a velar por la transparencia y entender realmente dónde estamos parados en cada momento, así como identificar posibles cuello de botella en tareas.Por tanto, buscaremos transparentar de mejor forma los avances.
 
 
-### SPRINT REVIEW
+## SPRINT REVIEW
 Se inspecciona el producto.
 En este punto inspeccionamos lo realizado por cada integrante y alcanzamos los siguientes resultados:
 
@@ -565,7 +572,7 @@ Poco después, Juan toma el celular y recibe un mensaje. "Alerta de exposición 
 
 Una de las funcionalidades más valoradas por los usuario es la agenda de vacunación. En esta sección en podemos validar si estamos habilitados para la vacunación y en caso de estarlo poder agendarse.
 
-## Mejoras que podemos brindar
+### Mejoras que podemos brindar
 
 Creemos que nuestro rival cuenta con pantallas poco amigables para estratos con poca relación con la tecnología.
 
@@ -943,12 +950,12 @@ Como administrador quiero que todos los usuarios puedan agendarse para ser vacun
 
 <div id='Iteración2' />
 
-## ITERACIÓN 2
+# ITERACIÓN 2
 
 
 Esta iteración abarca un lapso temporal de una semana. El objetivo de la presente abarca la prototipación de la solución planteada en la iteración previa. Esta etapa culminará el 22 de octubre.
 
-### Objetivo: 
+## OBJETIVO:  
 
 Generación de prototipos y validación.
 
@@ -964,6 +971,8 @@ Generación de prototipos y validación.
 
 - [ ] No aceptaremos que las validaciones alaben a lo prototipado sin presencia de feedback constructivo. En todo momento se debe inducir que es un producto cuya versión es inicial y su madurez es temprana. De este modo, se encuentra que el objetivo principal es el feedback que nos ayude a partir de una base más sólida para la iteración próxima.
 
+
+### ÉPICAS: 
 En primer lugar, redefinimos las épicas planteadas agrupando las distintas historias de usuarios definidas en la iteración previa. Estas historias de usuario fueron priorizadas con el criterio de Fibonacci.
 
 La agrupación de estas historias de usuario quedó de la siguiente forma:
@@ -977,7 +986,7 @@ La agrupación de estas historias de usuario quedó de la siguiente forma:
 ![cuarta-epica](https://github.com/ipintos/ISA1/blob/main/imagenes/cuarta-epica.png)
 
 
-### SPRINT BACKLOG
+## SPRINT BACKLOG
                     
                     
 [***Historias de usuario*** 3](#user-stories)
@@ -1004,7 +1013,7 @@ Los puntos de las historias fueron detallados en líneas anteriores, así como l
 | #U14                | 3     |
 | #U15                | 2     |
 
-### Burndown Chart
+## BURNDOWN CHART
 Dado que en la presente iteración fuimos creando las tareas en el transcurso de la misma nuestra grafica no se alinea correctamente al trabajo por hacer en el tiempo esperado. Por eso podemos visualizar distintos picos en la grafica como en el día 19/10 y el 21/10. 
 
 En la iteración siguiente debemos mejorar este punto y crear las mismas al principio del sprint.
@@ -1012,7 +1021,7 @@ En la iteración siguiente debemos mejorar este punto y crear las mismas al prin
 ![burndownChart](https://github.com/ipintos/ISA1/blob/main/imagenes/burndownChart.jpeg)
 
                     
-### VISIBILIDAD DEL EQUIPO
+## VISIBILIDAD DEL EQUIPO
 En primer lugar, decidimos que en el miro debíamos dar visibilidad a las tareas del equipo a fin de detectar cuello de botella o demás dependencias entre el equipo, así como evitar que un integrante este sobrecargado.
 
 En este sentido decidimos, decidimos darle visibilidad mediante la siguiente dinámica adjuntada a continuación :
@@ -1024,7 +1033,7 @@ En este sentido decidimos, decidimos darle visibilidad mediante la siguiente din
 
 
 
-### SPRINT REVIEW
+## SPRINT REVIEW
 
 Se inspecciona el producto. A continuación se adjunta link con los flujos principales del sistema.
                     
@@ -1054,11 +1063,11 @@ Link a video: https://www.screencast.com/t/iWdbzoGKqR
 
 Link a video: https://www.screencast.com/t/01ddVqBQM7
 
-### VALIDACIÓN 
+## VALIDACIÓN 
                     
 https://github.com/ipintos/ISA1/blob/main/Iteraci%C3%B3n%20II.md
 
-### MÉTRICAS
+## MÉTRICAS
                     
 | Iteración | Velocity |
 | --------- | -------- |
@@ -1069,11 +1078,11 @@ Si bien mejoramos la velocity en tanto adaptamos el proceso, entendemos que esta
                     
         
 
-### SPRINT RETROSPECTIVE
+## SPRINT RETROSPECTIVE
 
 Decidimos reunirnos a modo de inspeccionar el proceso y analizar qué salió mal, qué podríamos mejor, qué hemos aprendido y en esencia qué salió bien que deberíamos mantener en iteraciones próximas.
 
-#### ¿QUÉ ME MOTIVA? ¿QUÉ HAGO MEJOR?
+### ¿QUÉ ME MOTIVA? ¿QUÉ HAGO MEJOR?
 
 Se realiza actividad cuyo objetivo es repartir tareas acorde a las inquietudes e intereses de cada uno. 
 Creemos firmemente en que la motivación nos encausa a buen camino y por tanto si repartimos las tareas según la afinidad de cada uno las tareas van a ser realizadas de la mejor forma.
@@ -1176,13 +1185,13 @@ A continuación , se detallan las conclusiones relativas a las mejoras y los pun
 
 <div id='Iteración3' />
 
-## ITERACIÓN 3
+# ITERACIÓN 3
 
-### Objetivo: 
+## OBJETIVO: 
 
 Mejorar el prototipo sobre el feedback recibido en la iteración anterior y validar.
 
-#### Objetivos específicos:
+### Objetivos específicos:
 
 - [ ] En primer lugar, se ajustarán las pantallas que recibieron feedback negativo.
 
@@ -1192,7 +1201,7 @@ Mejorar el prototipo sobre el feedback recibido en la iteración anterior y vali
 
 - [ ] Se realizará una nueva validación con las mejoras propuestas.
 
-### SPRINT BACKLOG    
+## SPRINT BACKLOG    
                     
 [***Historias de usuario***](#user-stories)
 
@@ -1235,6 +1244,8 @@ En esta oportunidad detallamos las tareas dentro de este sprint backlog para que
 | #U15 - ajustes              | 1               |        0.2      |
 | #U15 - validación           | 0.5             |     0.1         |
 
+## MÉTRICAS
+
 | Iteración | Velocity |
 | --------- | -------- |
 | 1         |   35     |
@@ -1249,7 +1260,7 @@ Logramos mejorar la dinámica de trabajo haciendolo más fluido que en la iterac
 
 ![iteracion3-burndown.png](https://github.com/ipintos/ISA1/blob/main/imagenes/iteracion3-burndown.png)
 
-#### SPRINT REVIEW
+## SPRINT REVIEW
 
 #### Flujos del sistema ajustados
 
@@ -1285,7 +1296,7 @@ Link a video: https://www.screencast.com/t/PMu8pP9F
 
 https://github.com/ipintos/ISA1/blob/develop/Iteraci%C3%B3n%20III.md
 
-## Sprint retrospective
+### Sprint retrospective
 
 En la presente iteración el equipo se plantea el desafio de la retrospective sailboat. 
 
@@ -1332,7 +1343,7 @@ A continuación se adjunta el resultado de la agrupación de estas ideas:
 ### RESULTADOS OBTENIDOS
 ![results](https://github.com/ipintos/ISA1/blob/develop/imagenes/results.png)
 
-## POSIBLES RIESGOS 
+### POSIBLES RIESGOS 
 ![problems](https://github.com/ipintos/ISA1/blob/develop/imagenes/problems.png)
 
 A partir de esta agrupación se concluye lo siguiente:
@@ -1360,13 +1371,13 @@ Por tanto, el equipo destinará el 30% de su tiempo a la resolución de bugs y e
 
 <div id='Iteración4'/>
 
-## ITERACIÓN 4
+# ITERACIÓN 4
 
-### Objetivo: 
+## OBJETIVO: 
 
 Realizar el informe académico y cierre del proyecto
 
-#### Objetivos específicos:
+### Objetivos específicos:
 
 - [ ] Analizar y redactar los aprendizajes principales reflexionando sobre la aplicación de lo visto en el curso aplicado a la realización del proyecto.
 
@@ -1374,8 +1385,47 @@ Realizar el informe académico y cierre del proyecto
 
 - [ ] En el marco del cierre del proyecto quedó pendiente adaptar los criterios de aceptación de las historias de usuarios al formato de escenarios de BDD.
 
+## SPRINT BACKLOG  
+                   
 
-## Lecciones aprendidas   
+![Iteración3-backlog.png](https://github.com/ipintos/ISA1/blob/main/imagenes/Iteración4-backlog.png)
+
+Para este sprint no se realizaron historias de usuario ya que el objetivo es la realización de la documentación.
+
+| Task                                                                     | Horas Estimadas | Horas reales |
+| ------------------------------------------------------------------------ | --------------- | ------------ |
+| #Utilizar el formato de escenarios de BDD para especificar los criterios | 2               |  4   |
+| #Armado del guion para la explicación                                    | 3               |  2   |
+| #Puesta a punto del prototipado para la Video demo                       | 2               |  2   |
+| #Creación del video demo                                                 | 10              |  16  |
+| #Redacción de las lecciones aprendidas                                   | 5               |  7   |
+| #Redacción de las conclusiones                                           | 2               |  3   |
+| #Creación del informe académico                                          | 5               |  3   |
+| #Creación del story map                                                  | 3               |  3   |
+
+## MÉTRICAS
+
+| Iteración | Velocity |
+| --------- | -------- |
+| 1         |   35     |
+| 2         | 96       |
+| 3         | 96       |
+| 4         |        |
+
+
+### BURNDOWN CHART
+En esta iteración las tareas a realizar quedaron definidas desde el comienzo, todas involucran la implementación del documento académico, adicionalmente agregamos una corrección de los sprint anteriores para la corrección del formato de los criterios de aceptación.
+
+Logramos mejorar el registro de las horas a lo largo de la iteración.
+
+![iteracion3-burndown.png](https://github.com/ipintos/ISA1/blob/main/imagenes/iteracion4-burndown.png)
+
+## SPRINT REVIEW
+
+
+
+
+## LECCIONES APRENDIDAS: 
 
 ### Marco de trabajo
 - En la adaptación del marco de trabajo de SCRUM fijamos dos reuniones semanales una de 15 minutos y otra de 2 horas en sustitución de las daily, la planning, review y retrospectivas, en este sentido se perdieron algunas de las ventajas de la comunicación continua, por otro lado en un principio no quedó del todo claro el objetivo de cada reunión ya que no definimos una agenda para esas instancias, esto llevó a que la duración de las mismas fuera más de lo pactado en todos los casos. Tal vez hubiera sido mejor hacer las daily con más frecuencia y definir aparte el resto de las ceremonias.
@@ -1438,6 +1488,7 @@ con el trabajo durante las iteraciones.
 Un aprendizaje que encontramos muy interesante fue ver la utilidad de llevar un registro actualizado del trabajo para en base a esto medir el avance del proyecto. Los miembros del equipo hemos trabajado 
 en lugares donde se nos solcita el registro de horas por ejemplo, y esto muchas veces es algo que se ve como innecesario por parte de los programadores o técnicos. Ver las cosas desde otra óptica nos 
 abrió los ojos sobre la importancia de llevar los registros y de la cantidad de información que podemos estar aportando al equipo y la organización.
+
 
 Como conclusión final, creemos que el aprendizaje más importante que nos llevamos es ver el marco de SCRUM en acción, hay muchas cosas que en el teórico parecen sencillas o por el contrario inaplicables, 
 pero poder trabajar en un proyecto como este donde los requerimientos y el entendimiento del problema cambiaron tanto nos permitió ver el verdadero valor de la agilidad, ver que todas esas actividades y 
