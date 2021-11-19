@@ -34,6 +34,9 @@ Tutor: Juan Pablo Russo
 
 [**Herramientas utilizadas**](#Herramientas)
 
+[**Conclusiones**](#Conclusiones)
+
+
 ## Introducción
 <div id='Introducción' />
 
@@ -1452,8 +1455,44 @@ Logramos mejorar el registro de las horas a lo largo de la iteración.
 - Las instancias de retrospectivas fueron bastante útiles, por un lado ayudaron a reforzar el equipo de trabajo y por otro lado pudimos identificar problemas e intentar mejorarlos. Por ejemplo una de las retrospectivas identificamos la falta de organización para las daily y con eso pudimos marcar mejor el foco de cada reunión así las ceremonias empezaron a llevar menos tiempo que en un principio. Por otro lado en todas las retrospectivas identificabamos problemas con el registro de horas, esto fue mejorando progresivamente(la iteración 4 el registro fue más gradual), pero todavía se podría mejorar.
 
 
-## CONCLUSIONES
+## Conclusiones
+<div id='Conclusiones' />
 
+En primer lugar, uno de los mayores retos fue definir un marco de trabajo , así como la definición de roles. 
+Definir el marco de trabajo implicó el primer acercamiento del equipo. En esta instancia , entendimos necesario conocer los horarios de cada uno de los integrantes, es decir, en qué horario cursa cada uno y en qué horario trabaja cada integrante. Por otro lado, la conformación de un equipo que por primera vez trabajó junto fue desafiante, en tanto no conocíamos el ritmo de trabajo ni la forma en la que cada uno trabajaba.¿Cómo confomar un equipo sólido en un tiempo relativamente corto? ¿Cómo congeniar horarios? ¿Cómo conformar un equipo con personas con experiencia distinta? Y si esto resulta dificultoso con comunicación cara a cara,¿cómo lograr esto en videollamada?
+Por supuesto, no era claro.
+
+
+La definición de roles implicó intentar conocernos e intentar apegarnos a los intereses de cada uno. Esto adquirió real importancia en el transcurso de los sprints, puesto que entendimos que la motivación y el interes en determinadas tareas está en gran punto alineado a la productividad. Naturalmente, el transcurso del tiempo derivó en que cada uno adoptó ciertas reponsabilidades de forma estable. Si bien no era la regla, la división de las tareas se hizo cada vez más sencillo a medida que iterabamos sobre el proceso.
+
+Conocernos, entender qué nos motiva, en qué horario trabajamos, entender las frustraciones, estrés derivó en un mayor sentimiento de grupo concluyendo en un buen resultado final relativo al proceso.
+
+En este sentido, aprendimos que la conformación de un equipo no es una tarea sencilla. Por esto, destacamos la importancia de las retrospectivas. A medida que mejoraba el proceso , mejoraba la comunicación, la velocity era mayor y la alineación del futuro producto a entregar era aún mayor.
+
+
+Aplicar las prácticas de gestión ágil en este mini proyecto ha sido muy enriquecedor, vernos expuestos al problema de modelar un producto que resultamos conocer menos de lo que creíamos demostró ser una 
+gran plataforma para llegar a ver el poder de estas herramientas y especialmente de su agilidad.
+
+Al principio del proyecto, cuando intentamos estimar y definir alcances "en frio", nos sentimos un poco sobrepasados por la cantidad de requerimientos que podíamos detectar, por el problema de no saber por donde empezar. 
+Con el correr de las iteraciones nuestros procesos fueron mejorando sensiblemente y creemos que también el output de nuestro trabajo. Acercarnos al marco de scrum y a sus distintos artefactos y ceremonias en los momentos en los que estábamos
+más perdidos fue crucial para poder llevar las riendas del proyecto y lograr conseguir entregables que nos dejaran satisfechos al final de cada iteración.
+
+El proyecto también nos expuso a una parte importante del proceso de ingeniería de software que suele ser pasado por alto y es la validación de los requerimientos con los usuarios. Ponernos en la posición de darle nuestra 
+idea al cliente y dejar que él interactúe libremente con ella es una fuente interesantísima de información que nos hace ver el producto de una manera que normalmente no lo miraríamos. Lo más importante 
+de esto es que al fin y al cabo la manera en la que el cliente vea lo que estamos haciendo es lo que más importa. Esta demostró ser una actividad valiosísima en el proyecto.
+
+En el apartado del trabajo en equipo, el número de reuniones que elegimos tener nos resultó adecuado. Logramos mantener una comunicación fluida y un buen seguimiento del avance sin llegar a interferir 
+con otras materias ni obligaciones de los miembros del equipo. También trabajamos mucho con actividades durante las retrospectivas para poder dar nuestros puntos de vista y compartir como nos sentimos 
+con el trabajo durante las iteraciones.
+
+Un aprendizaje que encontramos muy interesante fue ver la utilidad de llevar un registro actualizado del trabajo para en base a esto medir el avance del proyecto. Los miembros del equipo hemos trabajado 
+en lugares donde se nos solcita el registro de horas por ejemplo, y esto muchas veces es algo que se ve como innecesario por parte de los programadores o técnicos. Ver las cosas desde otra óptica nos 
+abrió los ojos sobre la importancia de llevar los registros y de la cantidad de información que podemos estar aportando al equipo y la organización.
+
+
+Como conclusión final, creemos que el aprendizaje más importante que nos llevamos es ver el marco de SCRUM en acción, hay muchas cosas que en el teórico parecen sencillas o por el contrario inaplicables, 
+pero poder trabajar en un proyecto como este donde los requerimientos y el entendimiento del problema cambiaron tanto nos permitió ver el verdadero valor de la agilidad, ver que todas esas actividades y 
+ceremonias tienen un sentido y que en determinados momentos del ciclo de vida del proyecto nos pueden ser de mucha utilidad.
 
 <div id='Herramientas' />
 
