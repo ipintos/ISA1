@@ -30,6 +30,9 @@ Tutor: Juan Pablo Russo
 
 [**Herramientas utilizadas**](#Herramientas)
 
+[**Conclusiones**](#Conclusiones)
+
+
 ## Introducción
 <div id='Introducción' />
 
@@ -1340,6 +1343,31 @@ Debemos realizar estas tareas con antelación en el caso de tener algún problem
 - [ ] El punto anterior son tareas que tenemos claro que debemos realizar. Sin embargo, el equipo entiende que hay tareas tales como la resolución de bugs o incidentes que no puede prever. Por tanto, debemos reservarnos como mínimo tres reuniones con el objetivo de solucionar los posibles incovenientes.
 Por tanto, el equipo destinará el 30% de su tiempo a la resolución de bugs y el 70% del tiempo a llevar a cabo los objetivos específicos del siguiente sprint.
 
+## Conclusiones
+<div id='Conclusiones' />
+
+Aplicar las prácticas de gestión ágil en este mini proyecto ha sido muy enriquecedor, vernos expuestos al problema de modelar un producto que resultamos conocer menos de lo que creíamos demostró ser una 
+gran plataforma para llegar a ver el poder de estas herramientas y especialmente de su agilidad.
+
+Al principio del proyecto, cuando intentamos estimar y definir alcances "en frio", nos sentimos un poco sobrepasados por la cantidad de requerimientos que podíamos detectar, por el problema de no saber por donde empezar. 
+Con el correr de las iteraciones nuestros procesos fueron mejorando sensiblemente y creemos que también el output de nuestro trabajo. Acercarnos al marco de scrum y a sus distintos artefactos y ceremonias en los momentos en los que estábamos
+más perdidos fue crucial para poder llevar las riendas del proyecto y lograr conseguir entregables que nos dejaran satisfechos al final de cada iteración.
+
+El proyecto también nos expuso a una parte importante del proceso de ingeniería de software que suele ser pasado por alto y es la validación de los requerimientos con los usuarios. Ponernos en la posición de darle nuestra 
+idea al cliente y dejar que él interactúe libremente con ella es una fuente interesantísima de información que nos hace ver el producto de una manera que normalmente no lo miraríamos. Lo más importante 
+de esto es que al fin y al cabo la manera en la que el cliente vea lo que estamos haciendo es lo que más importa. Esta demostró ser una actividad valiosísima en el proyecto.
+
+En el apartado del trabajo en equipo, el número de reuniones que elegimos tener nos resultó adecuado. Logramos mantener una comunicación fluida y un buen seguimiento del avance sin llegar a interferir 
+con otras materias ni obligaciones de los miembros del equipo. También trabajamos mucho con actividades durante las retrospectivas para poder dar nuestros puntos de vista y compartir como nos sentimos 
+con el trabajo durante las iteraciones.
+
+Un aprendizaje que encontramos muy interesante fue ver la utilidad de llevar un registro actualizado del trabajo para en base a esto medir el avance del proyecto. Los miembros del equipo hemos trabajado 
+en lugares donde se nos solcita el registro de horas por ejemplo, y esto muchas veces es algo que se ve como innecesario por parte de los programadores o técnicos. Ver las cosas desde otra óptica nos 
+abrió los ojos sobre la importancia de llevar los registros y de la cantidad de información que podemos estar aportando al equipo y la organización.
+
+Como conclusión final, creemos que el aprendizaje más importante que nos llevamos es ver el marco de SCRUM en acción, hay muchas cosas que en el teórico parecen sencillas o por el contrario inaplicables, 
+pero poder trabajar en un proyecto como este donde los requerimientos y el entendimiento del problema cambiaron tanto nos permitió ver el verdadero valor de la agilidad, ver que todas esas actividades y 
+ceremonias tienen un sentido y que en determinados momentos del ciclo de vida del proyecto nos pueden ser de mucha utilidad.
 
 ## Herramientas utilizadas durante las iteraciones
 <div id='Herramientas' />
