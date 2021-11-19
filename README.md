@@ -30,6 +30,8 @@ Tutor: Juan Pablo Russo
 
 [**Iteración 3** 3](#Iteración3)
 
+[**Iteración 4** 3](#Iteración4)
+
 [**Herramientas utilizadas**](#Herramientas)
 
 ## Introducción
@@ -1347,9 +1349,57 @@ Debemos realizar estas tareas con antelación en el caso de tener algún problem
 - [ ] El punto anterior son tareas que tenemos claro que debemos realizar. Sin embargo, el equipo entiende que hay tareas tales como la resolución de bugs o incidentes que no puede prever. Por tanto, debemos reservarnos como mínimo tres reuniones con el objetivo de solucionar los posibles incovenientes.
 Por tanto, el equipo destinará el 30% de su tiempo a la resolución de bugs y el 70% del tiempo a llevar a cabo los objetivos específicos del siguiente sprint.
 
+<div id='Iteración4' />
+## ITERACIÓN 4
 
-## Herramientas utilizadas durante las iteraciones
+### Objetivo: 
+
+Realizar el informe académico y cierre del proyecto
+
+#### Objetivos específicos:
+
+- [ ] Analizar y redactar los aprendizajes principales reflexionando sobre la aplicación de lo visto en el curso aplicado a la realización del proyecto.
+
+- [ ] Creación de un video-demo demostrando el flujo principal de los prototipos explicando el problema a resolver y el valor entregado con nuestro prototipo
+
+- [ ] En el marco del cierre del proyecto quedó pendiente adaptar los criterios de aceptación de las historias de usuarios al formato de escenarios de BDD.
+
+
+## Lecciones aprendidas   
+
+### Marco de trabajo
+- En la adaptación del marco de trabajo de SCRUM fijamos dos reuniones semanales una de 15 minutos y otra de 2 horas en sustitución de las daily, la planning, review y retrospectivas, en este sentido se perdieron algunas de las ventajas de la comunicación continua, por otro lado en un principio no quedó del todo claro el objetivo de cada reunión ya que no definimos una agenda para esas instancias, esto llevó a que la duración de las mismas fuera más de lo pactado en todos los casos. Tal vez hubiera sido mejor hacer las daily con más frecuencia y definir aparte el resto de las ceremonias.
+
+- Definimos los roles de equipo sin embargo fue dificil simularlos ya que la carga de trabajo no es la misma para cada rol y en el marco de una entrega académica fuimos construyendo entre todos las actividades del proyecto.
+
+- No logramos una buena DoD y DoR hasta el final del proyecto, creemos que esto se debió a la inexperiencia en metodologías ágiles. Siempre quedaban ambiguas las definiciones o no terminabamos de entender la utilidad final ya que nosotros teníamos la idea de lo qué queríamos construir y nos costó bajar las estas ideas a una definición concreta.
+
+- Aprendimos el valor de las reuniones semanales a las que asistimos siempre todos los integrantes del equipo. Fue bien importante fijar las ceremonias desde el inicio. Esto nos permitió de antemano saber que en ese horario debíamos dedicarnos al mini proyecto, esto ayudó a la construcción del prototipo de forma gradual.
+
+### Planificación de las iteraciones
+- Creemos que los objetivos del sprint estuvieron bien definidos desde el comienzo, si bien nos costó especificarlos correctamente en la documentación. Esto nos ayudó bastante a mitigar los problemas de la adaptación al marco de trabajo que hicimos.
+
+- Logramos exitosamente definir el sprint backlog para cada iteración, esto fue bien importante para poder ir incrementando el prototipo en forma individual durante cada semana. Definir las tareas desde el inició de las iteraciones fue uno de los elementos de SCRUM que aportó más valor al proyecto, sin este backlog probablemente hubieramos construido todo el prototipo sobre el final y no hubieramos obtenido el feedback del cliente y en consecuencia realizar el refactor que agregó bastante valor a nuestro producto.
+
+- Para las estimaciones iniciales no tuvimos en cuenta la curva de aprendizaje de la herramienta de prototipado, esto llevó a que las tareas llevaran más tiempo del estimado inicialmente para segunda iteración. 
+
+- La velocity durante el proyecto no fue pareja, por un lado porque las tareas de la primera iteración de spike no las estimamos(una de las tareas era la estimación). Luego teniendo ya definidos los story points, vimos durante la iteración 2 que no habíamos considerado la curva de aprendizaje, por eso tuvimos que sacar tareas del sprint backlog y adicionalmente dedicarle más horas de las estimadas inicialmente para llegar a la entrega que habíamos definido, está dedicación adicional en horas hace que la velocity no sea fácil de promediar, sumado a que la cantidad de sprints no es suficiente para hacer un buen promedio. Suponemos en un proyecto real la dedicación de 8 horas diaria y la continuidad en el trabajo hace que sea más constante la velocity.
+
+### Seguimiento de las iteraciones
+- El seguimiento de las iteraciones fue el mayor desafío. El registro de horas fue una de las tareas del marco de SCRUM que más nos costó, nos olvidabamos frecuentemente de registrar el trabajo realizado. Tuvimos problemas para instalar la herramienta de toggle para el Azure Devops y nos tuvimos que adaptar haciendo una cuenta regresiva de las horas restantes para cada tarea en el devops para así poder llevar el registro. Al igual que pasa en el ámbito laboral el registro de horas es una de las tareas más delegadas. Dentro del SCRUM creemos que tiene el beneficio de que el registro de horas es una herramienta más para que el equipo pueda auto-organizarse.
+
+- Pudimos hacer el seguimiento de las reuniones mediante el template de la minuta que armamos, de este modo logramos tener un seguimiento del trabajo realizado.
+
+
+### Inspección y adaptación del proceso
+
+
+
+## Conclusiones
+
+
 <div id='Herramientas' />
+## Herramientas utilizadas durante las iteraciones
 
  - Grabación y publicación de videos TechSmith Screencast. https://www.screencast.com/ 
 
