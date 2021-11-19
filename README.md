@@ -1346,6 +1346,18 @@ Por tanto, el equipo destinará el 30% de su tiempo a la resolución de bugs y e
 ## Conclusiones
 <div id='Conclusiones' />
 
+En primer lugar, uno de los mayores retos fue definir un marco de trabajo , así como la definición de roles. 
+Definir el marco de trabajo implicó el primer acercamiento del equipo. En esta instancia , entendimos necesario conocer los horarios de cada uno de los integrantes, es decir, en qué horario cursa cada uno y en qué horario trabaja cada integrante. Por otro lado, la conformación de un equipo que por primera vez trabajó junto fue desafiante, en tanto no conocíamos el ritmo de trabajo ni la forma en la que cada uno trabajaba.¿Cómo confomar un equipo sólido en un tiempo relativamente corto? ¿Cómo congeniar horarios? ¿Cómo conformar un equipo con personas con experiencia distinta? Y si esto resulta dificultoso con comunicación cara a cara,¿cómo lograr esto en videollamada?
+Por supuesto, no era claro.
+
+
+La definición de roles implicó intentar conocernos e intentar apegarnos a los intereses de cada uno. Esto adquirió real importancia en el transcurso de los sprints, puesto que entendimos que la motivación y el interes en determinadas tareas está en gran punto alineado a la productividad. Naturalmente, el transcurso del tiempo derivó en que cada uno adoptó ciertas reponsabilidades de forma estable. Si bien no era la regla, la división de las tareas se hizo cada vez más sencillo a medida que iterabamos sobre el proceso.
+
+Conocernos, entender qué nos motiva, en qué horario trabajamos, entender las frustraciones, estrés derivó en un mayor sentimiento de grupo concluyendo en un buen resultado final relativo al proceso.
+
+En este sentido, aprendimos que la conformación de un equipo no es una tarea sencilla. Por esto, destacamos la importancia de las retrospectivas. A medida que mejoraba el proceso , mejoraba la comunicación, la velocity era mayor y la alineación del futuro producto a entregar era aún mayor.
+
+
 Aplicar las prácticas de gestión ágil en este mini proyecto ha sido muy enriquecedor, vernos expuestos al problema de modelar un producto que resultamos conocer menos de lo que creíamos demostró ser una 
 gran plataforma para llegar a ver el poder de estas herramientas y especialmente de su agilidad.
 
