@@ -350,6 +350,8 @@ Decidimos reunirnos a modo de inspeccionar el proceso y analizar qué salió mal
 
 Se calculan algunas métricas que se detallan a continuación :
 
+## MÉTRICAS
+
 -Velocity: 35 pts
 
 Se organiza una dinámica de grupo cuyo foco se encontraba en un pizarrón en miro.
@@ -966,6 +968,8 @@ Generación de prototipos y validación.
 
 - [ ] No aceptaremos que las validaciones alaben a lo prototipado sin presencia de feedback constructivo. En todo momento se debe inducir que es un producto cuya versión es inicial y su madurez es temprana. De este modo, se encuentra que el objetivo principal es el feedback que nos ayude a partir de una base más sólida para la iteración próxima.
 
+
+### ÉPICAS: 
 En primer lugar, redefinimos las épicas planteadas agrupando las distintas historias de usuarios definidas en la iteración previa. Estas historias de usuario fueron priorizadas con el criterio de Fibonacci.
 
 La agrupación de estas historias de usuario quedó de la siguiente forma:
@@ -1237,6 +1241,8 @@ En esta oportunidad detallamos las tareas dentro de este sprint backlog para que
 | #U15 - ajustes              | 1               |        0.2      |
 | #U15 - validación           | 0.5             |     0.1         |
 
+## MÉTRICAS
+
 | Iteración | Velocity |
 | --------- | -------- |
 | 1         |   35     |
@@ -1383,23 +1389,25 @@ Realizar el informe académico y cierre del proyecto
 
 Para este sprint no se realizaron historias de usuario ya que el objetivo es la realización de la documentación.
 
-| Task                    | Horas Estimadas | Horas reales |
-| ----------------------- | --------------- | ------------ |
-| #Utilizar el formato de escenarios de BDD para especificar los criterios | 0.5             |     0.1      |
-| #Armado del guion para la explicación                                    | 0.5             |     0.1      |
-| #Puesta a punto del prototipado para la Video demo                       | 0.5             |     0.1      |
-| #Creación del video demo                                                 | 0.5             |     0.1      |
-| #Redacción de las lecciones aprendidas                                   | 0.5             |     0.1      |
-| #Redacción de las conclusiones                                           | 0.5             |     0.1      |
-| #Creación del informe académico                                          | 0.5             |     0.1      |
-| #Creación del story map                                                  | 0.5             |     0.1      |
+| Task                                                                     | Horas Estimadas | Horas reales |
+| ------------------------------------------------------------------------ | --------------- | ------------ |
+| #Utilizar el formato de escenarios de BDD para especificar los criterios | 2               |  4   |
+| #Armado del guion para la explicación                                    | 3               |  2   |
+| #Puesta a punto del prototipado para la Video demo                       | 2               |  2   |
+| #Creación del video demo                                                 | 10              |  16  |
+| #Redacción de las lecciones aprendidas                                   | 5               |  7   |
+| #Redacción de las conclusiones                                           | 2               |  3   |
+| #Creación del informe académico                                          | 5               |  3   |
+| #Creación del story map                                                  | 3               |  3   |
+
+## MÉTRICAS
 
 | Iteración | Velocity |
 | --------- | -------- |
 | 1         |   35     |
 | 2         | 96       |
 | 3         | 96       |
-| 4         | 96       |
+| 4         |        |
 
 
 ### BURNDOWN CHART
@@ -1449,7 +1457,7 @@ Logramos mejorar el registro de las horas a lo largo de la iteración.
 
 <div id='Herramientas' />
 
-# Herramientas utilizadas durante las iteraciones
+## Herramientas utilizadas durante las iteraciones
 
  - Grabación y publicación de videos TechSmith Screencast. https://www.screencast.com/ 
 
