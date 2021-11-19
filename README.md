@@ -123,8 +123,9 @@ Se agrega el product backlog como generalidad del proyecto para diferenciarlo ta
 
 ![product-backlog](https://github.com/ipintos/ISA1/blob/develop/imagenes/product-backlog.png)
 
-## ITERACIÓN 1
 <div id='Iteración1' />
+
+## ITERACIÓN 1
 
 ### Objetivo: 
 
@@ -622,8 +623,9 @@ en cuenta extranjeros con residencias en uruguay, entre otras.
 
 Este estudio nos revela información o aspectos de la aplicación que debemos atacar/mejorar contra nuestro rival para poder ser aceptada y utilizada por la población.
 
-## Historias de usuario:
 <div id='HistoriasDeUsuario' />
+
+## Historias de usuario:
 
 ### 1:
 #### Como usuario
@@ -935,8 +937,11 @@ Como administrador quiero que todos los usuarios puedan agendarse para ser vacun
 
 ![storyMap](https://github.com/ipintos/ISA1/blob/develop/imagenes/ISA-StoryMap.PNG)
 
-## ITERACIÓN 2
+
 <div id='Iteración2' />
+
+## ITERACIÓN 2
+
 
 Esta iteración abarca un lapso temporal de una semana. El objetivo de la presente abarca la prototipación de la solución planteada en la iteración previa. Esta etapa culminará el 22 de octubre.
 
@@ -1166,8 +1171,9 @@ A continuación , se detallan las conclusiones relativas a las mejoras y los pun
 
 - [ ] Las tareas no serán repartidas al inicio del sprint. Serán autoasignadas, de esta forma buscamos que cada uno se autoorganice y así limitaremos el work in progress ( trabajo en progreso ). En este punto, uno de los objetivos planteados es disminuir el cambio de contexto derivado del manejo de diversas tareas.
 
-## ITERACIÓN 3
 <div id='Iteración3' />
+
+## ITERACIÓN 3
 
 ### Objetivo: 
 
@@ -1284,7 +1290,7 @@ En la presente iteración el equipo se plantea el desafio de la retrospective sa
 
 ![sailboat-2](https://github.com/ipintos/ISA1/blob/develop/imagenes/sailboat-2.png)
 
-En este sentido, en primer lugar se introduce la métafora relativa a que nos encontramos en un bote, en donde tenemos los siguientes artifactos:
+En este sentido, en primer lugar se introduce la metáfora relativa a que nos encontramos en un bote, en donde tenemos los siguientes artefactos:
 
 SUN: Representa lo que al equipo lo hizo feliz.
 
@@ -1346,10 +1352,11 @@ A partir de esta agrupación se concluye lo siguiente:
 Este trabajo en equipo implica el seguimiento de las reuniones, así como el compromiso individual por documentar lo restante así como subir videos a la plataforma indicada.
 Debemos realizar estas tareas con antelación en el caso de tener algún problema.
 
-- [ ] El punto anterior son tareas que tenemos claro que debemos realizar. Sin embargo, el equipo entiende que hay tareas tales como la resolución de bugs o incidentes que no puede prever. Por tanto, debemos reservarnos como mínimo tres reuniones con el objetivo de solucionar los posibles incovenientes.
+- [ ] El punto anterior son tareas que tenemos claro que debemos realizar. Sin embargo, el equipo entiende que hay tareas tales como la resolución de bugs o incidentes que no puede prever. Por tanto, debemos reservarnos como mínimo tres reuniones con el objetivo de solucionar los posibles inconvenientes.
 Por tanto, el equipo destinará el 30% de su tiempo a la resolución de bugs y el 70% del tiempo a llevar a cabo los objetivos específicos del siguiente sprint.
 
-<div id='Iteración4' />
+<div id='Iteración4'/>
+
 ## ITERACIÓN 4
 
 ### Objetivo: 
@@ -1386,19 +1393,20 @@ Realizar el informe académico y cierre del proyecto
 - La velocity durante el proyecto no fue pareja, por un lado porque las tareas de la primera iteración de spike no las estimamos(una de las tareas era la estimación). Luego teniendo ya definidos los story points, vimos durante la iteración 2 que no habíamos considerado la curva de aprendizaje, por eso tuvimos que sacar tareas del sprint backlog y adicionalmente dedicarle más horas de las estimadas inicialmente para llegar a la entrega que habíamos definido, está dedicación adicional en horas hace que la velocity no sea fácil de promediar, sumado a que la cantidad de sprints no es suficiente para hacer un buen promedio. Suponemos en un proyecto real la dedicación de 8 horas diaria y la continuidad en el trabajo hace que sea más constante la velocity.
 
 ### Seguimiento de las iteraciones
-- El seguimiento de las iteraciones fue el mayor desafío. El registro de horas fue una de las tareas del marco de SCRUM que más nos costó, nos olvidabamos frecuentemente de registrar el trabajo realizado. Tuvimos problemas para instalar la herramienta de toggle para el Azure Devops y nos tuvimos que adaptar haciendo una cuenta regresiva de las horas restantes para cada tarea en el devops para así poder llevar el registro. Al igual que pasa en el ámbito laboral el registro de horas es una de las tareas más delegadas. Dentro del SCRUM creemos que tiene el beneficio de que el registro de horas es una herramienta más para que el equipo pueda auto-organizarse.
+- El seguimiento de las iteraciones fue el mayor desafío. El registro de horas fue una de las tareas del marco de SCRUM que más nos costó, nos olvidabamos frecuentemente de registrar el trabajo realizado. Al igual que pasa en el ámbito laboral el registro de horas es una de las tareas más delegadas. Dentro del SCRUM creemos que tiene el beneficio de que el registro de horas es una herramienta más para que el equipo pueda auto organizarse.
 
 - Pudimos hacer el seguimiento de las reuniones mediante el template de la minuta que armamos, de este modo logramos tener un seguimiento del trabajo realizado.
 
 
 ### Inspección y adaptación del proceso
-
+- Las instancias de retrospectivas fueron bastante útiles, por un lado ayudaron a reforzar el equipo de trabajo y por otro lado pudimos identificar problemas e intentar mejorarlos. Por ejemplo una de las retrospectivas identificamos la falta de organización para las daily y con eso pudimos marcar mejor el foco de cada reunión así las ceremonias empezaron a llevar menos tiempo que en un principio. Por otro lado en todas las retrospectivas identificabamos problemas con el registro de horas, esto fue mejorando progresivamente(la iteración 4 el registro fue más gradual), pero todavía se podría mejorar.
 
 
 ## Conclusiones
 
 
 <div id='Herramientas' />
+
 ## Herramientas utilizadas durante las iteraciones
 
  - Grabación y publicación de videos TechSmith Screencast. https://www.screencast.com/ 
