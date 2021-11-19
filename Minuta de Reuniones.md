@@ -795,26 +795,26 @@ Se verifican las tareas, se discuten temas referentes al proyecto, se discuten l
 
 Las tareas se encuentran avanzadas y estamos trabajando sobre el documento academico.
 
-### Reunión N° X
+### Reunión N° 12 - Cierre de proyecto
 
 <table>
 	<tr>
 	    <th>Fecha</th>
-	    <td>xx/xx/xxxx</td>
+	    <td>19/11/2021</td>
 	    <th>Hora Inicio</th>
-        <td>xx:xx</td>   
+        <td>20:00</td>   
 	</tr >
 	<tr >
 	    <th>Organizador</th>
 	    <td></td>
 	    <th>Hora Fin</th>
-        <td>xx:xx</td>   
+        <td>22:15</td>   
 	</tr>
 	<tr>
 	    <th>Lugar</th>
-        <td></td>
+        <td>https://meet.google.com</td>
 	    <th>Objetivo</th>
-	    <td></td>
+	    <td>Reunión de cierre de proyecto</td>
 	</tr>
 </table>
 
@@ -827,24 +827,30 @@ Las tareas se encuentran avanzadas y estamos trabajando sobre el documento acade
         <th>Rol</th>
 	</tr>
 	<tr>
-	    <td></td>
-	    <td></td>
-        <td></td>
+	    <td>Hernán</td>
+	    <td>235861</td>
+        <td>Developer</td>
 	</tr>
 	<tr>
-	    <td></td>
-	    <td></td>
-        <td></td>
+	    <td>Ismael</td>
+	    <td>254254</td>
+        <td>Developer</td>
 	</tr>
 	<tr>
-	    <td></td>
-	    <td></td>
-        <td></td>
+	    <td>Noelia</td>
+	    <td>242970</td>
+        <td>Scrum Master</td>
 	</tr>
 	<tr>
-	    <td></td>
-	    <td></td>
-        <td></td>
+	    <td>Iara</td>
+	    <td>191748</td>
+        <td>Product owner</td>
 	</tr>
 </table>
+
+
+#### Notas 
+
+Empezamos revisando los puntos pendientes que teniamos, hacemos actividades de retrospectiva sobre lo aprendido en trodo el proyecto.
+
 
