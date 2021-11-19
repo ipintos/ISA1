@@ -153,12 +153,17 @@ Identificación del problema.
 - [ ] Posibilidad de negociación del alcance.
 
 
+### SPRINT BACKLOG
+
 En esta iteración se realiza el siguiente sprint backlog:
 
 ![tasks-general-project](https://github.com/ipintos/ISA1/blob/develop/imagenes/tasks-general-project.png)
 ![tas-general-project-2](https://github.com/ipintos/ISA1/blob/develop/imagenes/tas-general-project-2.png)
 ![tasks-general-project-3](https://github.com/ipintos/ISA1/blob/develop/imagenes/tasks-general-project-3.png)
 ![tasks-general-project-4](https://github.com/ipintos/ISA1/blob/develop/imagenes/tasks-general-project-4.png)
+
+
+### Identificación del problema a resolver
 
 Identificar el problema es una historia épica:
 
@@ -1282,7 +1287,7 @@ Link a video: https://www.screencast.com/t/PMu8pP9F
 
 https://github.com/ipintos/ISA1/blob/develop/Iteraci%C3%B3n%20III.md
 
-## Sprint retrospective
+### Sprint retrospective
 
 En la presente iteración el equipo se plantea el desafio de la retrospective sailboat. 
 
@@ -1329,7 +1334,7 @@ A continuación se adjunta el resultado de la agrupación de estas ideas:
 ### RESULTADOS OBTENIDOS
 ![results](https://github.com/ipintos/ISA1/blob/develop/imagenes/results.png)
 
-## POSIBLES RIESGOS 
+### POSIBLES RIESGOS 
 ![problems](https://github.com/ipintos/ISA1/blob/develop/imagenes/problems.png)
 
 A partir de esta agrupación se concluye lo siguiente:
@@ -1357,7 +1362,7 @@ Por tanto, el equipo destinará el 30% de su tiempo a la resolución de bugs y e
 
 <div id='Iteración4'/>
 
-## ITERACIÓN 4
+# ITERACIÓN 4
 
 ### Objetivo: 
 
@@ -1372,7 +1377,7 @@ Realizar el informe académico y cierre del proyecto
 - [ ] En el marco del cierre del proyecto quedó pendiente adaptar los criterios de aceptación de las historias de usuarios al formato de escenarios de BDD.
 
 
-## Lecciones aprendidas   
+### Lecciones aprendidas   
 
 ### Marco de trabajo
 - En la adaptación del marco de trabajo de SCRUM fijamos dos reuniones semanales una de 15 minutos y otra de 2 horas en sustitución de las daily, la planning, review y retrospectivas, en este sentido se perdieron algunas de las ventajas de la comunicación continua, por otro lado en un principio no quedó del todo claro el objetivo de cada reunión ya que no definimos una agenda para esas instancias, esto llevó a que la duración de las mismas fuera más de lo pactado en todos los casos. Tal vez hubiera sido mejor hacer las daily con más frecuencia y definir aparte el resto de las ceremonias.
