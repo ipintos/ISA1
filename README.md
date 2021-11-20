@@ -1298,7 +1298,7 @@ Definir el marco de trabajo implicó el primer acercamiento del equipo. En esta 
 Por supuesto, no era claro.
 
 
-La definición de roles implicó intentar conocernos e intentar apegarnos a los intereses de cada uno. Esto adquirió real importancia en el transcurso de los sprints, puesto que entendimos que la motivación y el interes en determinadas tareas está en gran punto alineado a la productividad. Naturalmente, el transcurso del tiempo derivó en que cada uno adoptó ciertas reponsabilidades de forma estable. Si bien no era la regla, la división de las tareas se hizo cada vez más sencillo a medida que iterabamos sobre el proceso.
+La definición de roles implicó intentar conocernos e intentar apegarnos a los intereses de cada uno. Esto adquirió real importancia en el transcurso de los sprints, puesto que entendimos que la motivación y el interes en determinadas tareas está en gran punto alineado a la productividad. Naturalmente, el transcurso del tiempo derivó en que cada uno adoptó ciertas responsabilidades de forma estable. Si bien no era la regla, la división de las tareas se hizo cada vez más sencillo a medida que iterabamos sobre el proceso.
 
 Conocernos, entender qué nos motiva, en qué horario trabajamos, entender las frustraciones, estrés derivó en un mayor sentimiento de grupo concluyendo en un buen resultado final relativo al proceso.
 
@@ -1321,7 +1321,7 @@ con otras materias ni obligaciones de los miembros del equipo. También trabajam
 con el trabajo durante las iteraciones.
 
 Un aprendizaje que encontramos muy interesante fue ver la utilidad de llevar un registro actualizado del trabajo para en base a esto medir el avance del proyecto. Los miembros del equipo hemos trabajado 
-en lugares donde se nos solcita el registro de horas por ejemplo, y esto muchas veces es algo que se ve como innecesario por parte de los programadores o técnicos. Ver las cosas desde otra óptica nos 
+en lugares donde se nos solicita el registro de horas por ejemplo, y esto muchas veces es algo que se ve como innecesario por parte de los programadores o técnicos. Ver las cosas desde otra óptica nos 
 abrió los ojos sobre la importancia de llevar los registros y de la cantidad de información que podemos estar aportando al equipo y la organización.
 
 
