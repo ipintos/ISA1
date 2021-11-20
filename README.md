@@ -1331,6 +1331,22 @@ ceremonias tienen un sentido y que en determinados momentos del ciclo de vida de
 
 <div id='Herramientas' />
 
+## Sprint retrospective
+
+![retrospective-sprint4-1](https://github.com/ipintos/ISA1/blob/main/imagenes/retrospective-sprint4-1.png)
+
+![sprint-retrospective4-02](https://github.com/ipintos/ISA1/blob/main/imagenes/sprint-retrospective4-02.png)
+
+![sprint-retrospective4-03](https://github.com/ipintos/ISA1/blob/main/imagenes/sprint-retrospective4-03.png)
+
+![ismael-retro-4](https://github.com/ipintos/ISA1/blob/develop/imagenes/ismael-retro-4.png)
+
+![noelia-retro-4](https://github.com/ipintos/ISA1/blob/develop/imagenes/noelia-retro-4.png)
+
+![iara-retro-4](https://github.com/ipintos/ISA1/blob/develop/imagenes/iara-retro-4.png)
+
+![hernan-retro-4](https://github.com/ipintos/ISA1/blob/develop/imagenes/hernan-retro-4.png)
+
 ## Herramientas utilizadas durante las iteraciones
 
  - Grabación y publicación de videos TechSmith Screencast. https://www.screencast.com/ 
