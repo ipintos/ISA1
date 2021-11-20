@@ -18,23 +18,23 @@ Tutor: Juan Pablo Russo
 
 # **Índice**
 
-[**Introducción** 3](#Introducción)
+[**Introducción**](#Introducción)
 
-[**Definición del Marco de Trabajo** 3](#MarcoTrabajo)
+[**Definición del Marco de Trabajo**](#MarcoTrabajo)
 
-[**Iteración 1** 3](#Iteración1)
+[**Iteración 1**](#Iteración1)
 
-[**Historias de usuario** 3](#HistoriasDeUsuario)
+[**Historias de usuario**](#HistoriasDeUsuario)
 
-[**Iteración 2** 3](#Iteración2)
+[**Iteración 2**](#Iteración2)
 
-[**Iteración 3** 3](#Iteración3)
+[**Iteración 3**](#Iteración3)
 
-[**Iteración 4** 3](#Iteración4)
-
-[**Herramientas utilizadas**](#Herramientas)
+[**Iteración 4**](#Iteración4)
 
 [**Conclusiones**](#Conclusiones)
+
+[**Herramientas utilizadas**](#Herramientas)
 
 
 ## Introducción
