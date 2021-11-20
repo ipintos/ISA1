@@ -1375,6 +1375,59 @@ ceremonias tienen un sentido y que en determinados momentos del ciclo de vida de
 
 <div id='Herramientas' />
 
+## Sprint retrospective
+
+La finalidad de la retrospectiva radicaba en primer lugar medir el crecimiento personal de cada uno de los integrantes del equipo y luego medir el crecimiento a nivel grupal.
+El foco de la presente retrospectiva es debido a que esto es el cierre del proyecto.
+En primer lugar, se plantea una dinámica cuyo objetivo es repasar los objetivos y entender posibles desvíos en el proyecto.
+
+
+![sprint-retrospective4-02](https://github.com/ipintos/ISA1/blob/develop/imagenes/sprint-retrospective4-02.png)
+
+![sprint-retrospective4-03](https://github.com/ipintos/ISA1/blob/develop/imagenes/sprint-retrospective4-03.png)
+
+#### Crecimiento individual
+
+![retrospective-sprint4-1](https://github.com/ipintos/ISA1/blob/develop/imagenes/retrospective-sprint4-1.png)
+
+
+![ismael-retro-4](https://github.com/ipintos/ISA1/blob/develop/imagenes/ismael-retro-4.png)
+
+![noelia-retro-4](https://github.com/ipintos/ISA1/blob/develop/imagenes/noelia-retro-4.png)
+
+![iara-retro-4](https://github.com/ipintos/ISA1/blob/develop/imagenes/iara-retro-4.png)
+
+![hernan-retro-4](https://github.com/ipintos/ISA1/blob/develop/imagenes/hernan-retro-4.png)
+
+### Crecimiento del equipo 
+
+![team-growth-6](https://github.com/ipintos/ISA1/blob/develop/imagenes/team-growth-6.png)
+
+![team-growth-1](https://github.com/ipintos/ISA1/blob/develop/imagenes/team-growth-1.png)
+
+![team-growth-2](https://github.com/ipintos/ISA1/blob/develop/imagenes/team-growth-2.png)
+
+![team-growth-3](https://github.com/ipintos/ISA1/blob/develop/imagenes/team-growth-3.png)
+
+![team-growth-4](https://github.com/ipintos/ISA1/blob/develop/imagenes/team-growth-4.png)
+
+![team-growth-5](https://github.com/ipintos/ISA1/blob/develop/imagenes/team-growth-5.png)
+
+![team-growth-7](https://github.com/ipintos/ISA1/blob/develop/imagenes/team-growth-7.png)
+
+
+A partir de este ejercicio se concluye lo siguiente:
+
+ 
+ Logramos llegar con los requerimientos que nos habiamos propuesto para la entrega.
+ 
+ Creemos que realizamos un buen video de calidad, donde definimos la problematica a resolver de forma impactante, mostrando tanto el problema como la solución.
+ 
+ Nos llevamos una experiencia muy positiva de trabajo y en lineas generales estamos muy conformes con el producto logrado.
+ 
+ 
+ En definitiva, estamos entusiasmados con las nuevas herramientas adquiridas y esperamos aplicarlas profesional y academicamente.
+
 ## Herramientas utilizadas durante las iteraciones
 
  - Grabación y publicación de videos TechSmith Screencast. https://www.screencast.com/ 
