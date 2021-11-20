@@ -1301,7 +1301,7 @@ Logramos mejorar el registro de las horas a lo largo de la iteración.
 
 ## SPRINT REVIEW
 
-
+En el sprint review se hizo una puesta a punto de las lecciones aprendidas recabadas por cada uno de los integrantes.
 
 
 ## LECCIONES APRENDIDAS: 
