@@ -621,26 +621,26 @@ Realizar la validación del prototipado. (Todos los integrantes).
 
 Cierre de la iteración. 
 
-### Reunión N° X
+### Reunión N° 11
 
 <table>
 	<tr>
 	    <th>Fecha</th>
-	    <td>xx/xx/xxxx</td>
+	    <td>09/11/2021</td>
 	    <th>Hora Inicio</th>
-        <td>xx:xx</td>   
+        <td>18:00</td>   
 	</tr >
 	<tr >
 	    <th>Organizador</th>
 	    <td></td>
 	    <th>Hora Fin</th>
-        <td>xx:xx</td>   
+        <td>18:30</td>   
 	</tr>
 	<tr>
 	    <th>Lugar</th>
-        <td></td>
+        <td>https://meet.google.com</td>
 	    <th>Objetivo</th>
-	    <td></td>
+	    <td>Standup meeting, planear el sprint</td>
 	</tr>
 </table>
 
@@ -653,24 +653,204 @@ Cierre de la iteración.
         <th>Rol</th>
 	</tr>
 	<tr>
-	    <td></td>
-	    <td></td>
-        <td></td>
+	    <td>Hernán</td>
+	    <td>235861</td>
+        <td>Developer</td>
 	</tr>
 	<tr>
-	    <td></td>
-	    <td></td>
-        <td></td>
+	    <td>Ismael</td>
+	    <td>254254</td>
+        <td>Developer</td>
 	</tr>
 	<tr>
-	    <td></td>
-	    <td></td>
-        <td></td>
+	    <td>Noelia</td>
+	    <td>242970</td>
+        <td>Scrum Master</td>
 	</tr>
 	<tr>
-	    <td></td>
-	    <td></td>
-        <td></td>
+	    <td>Iara</td>
+	    <td>191748</td>
+        <td>Product owner</td>
 	</tr>
 </table>
+
+
+#### Notas 
+
+Se comienza a planificar el ultimo sprint. Se reparten tareas y se conversa sobre los temas levantados por el profe.
+
+### Reunión N° 12
+
+<table>
+	<tr>
+	    <th>Fecha</th>
+	    <td>12/11/2021</td>
+	    <th>Hora Inicio</th>
+        <td>19:00</td>   
+	</tr >
+	<tr >
+	    <th>Organizador</th>
+	    <td></td>
+	    <th>Hora Fin</th>
+        <td>20:00</td>   
+	</tr>
+	<tr>
+	    <th>Lugar</th>
+        <td>https://meet.google.com</td>
+	    <th>Objetivo</th>
+	    <td>Reunion para ver avance, chequear que todo esté planificado para el sprint.</td>
+	</tr>
+</table>
+
+#### Participantes 
+
+<table>
+	<tr>
+        <th>Nombre</th>
+        <th>N° Estudiante</th>
+        <th>Rol</th>
+	</tr>
+	<tr>
+	    <td>Hernán</td>
+	    <td>235861</td>
+        <td>Developer</td>
+	</tr>
+	<tr>
+	    <td>Ismael</td>
+	    <td>254254</td>
+        <td>Developer</td>
+	</tr>
+	<tr>
+	    <td>Noelia</td>
+	    <td>242970</td>
+        <td>Scrum Master</td>
+	</tr>
+	<tr>
+	    <td>Iara</td>
+	    <td>191748</td>
+        <td>Product owner</td>
+	</tr>
+</table>
+
+#### Notas 
+
+Se verifican las tareas, se discuten temas referentes al proyecto, se discuten los issues generados por el profe y se resuelven varios y se asignan los restantes.
+
+
+### Reunión N° 11
+
+<table>
+	<tr>
+	    <th>Fecha</th>
+	    <td>16/11/2021</td>
+	    <th>Hora Inicio</th>
+        <td>18:00</td>   
+	</tr >
+	<tr >
+	    <th>Organizador</th>
+	    <td></td>
+	    <th>Hora Fin</th>
+        <td>18:15</td>   
+	</tr>
+	<tr>
+	    <th>Lugar</th>
+        <td>https://meet.google.com</td>
+	    <th>Objetivo</th>
+	    <td>Standup meeting</td>
+	</tr>
+</table>
+
+#### Participantes 
+
+<table>
+	<tr>
+        <th>Nombre</th>
+        <th>N° Estudiante</th>
+        <th>Rol</th>
+	</tr>
+	<tr>
+	    <td>Hernán</td>
+	    <td>235861</td>
+        <td>Developer</td>
+	</tr>
+	<tr>
+	    <td>Ismael</td>
+	    <td>254254</td>
+        <td>Developer</td>
+	</tr>
+	<tr>
+	    <td>Noelia</td>
+	    <td>242970</td>
+        <td>Scrum Master</td>
+	</tr>
+	<tr>
+	    <td>Iara</td>
+	    <td>191748</td>
+        <td>Product owner</td>
+	</tr>
+</table>
+
+
+#### Notas 
+
+Las tareas se encuentran avanzadas y estamos trabajando sobre el documento academico.
+
+### Reunión N° 12 - Cierre de proyecto
+
+<table>
+	<tr>
+	    <th>Fecha</th>
+	    <td>19/11/2021</td>
+	    <th>Hora Inicio</th>
+        <td>20:00</td>   
+	</tr >
+	<tr >
+	    <th>Organizador</th>
+	    <td></td>
+	    <th>Hora Fin</th>
+        <td>22:15</td>   
+	</tr>
+	<tr>
+	    <th>Lugar</th>
+        <td>https://meet.google.com</td>
+	    <th>Objetivo</th>
+	    <td>Reunión de cierre de proyecto</td>
+	</tr>
+</table>
+
+#### Participantes 
+
+<table>
+	<tr>
+        <th>Nombre</th>
+        <th>N° Estudiante</th>
+        <th>Rol</th>
+	</tr>
+	<tr>
+	    <td>Hernán</td>
+	    <td>235861</td>
+        <td>Developer</td>
+	</tr>
+	<tr>
+	    <td>Ismael</td>
+	    <td>254254</td>
+        <td>Developer</td>
+	</tr>
+	<tr>
+	    <td>Noelia</td>
+	    <td>242970</td>
+        <td>Scrum Master</td>
+	</tr>
+	<tr>
+	    <td>Iara</td>
+	    <td>191748</td>
+        <td>Product owner</td>
+	</tr>
+</table>
+
+
+#### Notas 
+
+Empezamos revisando los puntos pendientes que teniamos, hacemos actividades de retrospectiva sobre lo aprendido en trodo el proyecto.
+
 

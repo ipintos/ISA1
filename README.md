@@ -8,7 +8,7 @@
 
 ## Ingeniería de Software Agil
 
-[https://github.com/ipintos/ISA1.git](https://github.com/ipintos/ISA1.git)
+DEMO: [https://web.microsoftstream.com/video/dc59ae8d-3a04-4e24-bdc0-94057abb3fef](https://web.microsoftstream.com/video/dc59ae8d-3a04-4e24-bdc0-94057abb3fef)
 
 Iara Pintos - Ismael Umpierrez - Noelia Bentancor - Hernán Reyes
 
@@ -18,17 +18,24 @@ Tutor: Juan Pablo Russo
 
 # **Índice**
 
-[**Introducción** 3](#Introducción)
+[**Introducción**](#Introducción)
 
-[**Definición del Marco de Trabajo** 3](#MarcoTrabajo)
+[**Definición del Marco de Trabajo**](#MarcoTrabajo)
 
-[**Iteración 1** 3](#Iteración1)
+[**Iteración 1**](#Iteración1)
 
-[**Iteración 2** 3](#Iteración2)
+[**Historias de usuario**](#HistoriasDeUsuario)
 
-[**Iteración 3** 3](#Iteración3)
+[**Iteración 2**](#Iteración2)
+
+[**Iteración 3**](#Iteración3)
+
+[**Iteración 4**](#Iteración4)
+
+[**Conclusiones**](#Conclusiones)
 
 [**Herramientas utilizadas**](#Herramientas)
+
 
 ## Introducción
 <div id='Introducción' />
@@ -84,6 +91,8 @@ o La aplicación debe poder escalar a millones de usuarios (mínimamente a toda 
 
 o Debe ser fácil de usar por todos los estratos de población. Se concibe como de fácil uso si el tiempo de aprendizaje de la aplicación es de menos de cinco minutos.
 
+o En las etapas de validación, el 90% de los usuarios debe ser capaz de realizar las tareas que se le soliciten sin tener que guiarlo.
+
 o Debe poder mantener la privacidad de datos sensibles de sus usuarios. La privacidad radica en que los usuarios no pueden ver datos de otros usuarios en la aplicación.
 
 o Debe contar con una interfaz principalmente móvil (iOS y Android).
@@ -102,29 +111,40 @@ Por este motivo, consideramos que los requerimientos no funcionales deben inclui
 
 La presente definición aplica para las tareas.
 
-- El desarrollador logra interpretar sin ambigüedades la definición del caso. Es decir entiende la tarea siendo capaz de ejecutarla sin ayuda.
+- El desarrollador logra interpretar sin ambigüedades la definición del caso. Es decir entiende la historia siendo capaz de definir las tareas sin ayuda.
 
-- La tarea debe tener una estimación (puntos de historia). 
+- La historia debe tener una estimación (puntos de historia). 
 
-- La tarea debe poder validarse y corresponderse dentro del Sprint. Es decir no se depende de futuras sprints para dar por finalizada la tarea.
+- La historia debe poder validarse y corresponderse dentro del Sprint. Es decir no se depende de futuras sprints para darla por finalizada.
 
-- La realización de la tarea no debe de contar con tareas pendientes. 
+- La realización de la historia no debe de contar con tareas pendientes. 
 
-- El detalle funcional, detalle técnico y los casos de prueba de cada tarea deben ser claros para que sean comprendidos por cualquier miembro del equipo. Se deben de escribir los distintos documentos en lenguaje de usuario final de tal manera que cualquier persona no relacionada a IT pueda entenderlo.
+- El detalle funcional, detalle técnico y los casos de uso de cada historia deben ser claros para que sean comprendidos por cualquier miembro del equipo. Se deben de escribir los distintos documentos en lenguaje de usuario final de tal manera que cualquier persona no relacionada a IT pueda entenderlo.
 
 ## Product Backlog:
 Se agrega el product backlog como generalidad del proyecto para diferenciarlo tal como se indicó en el #9, el Product backlog fue definido dentro de la iteración 1, sin embargo no lo agregamos ahora para dejar esa documentación sin cambios ya que las correcciones fueron sobre la documentación ya existente.
 
 ![product-backlog](https://github.com/ipintos/ISA1/blob/develop/imagenes/product-backlog.png)
 
-## ITERACIÓN 1
+A continuación se adjunta evidencia a modo de pipeline de la utilización de SCRUM en proyecto que nos convoca:
+
+![pipeline-1](https://github.com/ipintos/ISA1/blob/develop/imagenes/pipeline-1.png)
+
+
+![pipeline-2](https://github.com/ipintos/ISA1/blob/develop/imagenes/pipelin-2.png)
+
+
+![pipeline-3](https://github.com/ipintos/ISA1/blob/develop/imagenes/pipeline-3.png)
+
 <div id='Iteración1' />
 
-### Objetivo: 
+# ITERACIÓN 1
+
+## OBJETIVO: 
 
 Identificación del problema.
 
-#### Objetivos específicos:
+### Objetivos específicos:
 
 - [ ]  La primera iteración tiene como objetivo fundamental la identificación del problema a definir con una solución, cuyo resultado nos encaminará hacia un mejor entendimiento del problema. En este punto se parte de la base de que los integrantes desconocemos el problema y por este motivo necesitamos esta primera iteración. La finalización de esta iteración será el 8 de octubre.
 
@@ -146,6 +166,8 @@ Identificación del problema.
 - [ ] Posibilidad de negociación del alcance.
 
 
+## SPRINT BACKLOG
+
 En esta iteración se realiza el siguiente sprint backlog:
 
 ![tasks-general-project](https://github.com/ipintos/ISA1/blob/develop/imagenes/tasks-general-project.png)
@@ -153,190 +175,20 @@ En esta iteración se realiza el siguiente sprint backlog:
 ![tasks-general-project-3](https://github.com/ipintos/ISA1/blob/develop/imagenes/tasks-general-project-3.png)
 ![tasks-general-project-4](https://github.com/ipintos/ISA1/blob/develop/imagenes/tasks-general-project-4.png)
 
-Identificar el problema es una historia épica:
 
-Como proveedor de este servicio quiero entender el problema, el dominio y detectar problemas actuales para poder realizar una solución acorde.
+### Identificación del problema a resolver
 
-Esto fue partida en distintas tareas, ya que la misma es ambigua:
+Para identificar el problema a resolver decidimos hacer un spike. Registramos el trabajo realizado en el archivo, las conclusiones de este spike se corresponden con los puntos detallados más adelante. Se puede ver algo del trabajo realizado en el spike en este archivo:
 
-- [ ] **Ingeniería inversa:**
+https://github.com/ipintos/ISA1/blob/develop/Iteraci%C3%B3n%20I.md
 
-1.Ingeniería inversa. Tiempo transcurrido 2 hs
-
-2.identificación de escenarios principales Tiempo transcurrido 2 hs
-
-3.estudio de competidores Tiempo transcurrido 2 hs
-
-4.identificación de los estratos sociales Tiempo transcurrido 1:30 hs
-
-5.funcionalidades por interesados Tiempo transcurrido 2 hs
-
-6.identificar el valor de negocio asociado a cada escenario. Tiempo transcurrido 2 hs
-
-
-Ingeniería inversa.
-
-Como desarrollador/scrum master/product owner
-
-quiero realizar ingeniería inversa
-
-para tomar ideas de proyectos existentes y obtener posibilidades de mejora.
-
-
-Story points : 4 pts
-
-Tiempo transcurrido 2 hs
-
-
-
-- [ ] **Identificación de escenarios principales**
-
-
-Como desarrollador/scrum master/product owner
-
-quiero realizar identificación de escenarios principales 
-
-para obtener ideas a modo de realizar requerimientos funcionales.
-
-Story points : 3 pts
-
-Tiempo transcurrido 2 hs
-
-- [ ] **Estudio de competidores**
-
-Como desarrollador/scrum master/product owner
-
-quiero realizar estudio de competidores
-
-para entender el posicionamiento en el mercado
-
-Story points : 2 pts
-
-Tiempo transcurrido 2 hs
-
-- [ ] **Identificación de los estratos sociales**
-
-Como desarrollador/scrum master/product owner
-
-quiero realizar identificación de los estratos sociales
-
-para ajustar necesidades de la aplicación a los estratos
-
-Story points : 2 pts
-
-Tiempo transcurrido 1:30 hs
-
-- [ ] **Funcionalidades por interesados**
-
-Como desarrollador/scrum master/product owner
-
-quiero realizar funcionalidades por interesados 
-
-para acercarme a la solución a desarrollar
-
-Story points : 4 pts
-
-Tiempo transcurrido 2 hs
-
-- [ ] **Identificar el valor de negocio asociado a cada escenario** 
-
-Como desarrollador/scrum master/product owner
-
-quiero  identificar el valor de negocio asociado a cada escenario. 
-
-para entender si el escenario pensado aplica o no
-
-Story points : 4 pts
-
-Tiempo transcurrido 2 hs
-
-
-Luego, identificamos la épica asociada a la propuesta de resolución del problema en cuestión:
-
-Como proveedor de este servicio 
-
-quiero identificar la solución a la problemática 
-
-para poder construir una solución acorde y ajustada a las necesidades del negocio.
-
-Esta se dividió en las siguientes tareas:
-
-1.Story map Tiempo transcurrido 2 hs
-
-2.product backlog Tiempo transcurrido 2 hs
-
-3.épicas Tiempo transcurrido 1 hs
-
-4.historias de usuario Tiempo transcurrido 4 hs
-
-5.criterios de aceptación Tiempo transcurrido 2 hs
-
-- [ ] **Story map**
-
-Como desarrollador/scrum master/product owner
-
-quiero realizar un story map
-
-para acercarme a la solución a implementar
-
-Story points : 3 pts
-
-Tiempo transcurrido 2 hs
-
-- [ ] **Product backlog** 
-
-Como desarrollador/scrum master/product owner
-
-quiero rever el product backlog
-
-para alinear los objetivos de la próxima iteración
-
-Tiempo transcurrido 2 hs
-
-Story points : 4 pts
-
-- [ ] **Épicas**
-
-Como desarrollador/scrum master/product owner
-
-quiero realizar épicas
-
-para acercarme a la solución a implementar
-
-Tiempo transcurrido 1 hs
-
-Story points : 2 pts
-
-- [ ] **Historias de usuario** 
-
-Como desarrollador/scrum master/product owner
-
-quiero realizar historias de usuario 
-
-para acercarme a la solución a implementar
-
-Tiempo transcurrido 4 hs
-
-Story points : 4 pts
-
-- [ ] **Criterios de aceptación** 
-
-Como desarrollador/scrum master/product owner
-
-quiero realizar criterios de aceptación 
-
-para entender cuando mi tarea se  considera aceptada
-
-Story points : 3 pts
-
-Tiempo transcurrido 2 hs
-
-
-### SPRINT RETROSPECTIVE
+## SPRINT RETROSPECTIVE
 
 Decidimos reunirnos a modo de inspeccionar el proceso y analizar qué salió mal, qué podríamos mejor, qué hemos aprendido y en esencia qué salió bien que deberíamos mantener en iteraciones próximas.
 
 Se calculan algunas métricas que se detallan a continuación :
+
+## MÉTRICAS
 
 -Velocity: 35 pts
 
@@ -378,7 +230,7 @@ En definitiva, según lo recabado se concluye lo siguiente:
 - [ ] Deberíamos reflejar en todo momento el avance real en github, ya que es más costoso realizar un resumen luego de haber finalizado la iteración que realizar un seguimiento acorde .En este sentido, nos gustaría comprometernos a velar por la transparencia y entender realmente dónde estamos parados en cada momento, así como identificar posibles cuello de botella en tareas.Por tanto, buscaremos transparentar de mejor forma los avances.
 
 
-### SPRINT REVIEW
+## SPRINT REVIEW
 Se inspecciona el producto.
 En este punto inspeccionamos lo realizado por cada integrante y alcanzamos los siguientes resultados:
 
@@ -555,7 +407,7 @@ Poco después, Juan toma el celular y recibe un mensaje. "Alerta de exposición 
 
 Una de las funcionalidades más valoradas por los usuario es la agenda de vacunación. En esta sección en podemos validar si estamos habilitados para la vacunación y en caso de estarlo poder agendarse.
 
-## Mejoras que podemos brindar
+### Mejoras que podemos brindar
 
 Creemos que nuestro rival cuenta con pantallas poco amigables para estratos con poca relación con la tecnología.
 
@@ -616,8 +468,10 @@ en cuenta extranjeros con residencias en uruguay, entre otras.
 
 Este estudio nos revela información o aspectos de la aplicación que debemos atacar/mejorar contra nuestro rival para poder ser aceptada y utilizada por la población.
 
+<div id='HistoriasDeUsuario' />
+
 ## Historias de usuario:
-         
+
 ### 1:
 #### Como usuario
 
@@ -631,6 +485,9 @@ El usuario ingresa al sistema, y si está habilitado se le permite registrarse p
 vacunatorios cercanos en un mapa, cuando se registra recibe una confirmación.
 
 #### Criterios de aceptación:
+Dado un usuario registrado, cuando hace una reserva entonces se le muestran los vacunatorios cercanos y horarios disponibles.
+
+Descripción:
 
 Dado un usuario registrado, cuando hace una reserva entonces se le muestran los vacunatorios cercanos y horarios disponibles.
 
@@ -660,10 +517,10 @@ Para poder conocer el estado de situación actual.
 El usuario debe disponer de una sección en la aplicación donde se muestran las gráficas de interés, estas incluyen: Casos por dia, total de vacunados, fallecidos por día, tests por día. Marcando por colores la densidad de casos activos por departamento.
 
 #### Criterios de aceptación:
-
 Dado un usuario cuando ingresa a la sección de gráficos entonces se le muestran las gráficas de casos por día, total de vacunados, fallecidos y test realizados.
 
 Descripción:
+
 
 Los datos que se muestran son a nivel de toda la población y no se muestra dato personal alguno.
 
@@ -690,6 +547,9 @@ El usuario tiene que poder resolver sus dudas en cuanto a la enfermedad con el m
 
 
 #### Criterios de aceptación:
+Dado un usuario cuando ingresa a la sección de información entonces se le muestran los síntomas asociados al covid.
+
+Descripción:
 
 Dado un usuario cuando ingresa a la sección de información entonces se le muestran los síntomas asociados al covid.
 
@@ -718,6 +578,9 @@ La aplicación debe tener la capacidad de detectar si el dispositivo del usuario
 En caso de que se de la situación, tiene que enviar una notificación al usuario y proveerle pasos a seguir.
 
 #### Criterios de aceptación:
+Dado un usuario registrado que estuvo expuesto al virus cuando la aplicación tiene conexión a internet entonces recibe una alerta de exposición al virus.
+
+Descripción:
 
 Dado un usuario registrado que estuvo expuesto al virus cuando la aplicación tiene conexión a internet entonces recibe una alerta de exposición al virus.
 
@@ -744,6 +607,9 @@ El usuario tiene que poder conseguir las credenciales para ingresar al sistema. 
 
 
 #### Criterios de aceptación:
+Dado un usuario no registrado cuando ingresa a la aplicación mobile entonces puede registrarse en el sistema ingresando contraseña o huella dactilar.
+
+Descripción:
 
 Dado un usuario no registrado cuando ingresa a la aplicación mobile entonces puede registrarse en el sistema ingresando contraseña o huella dactilar.
 
@@ -789,7 +655,9 @@ Los turistas deben poder registrarse para crear una solicitud para agenda de vac
 
 Dado un usuario no registrado sin cédula de identidad cuando ingresa a la aplicación entonces puede registrarse en el sistema.
  
+ 
 Descripción: 
+
 Los usuarios con pasaporte deben quedar registrados en la base de datos.
 
 #### story points: 3
@@ -810,9 +678,9 @@ Los usuarios deben poder consultar las fechas de sus reservas, y configurar si q
 
 Dado un usuario con reserva para vacunación cuando ingresa a la pestaña de consultas de reservas entonces puede ver las reservas realizadas.
 Dado un usuario con reserva para vacunación en menos de 48 h. desde la fecha actual cuando la aplicación esté ejecutandose entonces puede recibir alerta de que se acerca la fecha de agenda.
+
  
 Descripción:
- 
 Debe funcionar en android e iOS
 
 #### story points: 8 
@@ -833,7 +701,9 @@ Los usuarios deben poder generar un comprobante digital de código QR que pueda 
 
 Dado un usuario que concurrió a vacunarse cuando ingresa a generar comprobante entonces puede ver o descargar el código QR.
 
+
 Descripción: 
+
 El código QR debe poder ser leído y mostrar que la pauta de vacunación está completa sin revelar datos personales. 
  
 #### story points: 3
@@ -900,6 +770,10 @@ Dado un usuario que estuvo en contacto con otro usuario que envió una alerta cu
 
 Descripción:
  
+Dado un usuario que quiere alertar que tiene covid cuando ingresa a la aplicación entonces puede generar una alerta.
+Dado un usuario que estuvo en contacto con otro usuario que envió una alerta cuando ingresa a la aplicación entonces debe recibir una alerta de que estuvo expuesto al virus.
+
+Descripción:
 La aplicación debe enviar notificaciones push a los usuarios que fueron contacto.
 
 #### story points: 5
@@ -922,7 +796,9 @@ Esta funcionalidad puede implementarse como FAQ.
 
 Dado un usuario cuando ingresa a la pestaña de FAQ entonces puede ver los síntomas actualizados de la enfermedad.
  
+
 Descripción: 
+
 La información debe ser legible desde el dispositivo móvil.
  
 #### story points: 3
@@ -963,7 +839,9 @@ Los usuarios registrados que pertenezcan a un grupo prioritario deben poder ser 
 #### Criterios de aceptación:
 Dado un usuario prioritario registrado en BPS como tal cuando ingresa al sistema entonces puede agendarse para la vacunación en forma prioritaria.
  
+
 Descripción: 
+
 Los usuarios deben ser tratados como prioritarios en caso que así estén registrados en el BPS.
 
 #### story points: 8
@@ -979,12 +857,17 @@ Como administrador quiero asegurarme de que los usuarios pueden sacarse las duda
 Como administrador quiero que todos los usuarios puedan agendarse para ser vacunados.
 
 
-## ITERACIÓN 2
+![storyMap](https://github.com/ipintos/ISA1/blob/develop/imagenes/ISA-StoryMap.PNG)
+
+
 <div id='Iteración2' />
+
+# ITERACIÓN 2
+
 
 Esta iteración abarca un lapso temporal de una semana. El objetivo de la presente abarca la prototipación de la solución planteada en la iteración previa. Esta etapa culminará el 22 de octubre.
 
-### Objetivo: 
+## OBJETIVO:  
 
 Generación de prototipos y validación.
 
@@ -1000,6 +883,8 @@ Generación de prototipos y validación.
 
 - [ ] No aceptaremos que las validaciones alaben a lo prototipado sin presencia de feedback constructivo. En todo momento se debe inducir que es un producto cuya versión es inicial y su madurez es temprana. De este modo, se encuentra que el objetivo principal es el feedback que nos ayude a partir de una base más sólida para la iteración próxima.
 
+
+### ÉPICAS: 
 En primer lugar, redefinimos las épicas planteadas agrupando las distintas historias de usuarios definidas en la iteración previa. Estas historias de usuario fueron priorizadas con el criterio de Fibonacci.
 
 La agrupación de estas historias de usuario quedó de la siguiente forma:
@@ -1013,7 +898,7 @@ La agrupación de estas historias de usuario quedó de la siguiente forma:
 ![cuarta-epica](https://github.com/ipintos/ISA1/blob/main/imagenes/cuarta-epica.png)
 
 
-### SPRINT BACKLOG
+## SPRINT BACKLOG
                     
                     
 [***Historias de usuario*** 3](#user-stories)
@@ -1040,7 +925,7 @@ Los puntos de las historias fueron detallados en líneas anteriores, así como l
 | #U14                | 3     |
 | #U15                | 2     |
 
-### Burndown Chart
+## BURNDOWN CHART
 Dado que en la presente iteración fuimos creando las tareas en el transcurso de la misma nuestra grafica no se alinea correctamente al trabajo por hacer en el tiempo esperado. Por eso podemos visualizar distintos picos en la grafica como en el día 19/10 y el 21/10. 
 
 En la iteración siguiente debemos mejorar este punto y crear las mismas al principio del sprint.
@@ -1048,7 +933,7 @@ En la iteración siguiente debemos mejorar este punto y crear las mismas al prin
 ![burndownChart](https://github.com/ipintos/ISA1/blob/main/imagenes/burndownChart.jpeg)
 
                     
-### VISIBILIDAD DEL EQUIPO
+## VISIBILIDAD DEL EQUIPO
 En primer lugar, decidimos que en el miro debíamos dar visibilidad a las tareas del equipo a fin de detectar cuello de botella o demás dependencias entre el equipo, así como evitar que un integrante este sobrecargado.
 
 En este sentido decidimos, decidimos darle visibilidad mediante la siguiente dinámica adjuntada a continuación :
@@ -1060,7 +945,7 @@ En este sentido decidimos, decidimos darle visibilidad mediante la siguiente din
 
 
 
-### SPRINT REVIEW
+## SPRINT REVIEW
 
 Se inspecciona el producto. A continuación se adjunta link con los flujos principales del sistema.
                     
@@ -1090,11 +975,11 @@ Link a video: https://www.screencast.com/t/iWdbzoGKqR
 
 Link a video: https://www.screencast.com/t/01ddVqBQM7
 
-### VALIDACIÓN 
+## VALIDACIÓN 
                     
 https://github.com/ipintos/ISA1/blob/main/Iteraci%C3%B3n%20II.md
 
-### MÉTRICAS
+## MÉTRICAS
                     
 | Iteración | Velocity |
 | --------- | -------- |
@@ -1105,11 +990,11 @@ Si bien mejoramos la velocity en tanto adaptamos el proceso, entendemos que esta
                     
         
 
-### SPRINT RETROSPECTIVE
+## SPRINT RETROSPECTIVE
 
 Decidimos reunirnos a modo de inspeccionar el proceso y analizar qué salió mal, qué podríamos mejor, qué hemos aprendido y en esencia qué salió bien que deberíamos mantener en iteraciones próximas.
 
-#### ¿QUÉ ME MOTIVA? ¿QUÉ HAGO MEJOR?
+### ¿QUÉ ME MOTIVA? ¿QUÉ HAGO MEJOR?
 
 Se realiza actividad cuyo objetivo es repartir tareas acorde a las inquietudes e intereses de cada uno. 
 Creemos firmemente en que la motivación nos encausa a buen camino y por tanto si repartimos las tareas según la afinidad de cada uno las tareas van a ser realizadas de la mejor forma.
@@ -1210,14 +1095,15 @@ A continuación , se detallan las conclusiones relativas a las mejoras y los pun
 
 - [ ] Las tareas no serán repartidas al inicio del sprint. Serán autoasignadas, de esta forma buscamos que cada uno se autoorganice y así limitaremos el work in progress ( trabajo en progreso ). En este punto, uno de los objetivos planteados es disminuir el cambio de contexto derivado del manejo de diversas tareas.
 
-## ITERACIÓN 3
 <div id='Iteración3' />
 
-### Objetivo: 
+# ITERACIÓN 3
+
+## OBJETIVO: 
 
 Mejorar el prototipo sobre el feedback recibido en la iteración anterior y validar.
 
-#### Objetivos específicos:
+### Objetivos específicos:
 
 - [ ] En primer lugar, se ajustarán las pantallas que recibieron feedback negativo.
 
@@ -1227,7 +1113,7 @@ Mejorar el prototipo sobre el feedback recibido en la iteración anterior y vali
 
 - [ ] Se realizará una nueva validación con las mejoras propuestas.
 
-### SPRINT BACKLOG    
+## SPRINT BACKLOG    
                     
 [***Historias de usuario***](#user-stories)
 
@@ -1270,6 +1156,8 @@ En esta oportunidad detallamos las tareas dentro de este sprint backlog para que
 | #U15 - ajustes              | 1               |        0.2      |
 | #U15 - validación           | 0.5             |     0.1         |
 
+## MÉTRICAS
+
 | Iteración | Velocity |
 | --------- | -------- |
 | 1         |   35     |
@@ -1284,7 +1172,7 @@ Logramos mejorar la dinámica de trabajo haciendolo más fluido que en la iterac
 
 ![iteracion3-burndown.png](https://github.com/ipintos/ISA1/blob/main/imagenes/iteracion3-burndown.png)
 
-#### SPRINT REVIEW
+## SPRINT REVIEW
 
 #### Flujos del sistema ajustados
 
@@ -1320,7 +1208,7 @@ Link a video: https://www.screencast.com/t/PMu8pP9F
 
 https://github.com/ipintos/ISA1/blob/develop/Iteraci%C3%B3n%20III.md
 
-## Sprint retrospective
+### Sprint retrospective
 
 En la presente iteración el equipo se plantea el desafio de la retrospective sailboat. 
 
@@ -1328,7 +1216,7 @@ En la presente iteración el equipo se plantea el desafio de la retrospective sa
 
 ![sailboat-2](https://github.com/ipintos/ISA1/blob/develop/imagenes/sailboat-2.png)
 
-En este sentido, en primer lugar se introduce la métafora relativa a que nos encontramos en un bote, en donde tenemos los siguientes artifactos:
+En este sentido, en primer lugar se introduce la metáfora relativa a que nos encontramos en un bote, en donde tenemos los siguientes artefactos:
 
 SUN: Representa lo que al equipo lo hizo feliz.
 
@@ -1367,7 +1255,7 @@ A continuación se adjunta el resultado de la agrupación de estas ideas:
 ### RESULTADOS OBTENIDOS
 ![results](https://github.com/ipintos/ISA1/blob/develop/imagenes/results.png)
 
-## POSIBLES RIESGOS 
+### POSIBLES RIESGOS 
 ![problems](https://github.com/ipintos/ISA1/blob/develop/imagenes/problems.png)
 
 A partir de esta agrupación se concluye lo siguiente:
@@ -1390,12 +1278,190 @@ A partir de esta agrupación se concluye lo siguiente:
 Este trabajo en equipo implica el seguimiento de las reuniones, así como el compromiso individual por documentar lo restante así como subir videos a la plataforma indicada.
 Debemos realizar estas tareas con antelación en el caso de tener algún problema.
 
-- [ ] El punto anterior son tareas que tenemos claro que debemos realizar. Sin embargo, el equipo entiende que hay tareas tales como la resolución de bugs o incidentes que no puede prever. Por tanto, debemos reservarnos como mínimo tres reuniones con el objetivo de solucionar los posibles incovenientes.
+- [ ] El punto anterior son tareas que tenemos claro que debemos realizar. Sin embargo, el equipo entiende que hay tareas tales como la resolución de bugs o incidentes que no puede prever. Por tanto, debemos reservarnos como mínimo tres reuniones con el objetivo de solucionar los posibles inconvenientes.
 Por tanto, el equipo destinará el 30% de su tiempo a la resolución de bugs y el 70% del tiempo a llevar a cabo los objetivos específicos del siguiente sprint.
 
+<div id='Iteración4'/>
+
+# ITERACIÓN 4
+
+## OBJETIVO: 
+
+Realizar el informe académico y cierre del proyecto
+
+### Objetivos específicos:
+
+- [ ] Analizar y redactar los aprendizajes principales reflexionando sobre la aplicación de lo visto en el curso aplicado a la realización del proyecto.
+
+- [ ] Creación de un video-demo demostrando el flujo principal de los prototipos explicando el problema a resolver y el valor entregado con nuestro prototipo
+
+- [ ] En el marco del cierre del proyecto quedó pendiente adaptar los criterios de aceptación de las historias de usuarios al formato de escenarios de BDD.
+
+## SPRINT BACKLOG  
+                   
+
+![Iteración3-backlog.png](https://github.com/ipintos/ISA1/blob/main/imagenes/Iteración4-backlog.png)
+
+Para este sprint no se realizaron historias de usuario ya que el objetivo es la realización de la documentación.
+
+| Task                                                                     | Horas Estimadas | Horas reales |
+| ------------------------------------------------------------------------ | --------------- | ------------ |
+| #Utilizar el formato de escenarios de BDD para especificar los criterios | 2               |  4   |
+| #Armado del guion para la explicación                                    | 3               |  2   |
+| #Puesta a punto del prototipado para la Video demo                       | 2               |  2   |
+| #Creación del video demo                                                 | 10              |  16  |
+| #Redacción de las lecciones aprendidas                                   | 5               |  7   |
+| #Redacción de las conclusiones                                           | 2               |  3   |
+| #Creación del informe académico                                          | 5               |  3   |
+| #Creación del story map                                                  | 3               |  3   |
+
+## MÉTRICAS
+
+| Iteración | Velocity |
+| --------- | -------- |
+| 1         |   35     |
+| 2         | 96       |
+| 3         | 96       |
+| 4         |        |
+
+
+### BURNDOWN CHART
+En esta iteración las tareas a realizar quedaron definidas desde el comienzo, todas involucran la implementación del documento académico, adicionalmente agregamos una corrección de los sprint anteriores para la corrección del formato de los criterios de aceptación.
+
+Logramos mejorar el registro de las horas a lo largo de la iteración.
+
+![iteracion3-burndown.png](https://github.com/ipintos/ISA1/blob/main/imagenes/iteracion4-burndown.png)
+
+## SPRINT REVIEW
+
+En el sprint review se hizo una puesta a punto de las lecciones aprendidas recabadas por cada uno de los integrantes.
+
+
+## LECCIONES APRENDIDAS: 
+
+### Marco de trabajo
+- En la adaptación del marco de trabajo de SCRUM fijamos dos reuniones semanales una de 15 minutos y otra de 2 horas en sustitución de las daily, la planning, review y retrospectivas, en este sentido se perdieron algunas de las ventajas de la comunicación continua, por otro lado en un principio no quedó del todo claro el objetivo de cada reunión ya que no definimos una agenda para esas instancias, esto llevó a que la duración de las mismas fuera más de lo pactado en todos los casos. Tal vez hubiera sido mejor hacer las daily con más frecuencia y definir aparte el resto de las ceremonias.
+
+- Definimos los roles de equipo sin embargo fue dificil simularlos ya que la carga de trabajo no es la misma para cada rol y en el marco de una entrega académica fuimos construyendo entre todos las actividades del proyecto.
+
+- No logramos una buena DoD y DoR hasta el final del proyecto, creemos que esto se debió a la inexperiencia en metodologías ágiles. Siempre quedaban ambiguas las definiciones o no terminabamos de entender la utilidad final ya que nosotros teníamos la idea de lo qué queríamos construir y nos costó bajar las estas ideas a una definición concreta.
+
+- Aprendimos el valor de las reuniones semanales a las que asistimos siempre todos los integrantes del equipo. Fue bien importante fijar las ceremonias desde el inicio. Esto nos permitió de antemano saber que en ese horario debíamos dedicarnos al mini proyecto, esto ayudó a la construcción del prototipo de forma gradual.
+
+### Planificación de las iteraciones
+- Creemos que los objetivos del sprint estuvieron bien definidos desde el comienzo, si bien nos costó especificarlos correctamente en la documentación. Esto nos ayudó bastante a mitigar los problemas de la adaptación al marco de trabajo que hicimos.
+
+- Logramos exitosamente definir el sprint backlog para cada iteración, esto fue bien importante para poder ir incrementando el prototipo en forma individual durante cada semana. Definir las tareas desde el inició de las iteraciones fue uno de los elementos de SCRUM que aportó más valor al proyecto, sin este backlog probablemente hubieramos construido todo el prototipo sobre el final y no hubieramos obtenido el feedback del cliente y en consecuencia realizar el refactor que agregó bastante valor a nuestro producto.
+
+- Para las estimaciones iniciales no tuvimos en cuenta la curva de aprendizaje de la herramienta de prototipado, esto llevó a que las tareas llevaran más tiempo del estimado inicialmente para segunda iteración. 
+
+- La velocity durante el proyecto no fue pareja, por un lado porque las tareas de la primera iteración de spike no las estimamos(una de las tareas era la estimación). Luego teniendo ya definidos los story points, vimos durante la iteración 2 que no habíamos considerado la curva de aprendizaje, por eso tuvimos que sacar tareas del sprint backlog y adicionalmente dedicarle más horas de las estimadas inicialmente para llegar a la entrega que habíamos definido, está dedicación adicional en horas hace que la velocity no sea fácil de promediar, sumado a que la cantidad de sprints no es suficiente para hacer un buen promedio. Suponemos en un proyecto real la dedicación de 8 horas diaria y la continuidad en el trabajo hace que sea más constante la velocity.
+
+### Seguimiento de las iteraciones
+- El seguimiento de las iteraciones fue el mayor desafío. El registro de horas fue una de las tareas del marco de SCRUM que más nos costó, nos olvidabamos frecuentemente de registrar el trabajo realizado. Al igual que pasa en el ámbito laboral el registro de horas es una de las tareas más delegadas. Dentro del SCRUM creemos que tiene el beneficio de que el registro de horas es una herramienta más para que el equipo pueda auto organizarse.
+
+- Pudimos hacer el seguimiento de las reuniones mediante el template de la minuta que armamos, de este modo logramos tener un seguimiento del trabajo realizado.
+
+
+### Inspección y adaptación del proceso
+- Las instancias de retrospectivas fueron bastante útiles, por un lado ayudaron a reforzar el equipo de trabajo y por otro lado pudimos identificar problemas e intentar mejorarlos. Por ejemplo una de las retrospectivas identificamos la falta de organización para las daily y con eso pudimos marcar mejor el foco de cada reunión así las ceremonias empezaron a llevar menos tiempo que en un principio. Por otro lado en todas las retrospectivas identificabamos problemas con el registro de horas, esto fue mejorando progresivamente(la iteración 4 el registro fue más gradual), pero todavía se podría mejorar.
+
+
+## Conclusiones
+<div id='Conclusiones' />
+
+En primer lugar, uno de los mayores retos fue definir un marco de trabajo , así como la definición de roles. 
+Definir el marco de trabajo implicó el primer acercamiento del equipo. En esta instancia , entendimos necesario conocer los horarios de cada uno de los integrantes, es decir, en qué horario cursa cada uno y en qué horario trabaja cada integrante. Por otro lado, la conformación de un equipo que por primera vez trabajó junto fue desafiante, en tanto no conocíamos el ritmo de trabajo ni la forma en la que cada uno trabajaba.¿Cómo confomar un equipo sólido en un tiempo relativamente corto? ¿Cómo congeniar horarios? ¿Cómo conformar un equipo con personas con experiencia distinta? Y si esto resulta dificultoso con comunicación cara a cara,¿cómo lograr esto en videollamada?
+Por supuesto, no era claro.
+
+
+La definición de roles implicó intentar conocernos e intentar apegarnos a los intereses de cada uno. Esto adquirió real importancia en el transcurso de los sprints, puesto que entendimos que la motivación y el interes en determinadas tareas está en gran punto alineado a la productividad. Naturalmente, el transcurso del tiempo derivó en que cada uno adoptó ciertas responsabilidades de forma estable. Si bien no era la regla, la división de las tareas se hizo cada vez más sencillo a medida que iterabamos sobre el proceso.
+
+Conocernos, entender qué nos motiva, en qué horario trabajamos, entender las frustraciones, estrés derivó en un mayor sentimiento de grupo concluyendo en un buen resultado final relativo al proceso.
+
+En este sentido, aprendimos que la conformación de un equipo no es una tarea sencilla. Por esto, destacamos la importancia de las retrospectivas. A medida que mejoraba el proceso , mejoraba la comunicación, la velocity era mayor y la alineación del futuro producto a entregar era aún mayor.
+
+
+Aplicar las prácticas de gestión ágil en este mini proyecto ha sido muy enriquecedor, vernos expuestos al problema de modelar un producto que resultamos conocer menos de lo que creíamos demostró ser una 
+gran plataforma para llegar a ver el poder de estas herramientas y especialmente de su agilidad.
+
+Al principio del proyecto, cuando intentamos estimar y definir alcances "en frio", nos sentimos un poco sobrepasados por la cantidad de requerimientos que podíamos detectar, por el problema de no saber por donde empezar. 
+Con el correr de las iteraciones nuestros procesos fueron mejorando sensiblemente y creemos que también el output de nuestro trabajo. Acercarnos al marco de scrum y a sus distintos artefactos y ceremonias en los momentos en los que estábamos
+más perdidos fue crucial para poder llevar las riendas del proyecto y lograr conseguir entregables que nos dejaran satisfechos al final de cada iteración.
+
+El proyecto también nos expuso a una parte importante del proceso de ingeniería de software que suele ser pasado por alto y es la validación de los requerimientos con los usuarios. Ponernos en la posición de darle nuestra 
+idea al cliente y dejar que él interactúe libremente con ella es una fuente interesantísima de información que nos hace ver el producto de una manera que normalmente no lo miraríamos. Lo más importante 
+de esto es que al fin y al cabo la manera en la que el cliente vea lo que estamos haciendo es lo que más importa. Esta demostró ser una actividad valiosísima en el proyecto.
+
+En el apartado del trabajo en equipo, el número de reuniones que elegimos tener nos resultó adecuado. Logramos mantener una comunicación fluida y un buen seguimiento del avance sin llegar a interferir 
+con otras materias ni obligaciones de los miembros del equipo. También trabajamos mucho con actividades durante las retrospectivas para poder dar nuestros puntos de vista y compartir como nos sentimos 
+con el trabajo durante las iteraciones.
+
+Un aprendizaje que encontramos muy interesante fue ver la utilidad de llevar un registro actualizado del trabajo para en base a esto medir el avance del proyecto. Los miembros del equipo hemos trabajado 
+en lugares donde se nos solicita el registro de horas por ejemplo, y esto muchas veces es algo que se ve como innecesario por parte de los programadores o técnicos. Ver las cosas desde otra óptica nos 
+abrió los ojos sobre la importancia de llevar los registros y de la cantidad de información que podemos estar aportando al equipo y la organización.
+
+
+Como conclusión final, creemos que el aprendizaje más importante que nos llevamos es ver el marco de SCRUM en acción, hay muchas cosas que en el teórico parecen sencillas o por el contrario inaplicables, 
+pero poder trabajar en un proyecto como este donde los requerimientos y el entendimiento del problema cambiaron tanto nos permitió ver el verdadero valor de la agilidad, ver que todas esas actividades y 
+ceremonias tienen un sentido y que en determinados momentos del ciclo de vida del proyecto nos pueden ser de mucha utilidad.
+
+<div id='Herramientas' />
+
+## Sprint retrospective
+
+La finalidad de la retrospectiva radicaba en primer lugar medir el crecimiento personal de cada uno de los integrantes del equipo y luego medir el crecimiento a nivel grupal.
+El foco de la presente retrospectiva es debido a que esto es el cierre del proyecto.
+En primer lugar, se plantea una dinámica cuyo objetivo es repasar los objetivos y entender posibles desvíos en el proyecto.
+
+
+![sprint-retrospective4-02](https://github.com/ipintos/ISA1/blob/develop/imagenes/sprint-retrospective4-02.png)
+
+![sprint-retrospective4-03](https://github.com/ipintos/ISA1/blob/develop/imagenes/sprint-retrospective4-03.png)
+
+#### Crecimiento individual
+
+![retrospective-sprint4-1](https://github.com/ipintos/ISA1/blob/develop/imagenes/retrospective-sprint4-1.png)
+
+
+![ismael-retro-4](https://github.com/ipintos/ISA1/blob/develop/imagenes/ismael-retro-4.png)
+
+![noelia-retro-4](https://github.com/ipintos/ISA1/blob/develop/imagenes/noelia-retro-4.png)
+
+![iara-retro-4](https://github.com/ipintos/ISA1/blob/develop/imagenes/iara-retro-4.png)
+
+![hernan-retro-4](https://github.com/ipintos/ISA1/blob/develop/imagenes/hernan-retro-4.png)
+
+### Crecimiento del equipo 
+
+![team-growth-6](https://github.com/ipintos/ISA1/blob/develop/imagenes/team-growth-6.png)
+
+![team-growth-1](https://github.com/ipintos/ISA1/blob/develop/imagenes/team-growth-1.png)
+
+![team-growth-2](https://github.com/ipintos/ISA1/blob/develop/imagenes/team-growth-2.png)
+
+![team-growth-3](https://github.com/ipintos/ISA1/blob/develop/imagenes/team-growth-3.png)
+
+![team-growth-4](https://github.com/ipintos/ISA1/blob/develop/imagenes/team-growth-4.png)
+
+![team-growth-5](https://github.com/ipintos/ISA1/blob/develop/imagenes/team-growth-5.png)
+
+![team-growth-7](https://github.com/ipintos/ISA1/blob/develop/imagenes/team-growth-7.png)
+
+
+A partir de este ejercicio se concluye lo siguiente:
+
+ 
+ Logramos llegar con los requerimientos que nos habiamos propuesto para la entrega.
+ 
+ Creemos que realizamos un buen video de calidad, donde definimos la problematica a resolver de forma impactante, mostrando tanto el problema como la solución.
+ 
+ Nos llevamos una experiencia muy positiva de trabajo y en lineas generales estamos muy conformes con el producto logrado.
+ 
+ 
+ En definitiva, estamos entusiasmados con las nuevas herramientas adquiridas y esperamos aplicarlas profesional y academicamente.
 
 ## Herramientas utilizadas durante las iteraciones
-<div id='Herramientas' />
 
  - Grabación y publicación de videos TechSmith Screencast. https://www.screencast.com/ 
 
