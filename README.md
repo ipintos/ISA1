@@ -1333,11 +1333,19 @@ ceremonias tienen un sentido y que en determinados momentos del ciclo de vida de
 
 ## Sprint retrospective
 
-![retrospective-sprint4-1](https://github.com/ipintos/ISA1/blob/main/imagenes/retrospective-sprint4-1.png)
+La finalidad de la retrospectiva radicaba en primer lugar medir el crecimiento personal de cada uno de los integrantes del equipo y luego medir el crecimiento a nivel grupal.
+El foco de la presente retrospectiva es debido a que esto es el cierre del proyecto.
+En primer lugar, se plantea una dinámica cuyo objetivo es repasar los objetivos y entender posibles desvíos en el proyecto.
 
-![sprint-retrospective4-02](https://github.com/ipintos/ISA1/blob/main/imagenes/sprint-retrospective4-02.png)
 
-![sprint-retrospective4-03](https://github.com/ipintos/ISA1/blob/main/imagenes/sprint-retrospective4-03.png)
+![sprint-retrospective4-02](https://github.com/ipintos/ISA1/blob/develop/imagenes/sprint-retrospective4-02.png)
+
+![sprint-retrospective4-03](https://github.com/ipintos/ISA1/blob/develop/imagenes/sprint-retrospective4-03.png)
+
+#### Crecimiento individual
+
+![retrospective-sprint4-1](https://github.com/ipintos/ISA1/blob/develop/imagenes/retrospective-sprint4-1.png)
+
 
 ![ismael-retro-4](https://github.com/ipintos/ISA1/blob/develop/imagenes/ismael-retro-4.png)
 
@@ -1346,6 +1354,23 @@ ceremonias tienen un sentido y que en determinados momentos del ciclo de vida de
 ![iara-retro-4](https://github.com/ipintos/ISA1/blob/develop/imagenes/iara-retro-4.png)
 
 ![hernan-retro-4](https://github.com/ipintos/ISA1/blob/develop/imagenes/hernan-retro-4.png)
+
+### Crecimiento del equipo 
+
+![team-growth-6](https://github.com/ipintos/ISA1/blob/develop/imagenes/team-growth-6.png)
+
+![team-growth-1](https://github.com/ipintos/ISA1/blob/develop/imagenes/team-growth-1.png)
+
+![team-growth-2](https://github.com/ipintos/ISA1/blob/develop/imagenes/team-growth-2.png)
+
+![team-growth-3](https://github.com/ipintos/ISA1/blob/develop/imagenes/team-growth-3.png)
+
+![team-growth-4](https://github.com/ipintos/ISA1/blob/develop/imagenes/team-growth-4.png)
+
+![team-growth-5](https://github.com/ipintos/ISA1/blob/develop/imagenes/team-growth-5.png)
+
+![team-growth-7](https://github.com/ipintos/ISA1/blob/develop/imagenes/team-growth-7.png)
+
 
 ## Herramientas utilizadas durante las iteraciones
 
