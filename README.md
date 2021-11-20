@@ -126,6 +126,16 @@ Se agrega el product backlog como generalidad del proyecto para diferenciarlo ta
 
 ![product-backlog](https://github.com/ipintos/ISA1/blob/develop/imagenes/product-backlog.png)
 
+A continuación se adjunta evidencia a modo de pipeline de la utilización de SCRUM en proyecto que nos convoca:
+
+![pipeline-1](https://github.com/ipintos/ISA1/blob/develop/imagenes/pipeline-1.png)
+
+
+![pipeline-2](https://github.com/ipintos/ISA1/blob/develop/imagenes/pipelin-2.png)
+
+
+![pipeline-3](https://github.com/ipintos/ISA1/blob/develop/imagenes/pipeline-3.png)
+
 <div id='Iteración1' />
 
 # ITERACIÓN 1
