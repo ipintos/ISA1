@@ -1322,7 +1322,7 @@ Para este sprint no se realizaron historias de usuario ya que el objetivo es la 
 | 1         |   35     |
 | 2         | 96       |
 | 3         | 96       |
-| 4         |        |
+| 4         | 59       |
 
 
 ### BURNDOWN CHART
