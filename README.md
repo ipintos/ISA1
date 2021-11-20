@@ -485,6 +485,9 @@ El usuario ingresa al sistema, y si está habilitado se le permite registrarse p
 vacunatorios cercanos en un mapa, cuando se registra recibe una confirmación.
 
 #### Criterios de aceptación:
+Dado un usuario registrado, cuando hace una reserva entonces se le muestran los vacunatorios cercanos y horarios disponibles.
+
+Descripción:
 
 El tiempo desde que selecciono un horario y recibo la confirmación no debe exceder los 5 segundos.
 
@@ -510,7 +513,9 @@ Para poder conocer el estado de situación actual.
 El usuario debe disponer de una sección en la aplicación donde se muestran las gráficas de interés, estas incluyen: Casos por dia, total de vacunados, fallecidos por día, tests por día. Marcando por colores la densidad de casos activos por departamento.
 
 #### Criterios de aceptación:
+Dado un usuario cuando ingresa a la sección de gráficos entonces se le muestran las gráficas de casos por día, total de vacunados, fallecidos y test realizados.
 
+Descripción:
 Los datos que se muestran son a nivel de toda la población y no se muestra dato personal alguno.
 
 Las gráficas deben cargar en menos de 10 segundos.
@@ -536,6 +541,9 @@ El usuario tiene que poder resolver sus dudas en cuanto a la enfermedad con el m
 
 
 #### Criterios de aceptación:
+Dado un usuario cuando ingresa a la sección de información entonces se le muestran los síntomas asociados al covid.
+
+Descripción:
 
 Una muestra de 5 personas seleccionadas al azar debe ser capaz de llegar a una respuesta sin recibir ayuda externa en menos de 2 minutos.
 
@@ -561,6 +569,9 @@ La aplicación debe tener la capacidad de detectar si el dispositivo del usuario
 En caso de que se de la situación, tiene que enviar una notificación al usuario y proveerle pasos a seguir.
 
 #### Criterios de aceptación:
+Dado un usuario registrado que estuvo expuesto al virus cuando la aplicación tiene conexión a internet entonces recibe una alerta de exposición al virus.
+
+Descripción:
 
 La funcionalidad tiene que funcionar en dispositivos android y iOS equipados con bluetooth v4.0 o superior.
 
@@ -583,6 +594,9 @@ El usuario tiene que poder conseguir las credenciales para ingresar al sistema. 
 
 
 #### Criterios de aceptación:
+Dado un usuario no registrado cuando ingresa a la aplicación mobile entonces puede registrarse en el sistema ingresando contraseña o huella dactilar.
+
+Descripción:
 
 Debe especificarse una manera de obtener el usuario y contraseña.
 
@@ -600,7 +614,9 @@ Quiero registrarme en el sistema
 Para poder hacer una reserva para vacunación.
   
 #### Criterios de aceptación:
- 
+Dado un usuario no registrado cuando ingresa a la aplicación entonces puede registrarse en el sistema.
+
+Descripción:
 Debe funcionar para iOS y Android. El usuario debe quedar registrado en la base de datos.
 
 #### story points: 5
@@ -618,7 +634,10 @@ Para poder hacer una reserva para vacunación.
 Los turistas deben poder registrarse para crear una solicitud para agenda de vacunación.
 
 #### Criterios de aceptación:
+
+Dado un usuario no registrado sin cédula de identidad cuando ingresa a la aplicación entonces puede registrarse en el sistema.
  
+Descripción:
 Los usuarios con pasaporte deben quedar registrados en la base de datos.
 
 #### story points: 3
@@ -636,7 +655,11 @@ Para no olvidar la fecha en la que debo concurrir.
 Los usuarios deben poder consultar las fechas de sus reservas, y configurar si quieren recibir alertas sobre las próximas citas, mediante notificaciones push.
  
 #### Criterios de aceptación:
+
+Dado un usuario con reserva para vacunación cuando ingresa a la pestaña de consultas de reservas entonces puede ver las reservas realizadas.
+Dado un usuario con reserva para vacunación en menos de 48 h. desde la fecha actual cuando la aplicación esté ejecutandose entonces puede recibir alerta de que se acerca la fecha de agenda.
  
+Descripción:
 Debe funcionar en android e iOS
 
 #### story points: 8 
@@ -654,7 +677,10 @@ Para presentarlo en mi mutualista.
 Los usuarios deben poder generar un comprobante digital de código QR que pueda ser escaneado desde la aplicación y también deben tener la posibilidad de imprimirlo. Para realizar esta acción la pauta de vacunación debe estar completa y cumplido el plazo establecido de 15 días desde la última dosis.
  
 #### Criterios de aceptación:
- 
+
+Dado un usuario que concurrió a vacunarse cuando ingresa a generar comprobante entonces puede ver o descargar el código QR.
+
+Descripción:
 El código QR debe poder ser leído y mostrar que la pauta de vacunación está completa sin revelar datos personales. 
  
 #### story points: 3
@@ -672,7 +698,10 @@ Porque no puedo concurrir el día pactado.
 Los usuarios deben poder cancelar reservas en un plazo mayor a 24h. antes de la fecha agendada.
  
 #### Criterios de aceptación:
- 
+
+Dado un usuario que tiene una reserva para vacunación dentro de más de 24 h. cuando ingresa a la aplicación entonces puede cancelar su reserva.
+
+Descripción: 
 La cita cancelada debe quedar disponible para ser reservada por otro usuario en el momento de confirmación de la cancelación.
 
 #### story points: 3
@@ -691,6 +720,10 @@ Los usuarios deben poder modificar la fecha de su reserva en un plazo mayor a 24
  
 #### Criterios de aceptación:
  
+Dado un usuario que tiene una reserva para vacunación dentro de más de 24 h. cuando ingresa a la aplicación entonces puede modificar la fecha de su reserva.
+Dado un usuario que modificó su fecha de agenda para vacunación cuando modifica la reserva entonces queda agendado para todas sus dosis con el plazo estipulado de 15 días entre las reservas.
+
+Descripción: 
 La o las citas canceladas, debe quedar disponible para ser reservadas por otro usuario en el momento de confirmación de la cancelación.
 
 #### story points: 5 
@@ -709,6 +742,10 @@ Los usuarios registrados deben poder alertar que están cursando la enfermedad y
  
 #### Criterios de aceptación:
  
+Dado un usuario que quiere alertar que tiene covid cuando ingresa a la aplicación entonces puede generar una alerta.
+Dado un usuario que estuvo en contacto con otro usuario que envió una alerta cuando ingresa a la aplicación entonces debe recibir una alerta de que estuvo expuesto al virus.
+
+Descripción:
 La aplicación debe enviar notificaciones push a los usuarios que fueron contacto.
 
 #### story points: 5
@@ -728,7 +765,10 @@ Los usuarios registrados y los no registrados deben poder acceder a información
 Esta funcionalidad puede implementarse como FAQ.
  
 #### Criterios de aceptación:
+
+Dado un usuario cuando ingresa a la pestaña de FAQ entonces puede ver los síntomas actualizados de la enfermedad.
  
+Descripción:
 La información debe ser legible desde el dispositivo móvil.
  
 #### story points: 3
@@ -746,7 +786,9 @@ Para recuperarme de algún problema en la aplicación.
 Los usuarios registrados deben poder acceder a las preguntas frecuentes y solicitar ayuda en línea desde la aplicación. Se deberá mostrar un chat y la aplicación proveerá un chatbot para estos casos.
  
 #### Criterios de aceptación:
+Dado un usuario cuando ingresa a la pestaña de ayuda entonces puede consultar las preguntas frecuentes sobre la aplicación.
  
+Descripción:
 La aplicación muestra las FAQ y permite chatear para enviar consultas.
 
 #### story points: 8
@@ -764,7 +806,9 @@ Para poder solicitar agenda para la vacuna en forma prioritaria.
 Los usuarios registrados que pertenezcan a un grupo prioritario deben poder ser identificados por la aplicación mediante servicios del BPS, en caso de que no estén como tal, deben poder reclamar esta situación desde la aplicación.
  
 #### Criterios de aceptación:
+Dado un usuario prioritario registrado en BPS como tal cuando ingresa al sistema entonces puede agendarse para la vacunación en forma prioritaria.
  
+Descripción:
 Los usuarios deben ser tratados como prioritarios en caso que así estén registrados en el BPS.
 
 #### story points: 8
