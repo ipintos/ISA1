@@ -1372,6 +1372,18 @@ En primer lugar, se plantea una dinámica cuyo objetivo es repasar los objetivos
 ![team-growth-7](https://github.com/ipintos/ISA1/blob/develop/imagenes/team-growth-7.png)
 
 
+A partir de este ejercicio se concluye lo siguiente:
+
+ 
+ Logramos llegar con los requerimientos que nos habiamos propuesto para la entrega.
+ 
+ Creemos que realizamos un buen video de calidad, donde definimos la problematica a resolver de forma impactante, mostrando tanto el problema como la solución.
+ 
+ Nos llevamos una experiencia muy positiva de trabajo y en lineas generales estamos muy conformes con el producto logrado.
+ 
+ 
+ En definitiva, estamos entusiasmados con las nuevas herramientas adquiridas y esperamos aplicarlas profesional y academicamente.
+
 ## Herramientas utilizadas durante las iteraciones
 
  - Grabación y publicación de videos TechSmith Screencast. https://www.screencast.com/ 
